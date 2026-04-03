@@ -1,5 +1,5 @@
 import { useLanguage } from "../context/LanguageContext";
-import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.png";
+import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.jpg";
 
 export function DiningSection() {
   const { t } = useLanguage();

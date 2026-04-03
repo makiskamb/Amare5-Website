@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import { useLanguage } from "../context/LanguageContext";
-import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.png";
-import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.png";
+import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.jpg";
+import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.jpg";
 
 export function AboutSection() {
   const { t } = useLanguage();
@@ -38,6 +38,7 @@ export function AboutSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center mb-20">
           <div>
             <img
+              loading="lazy"
               src={aerialView}
               alt="Amare5 boutique villas complex aerial view"
               className="w-full h-[300px] md:h-[450px] object-cover"
@@ -86,6 +87,7 @@ export function AboutSection() {
         {/* Full width beachfront image */}
         <div className="relative">
           <img
+            loading="lazy"
             src={beachfrontView}
             alt="Amare5 beachfront view with cabanas and stone villas"
             className="w-full h-[250px] md:h-[400px] object-cover"

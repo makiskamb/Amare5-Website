@@ -1,11 +1,11 @@
 import { useState } from "react";
 import { useLanguage } from "../context/LanguageContext";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.png";
-import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.png";
-import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.png";
-import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.png";
-import diningArea from "../../assets/2717ed628ed4f4d73050575531c0e1a3eac316c6.png";
+import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.jpg";
+import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.jpg";
+import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.jpg";
+import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.jpg";
+import diningArea from "../../assets/2717ed628ed4f4d73050575531c0e1a3eac316c6.jpg";
 
 const slideImages = [aerialView, beachfrontView, firePitLounge, poolArea, diningArea];
 

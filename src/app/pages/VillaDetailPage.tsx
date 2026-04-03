@@ -1,10 +1,10 @@
 import { useParams, Link } from "react-router";
 import { useLanguage } from "../context/LanguageContext";
 import { PageHero } from "../components/PageHero";
-import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.png";
-import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.png";
-import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.png";
-import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.png";
+import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.jpg";
+import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.jpg";
+import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.jpg";
+import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.jpg";
 
 const villaImages: Record<string, string[]> = {
   thalassa: [beachfrontView, poolArea],
@@ -171,6 +171,7 @@ export function VillaDetailPage() {
             <div className="space-y-4">
               <div className="overflow-hidden">
                 <img
+                  loading="lazy"
                   src={images[0]}
                   alt={villa.name}
                   className="w-full h-[380px] md:h-[460px] object-cover hover:scale-105 transition-transform duration-700"
@@ -178,6 +179,7 @@ export function VillaDetailPage() {
               </div>
               <div className="overflow-hidden">
                 <img
+                  loading="lazy"
                   src={images[1]}
                   alt={villa.name + " view"}
                   className="w-full h-[240px] object-cover hover:scale-105 transition-transform duration-700"

@@ -1,8 +1,8 @@
 import { useLanguage } from "../context/LanguageContext";
 import { PageHero } from "../components/PageHero";
-import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.png";
-import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.png";
-import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.png";
+import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.jpg";
+import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.jpg";
+import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.jpg";
 
 const sectionImages = [beachfrontView, firePitLounge, poolArea];
 

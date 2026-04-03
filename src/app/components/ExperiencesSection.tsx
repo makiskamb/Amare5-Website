@@ -1,6 +1,6 @@
 import { useLanguage } from "../context/LanguageContext";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.png";
+import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.jpg";
 import { Sun, Waves, Leaf, Wine } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
@@ -88,6 +88,7 @@ export function ExperiencesSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="relative overflow-hidden">
             <img
+              loading="lazy"
               src={poolArea}
               alt="Private infinity pools at Amare5"
               className="w-full h-[300px] md:h-[400px] object-cover"

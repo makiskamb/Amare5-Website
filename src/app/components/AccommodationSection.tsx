@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { useLanguage } from "../context/LanguageContext";
-import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.png";
+import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.jpg";
 
 const villaKeys = ["thalassa", "petra", "elia", "helios", "selene"] as const;
 
@@ -94,6 +94,7 @@ export function AccommodationSection() {
 
           <div>
             <img
+              loading="lazy"
               src={beachfrontView}
               alt="Beachfront villas with cabanas and stone architecture"
               className="w-full h-[350px] md:h-[500px] object-cover"

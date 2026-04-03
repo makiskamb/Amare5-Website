@@ -1,6 +1,6 @@
 import { useLanguage } from "../context/LanguageContext";
-import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.png";
-import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.png";
+import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.jpg";
+import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.jpg";
 
 export function ArchitectureSection() {
   const { t } = useLanguage();
@@ -54,6 +54,7 @@ export function ArchitectureSection() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="md:col-span-2">
             <img
+              loading="lazy"
               src={firePitLounge}
               alt="Amare5 sunken fire pit lounge with stone walls and pergolas"
               className="w-full h-[300px] md:h-[500px] object-cover"
@@ -61,6 +62,7 @@ export function ArchitectureSection() {
           </div>
           <div className="flex flex-col gap-4">
             <img
+              loading="lazy"
               src={aerialView}
               alt="Amare5 villas aerial view showing cascading architecture"
               className="w-full h-[148px] md:h-[244px] object-cover"

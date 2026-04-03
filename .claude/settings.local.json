@@ -3,7 +3,11 @@
     "allow": [
       "mcp__Claude_Preview__preview_start",
       "Bash(npm run:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(taskkill //F //IM git.exe)",
+      "Bash(taskkill //F //IM GitHubDesktop.exe)",
+      "Bash(rm -f \"/c/Users/maxfo/Desktop/Amare5 Website/.git/index.lock\")",
+      "Bash(cmd.exe /c \"del /f \"\"C:\\\\Users\\\\maxfo\\\\Desktop\\\\Amare5 Website\\\\.git\\\\index.lock\"\"\")"
     ]
   }
 }
