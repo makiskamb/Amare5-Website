@@ -1,0 +1,1880 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vathi Cove Luxury Thassos Hotel (Adults Friendly 14+) | Exclusive Beachfront Thassos Suites</title>
+<meta name="description" content="Discover Vathi Cove, a luxury resort in Thassos nestled on a pristine beach surrounded by nature. Experience re-invented luxury and create your own paradise story.">
+<meta property="og:title" content="Vathi Cove Luxury Thassos Hotel (Adults Friendly 14+) | Exclusive Beachfront Thassos Suites">
+<meta property="og:description" content="Discover Vathi Cove, a luxury resort in Thassos nestled on a pristine beach surrounded by nature. Experience re-invented luxury and create your own paradise story.">
+<meta property="og:url" content="https://www.vathicove.gr/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.vathicove.gr/uploads/nr_photos/1920/home-page_4404.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="930">
+<meta property="og:image" content="https://www.vathicove.gr/uploads/nr_photos/1920/home-page_9924.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="930">
+<meta property="og:image" content="https://www.vathicove.gr/uploads/nr_photos/1920/home-page_1752.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="930">
+<meta property="og:image" content="https://www.vathicove.gr/uploads/nr_photos/1920/home-page_6632.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="930">
+<meta property="og:image" content="https://www.vathicove.gr/uploads/nr_photos/1920/home-page_6747.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="930">
+<meta property="og:image" content="https://www.vathicove.gr/uploads/nr_photos/1920/home-page_9334.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="930">
+<link rel="canonical" href="https://www.vathicove.gr/">
+<link href="https://fonts.googleapis.com/css2?family=Actor:wght@400&family=Nanum+Myeongjo:wght@400;700&family=Catamaran:wght@400;500&display=swap" rel="stylesheet">
+<style>:root{--default_font:'Actor',sans-serif;--secondary_font:'Nanum Myeongjo',serif;--third_font:'Catamaran',sans-serif;}</style><meta name="robots" content="all">
+<style type="text/css"> 
+:root {
+  --textDefault: #000000;
+  --textDefaultMob: #000000;
+  --bgDefault: #;
+  --bgDefaultMob: #;
+  --globalC1: #000000;
+  --globalC2: #3f504d;
+  --globalC3: #ffffff;
+  --globalC4: #757575;
+  --globalC5: #2a2a2a;
+  --globalBG1: #000000;
+  --globalBG2: #e8e8e8;
+  --globalBG3: #ffffff;
+  --globalBG4: #748b87;
+  --globalBG5: #b2a891;
+}
+body { padding:0; margin: 0; overflow-x:hidden;	 }
+input,button,textarea,select{font-family:inherit;}
+html,body{font-family:'Actor',sans-serif; font-size:16px; line-height:28px; font-weight:400; color:#000000;}#mainContainer { width:; margin:; padding:; height:auto;	text-align:left; margin:auto;	position:relative; } 
+
+#LayerRow1 {display:block;position:relative;} #LayerRow1 #LR1_C1 {display:block;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+#LayerRow2 {display:block;position:relative;} #LayerRow2 #LR2_C1 {display:block;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+#LayerRow3 {display:block;position:relative;} #LayerRow3 #LR3_C1 {display:block;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }
+</style><link rel="stylesheet" type="text/css" href="/min/b=css&f=styles_global.css,styles.css,links.css&1800?v=bgqt">
+<style>
+.menu_icon{ width: 30px; height: 40px; display: table; position: relative; margin:10px 0px; -webkit-tap-highlight-color: rgba(0,0,0,0); }
+.menu_icon>span{ display: block;	position: absolute; height: 4px; width: 100%; background: #fff; border-radius: 0px;	opacity: 1;	left: 0; transform: rotate(0deg) translate(0%,-50%); -webkit-transition:all 200ms ease-in-out; -moz-transition:all 200ms ease-in-out; -o-transition:all 200ms ease-in-out; transition:all 200ms ease-in-out; }
+#nav{ position:relative; z-index:9; }
+#nav>ul {list-style:none; margin:0; padding:0;margin-top:2px;}
+#nav > a {display:none;}
+#nav li {position:relative; margin:0; padding:0; display: inline-block; text-align: center;background:rgba(255,255,255,0.7);list-style-type:none;}
+#nav li a{ display: block; cursor:pointer;-webkit-tap-highlight-color: rgba(0,0,0,0);box-sizing: border-box; -webkit-transition:all 300ms cubic-bezier(0,.5,3,1);	-moz-transition:all 300ms cubic-bezier(0,.5,.3,1);	-o-transition:all 300ms cubic-bezier(0,.5,.3,1); transition:all 300ms cubic-bezier(0,.5,.3,1); }
+
+/* second level */
+#nav li ul{	position: absolute; padding:0; display: none; overflow: hidden; z-index: 1; width: 100%; }
+#nav li:hover ul{	/*display:block; show with jquery*/	left: 0;	right: 0; }
+#nav li ul li{display: block;}
+#nav li ul li a{ display: block;-webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-transition:all 300ms cubic-bezier(0,.5,3,1);	-moz-transition:all 300ms cubic-bezier(0,.5,.3,1);	-o-transition:all 300ms cubic-bezier(0,.5,.3,1); transition:all 300ms cubic-bezier(0,.5,.3,1); }
+.clearfix::after{	content: ''; display: table; clear: both; }
+#nav{position:initial;}
+#nav:not( :target ) > a:first-of-type, #nav:target > a:last-of-type{	display: block; }
+/* first level */
+#nav > ul{ display: none; position: absolute; z-index:99999999999; left: 0; right: 0; }
+#nav:target > ul, #nav > ul > li{display: block;}
+/* second level */
+#nav li ul{position: static;} 
+.menu_icon > span:nth-child(1){ top:25%; width:50%; }
+.menu_icon > span:nth-child(2){ top:50%;width:100%;}
+.menu_icon > span:nth-child(3){ top:50%;width:100%;}
+.menu_icon > span:nth-child(4){ top:75%; width:50%; left:50%;}
+.menu_icon.open span:nth-child(1), .menu_icon.open span:nth-child(4){ width:0px;	left: 50%; opacity: 0; }
+.menu_icon.open span:nth-child(2){ transform: rotate(45deg); background: #000;}
+.menu_icon.open span:nth-child(3){ transform: rotate(-45deg); background: #000;}
+.menu_icon{	display:none; }
+#nav>ul, #nav:target > ul{	display:none; }  
+
+@media(max-width:680px){
+
+    .menu_icon{margin:10px auto;}
+    .menu_icon>span{ display: block;	position: absolute; height: 4px;	width: 100%; background: #fff; border-radius: 0px;	opacity: 1;	left: 0;	transform: rotate(0deg) translate(0%,-50%); -webkit-transition:all 200ms ease-in-out; -moz-transition:all 200ms ease-in-out; -o-transition:all 200ms ease-in-out; transition:all 200ms ease-in-out; }
+}
+</style>
+
+
+
+<link rel="icon" type="image/png" href="/elements/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/svg+xml" href="/elements/favicon/favicon.svg">
+<link rel="shortcut icon" href="/elements/favicon/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/elements/favicon/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="Vathi Cove">
+<link rel="manifest" href="/elements/favicon/site.webmanifest">
+<link rel="preload" href="/elements/icons/fonts/Font-Awesome.ttf" as="font" crossorigin="anonymous">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WNNPL44K');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript" src="/library/javascripts/jquery/jquery.2.2.2.js"></script><script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.0/dist/js/splide.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.0/dist/css/splide.min.css"><script type="text/javascript" src="/library/javascripts/lazyload/lazysizes.min.js"></script>
+<link type="text/css" rel="stylesheet" href="/min/f=/elements/icons/style.css,library/photos/fancybox3/dist/jquery.fancybox.min.css,css/inline.css&1800">
+<script type="text/javascript" src="/min/f=library/photos/fancybox3/dist/jquery.fancybox.min.js,js/inline.js&1800" defer></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNNPL44K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="container">
+<div id="mainContainer"><div id="LayerRow1">
+<div class="nav">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridTopPage">
+<div class="gridMenu">
+<div>
+    <nav id="nav">
+        <a href="#" onclick="return false;" id="toggle" title="Show navigation" class="menu_icon toggle-button">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </a>
+    </nav>
+</div>
+<div id="overlay" class="menu overlay">
+    <div class="menu__inner">
+        <div class="menuTextCont">
+            <ul class="clearfix menu_ul topmenu" id="toggle_menu"><li class="columnStyle"><a href="/thassos-accommodation/" class="rootMenu"><span class="rootMenuSpan"><span>ACCOMMODATION</span></span></a><div class="menuImgBG">
+<div class="img" style="background-image:url(&quot;/uploads/images/1920/1173_R2988.jpg?v=202501161621&quot;); width: 100%; height: 100%; background-position: center; background-size: cover;"></div></div>
+</li><li class="columnStyle"><a href="/thasos-restaurants-bars/" class="rootMenu"><span class="rootMenuSpan"><span>RESTAURANTS &amp; BARS</span></span></a><div class="menuImgBG">
+<div class="img" style="background-image:url(&quot;/uploads/images/1920/1174_R9738.jpg?v=202501161621&quot;); width: 100%; height: 100%; background-position: center; background-size: cover;"></div></div>
+</li><li class="columnStyle"><a href="/well-being/" class="rootMenu"><span class="rootMenuSpan"><span>WELL-BEING</span></span></a><div class="menuImgBG">
+<div class="img" style="background-image:url(&quot;/uploads/images/1920/1124_R9449.jpg?v=202501161621&quot;); width: 100%; height: 100%; background-position: center; background-size: cover;"></div></div>
+</li><li class="columnStyle"><a href="/beach-pool/" class="rootMenu"><span class="rootMenuSpan"><span>BEACH &amp; POOL</span></span></a><div class="menuImgBG">
+<div class="img" style="background-image:url(&quot;/uploads/images/1920/1175_R7194.jpg?v=202501161621&quot;); width: 100%; height: 100%; background-position: center; background-size: cover;"></div></div>
+</li><li class="columnStyle last"><div class="csGrid"><div class="center" style="line-height:0;">
+<a href="/" class="logo" aria-label="Logo"><img src="/uploads/images/vathi_cove_1068_R9965_logo.png" width="auto" height="auto" title="" alt=""></a></div></div><div class="csGrid flexVertMenu"><a href="/" class="sideMenu sideMenuSel">HOME</a><a href="/asterias-shop/" class="sideMenu">ASTERIAS SHOP</a><a href="/special-occasion/" class="sideMenu">SPECIAL OCCASION</a><a href="/concierge/" class="sideMenu">CONCIERGE</a><a href="/thasos-location/" class="sideMenu">LOCATION</a><a href="/explore-thassos/" class="sideMenu">EXPLORE THASSOS</a><a href="/gallery/" class="sideMenu">GALLERY</a><a href="/contact/" class="sideMenu">CONTACT</a><div style="clear:both;"></div>    <div style="clear:both;"></div></div><div class="csGrid tableAuto"><div class="followUs">Follow Us</div><div class="center flexBoxSocial">
+
+                <a href="https://www.facebook.com/vathicovethassos/" target="_blank" rel="noopener" class="social" data-wow-delay="0.3">
+                                    <i class="fas fab fa-facebook-f" width="100%" height="100%" title="Follow us on Facebook" alt="Follow us on Facebook"></i>
+                            </a>
+                        <a href="https://www.instagram.com/vathicovethassos/" target="_blank" rel="noopener" class="social" data-wow-delay="0.6">
+                                    <i class="fas fab fa-instagram" width="100%" height="100%" title="Follow us on instagram" alt="Follow us on instagram"></i>
+                            </a>
+                <div style="clear:both;"></div>
+</div></div></li></ul>            <!--<div class="menuLine"></div>-->
+            <!--<div class="top5"></div>-->
+                
+        </div>
+    </div>
+</div>  
+
+<script>
+    $('#toggle').click(function() {
+       $(this).toggleClass('open');
+       $("#nav").toggleClass("open");
+       $('#overlay').toggleClass('open');
+       $('.nav').toggleClass('openMenu');
+       $('.columnStyle').toggleClass('open');
+    });
+    $('#overlay').click(function(){$('#toggle').click()})
+</script>
+<style>
+.menu.overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    background: rgba(255,255,255,1);
+    top: 0;
+    left: 0;
+    width: 100%;
+    /*width:0%;*/
+    height: 100%;
+    opacity: 0;
+    visibility: hidden;
+    /*transform:translateX(-100%);*/
+    -webkit-transition: opacity .35s,visibility .35s;
+    transition: opacity .35s,visibility .35s;
+    overflow: hidden;
+    /*transition:all 0.6s;*/
+    z-index: 62;
+
+}
+.menu.overlay.open {
+    opacity: 1;
+    visibility: visible;
+    /*width:100%;*/
+    /*transform:translateX(0%);*/
+    /*height: 100%;*/
+    /*transition:all 0.6s;*/
+    -webkit-transition: opacity .35s,visibility .35s;
+    transition: opacity .35s,visibility .35s;
+}
+
+.nav.openMenu{
+    background:transparent;
+    position:fixed;
+    z-index:65;
+    /*padding:0 10px;*/
+    /*transition:all 0.6s;*/
+    /*width:100%;*/
+}
+
+.nav.openMenu .menu_icon{
+    margin-right:30px;
+    margin-bottom:10px;
+    z-index:999;
+}
+
+.menu__inner {
+    /*width: calc(100% - 60px);
+    height: calc(100% - 180px);*/
+    /*top: 120px;*/
+    height:100%;
+    width:100%;
+    /*overflow: hidden;*/
+    overflow-y: hidden;
+    /*left: 30px;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 2;
+}
+
+.menu__inner:after {
+    /*content: "";*/
+    transform-origin: left;
+    transition: all .6s;
+    /*transform: scaleX(0);*/
+    position: absolute;
+    z-index: 1;
+    width: calc(100% - 60px);
+    height: calc(100% - 60px);
+    left: 30px;
+    top: 30px;
+    background-color: rgba(0,0,0,.85);
+}
+.menuTextCont {
+    text-align: center;
+    /*margin-top: 8vh;*/
+    width:100%;
+}
+
+.menuTextCont ul{
+    list-style-type:none;
+    padding-inline-start:0;
+}
+
+.menu_ul{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+    align-items:center;
+    column-gap:3px;
+}
+
+.columnStyle{
+    background: rgb(217 217 217 / 50%);
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    transform:translateX(-101%);
+    transition:all 1000ms cubic-bezier(0.19,1,0.22,1),opacity 700ms cubic-bezier(0.19,1,0.22,1);
+    opacity:0;
+    width:0;
+    position:relative;
+}
+
+.columnStyle.open{
+    transform:translateX(0%);
+    opacity:1;
+    width:100%;
+    transition:all 1000ms cubic-bezier(0.19,1,0.22,1),opacity 700ms cubic-bezier(0.19,1,0.22,1);
+}
+
+.columnStyle:hover{
+  /*  background: #d9d9d9;*/
+}
+
+.columnStyle.last{
+    background: #d9d9d9;
+    align-content:center;
+    row-gap:50px;
+}
+
+.columnStyle .lang{
+    display:inline-table;
+    padding:0 5px;
+}
+
+.columnStyle .lang:hover{
+    color:#000;
+    border-bottom:1px solid #000;
+}
+
+.columnStyle .langSel{
+    color:#000;
+    border-bottom:1px solid #000;
+}
+
+@media screen and (max-width:1024px){
+    .menu_ul{
+        grid-template-columns:1fr 1fr 1fr 1fr;
+    }
+    
+    .columnStyle{
+        height:60vh;
+        height:50vh;
+    }
+    
+    .columnStyle.last{
+        height:40vh;
+        height:50vh;
+        grid-row-start:2;
+        grid-row-end:2;
+        grid-column-start:1;
+        grid-column-end:5;
+        align-content:space-evenly;
+        row-gap:0;
+        margin-top:3px;
+    }
+    
+    .flexVertMenu{
+        /*display:flex;
+        width: 90%;
+        margin: 0 auto;*/
+        width: 90%;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        row-gap: 10px;
+    }
+    
+    
+    .csGrid:nth-of-type(1){
+        grid-row-start:1;
+        grid-row-end:1;
+        grid-column-start:1;
+        grid-column-end:4;        
+    }
+    
+    .csGrid:nth-of-type(2){
+        grid-row-start:2;
+        grid-row-end:2;
+        grid-column-start:1;
+        grid-column-end:4;        
+    }
+    
+    .csGrid:nth-of-type(3){
+        grid-row-start:3;
+        grid-row-end:3;
+        grid-column-start:1;
+        grid-column-end:4;        
+    }
+
+    .csGrid:nth-of-type(4){
+        grid-row-start:2;
+        grid-row-end:2;
+        grid-column-start:3;
+        grid-column-end:4;        
+    }
+}
+</style>
+
+
+<style>
+    a:hover.rootMenu ~ .menuImgBG, a.rootMenu span:hover + .menuImgBG, a.rootMenu span span:hover + .menuImgBG {
+        opacity:0.5 !important;
+    }
+    a.rootMenu {
+        z-index:99;
+    }
+</style></div>
+<div class="gridLogo">
+<div class="center" style="line-height:0;">
+<a href="/" class="logo" aria-label="Logo"><img src="/uploads/images/vathi_cove_1068_R9965_logo.png" width="auto" height="auto" title="" alt=""></a></div></div>
+<div class="gridBook">
+<div class="gridLang">
+</div>
+<a href="https://vathicove.reserve-online.net/" class="bookNow" target="_blank" rel="noopener">BOOK NOW</a></div>
+<div class="clear"></div>
+
+</div>
+</div>
+</div><div style="clear:both;"></div>
+
+<div class="video-container">
+<div class="video-wrapper">
+<iframe title="myFrame" id="vimeo_player" class="vimeo" data-cookieblock-src="https://player.vimeo.com/video/1047528408?autoplay=1&title=0&loop=1&autopause=0&api=1&controls=0&byline=0&muted=0&background=1&portrait=0&player_id=vimeo_player&h=cc9d734664" src="https://player.vimeo.com/video/1047528408?autoplay=1&title=0&loop=1&autopause=0&api=1&controls=0&byline=0&muted=0&background=1&portrait=0&player_id=vimeo_player&h=cc9d734664" allow="autoplay; fullscreen" data-ready="true" data-cookieconsent="ignore"></iframe>
+
+
+</div>
+<button class="play-button">
+    <div class="play-icon">
+        <!-- <svg fill="#fff" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 384 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><!-- <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>-->
+<svg xmlns="http://www.w3.org/2000/svg" fill="#fff" height="100%" viewBox="0 0 512 512" />
+    </div>
+    <div class="pause-icon">
+        <!-- <svg fill="#fff" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 320 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><!-- <path d="M48 64C21.5 64 0 85.5 0 112V400c0 26.5 21.5 48 48 48H80c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48H48zm192 0c-26.5 0-48 21.5-48 48V400c0 26.5 21.5 48 48 48h32c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48H240z"/></svg>-->
+<svg xmlns="http://www.w3.org/2000/svg" fill="#fff" height="100%" viewBox="0 0 512 512" />
+    </div>
+
+<div class="socialtext">.</div>
+</button>
+<button class="sound-button">
+<div class="unmute-icon">
+    <!-- <svg fill="#fff" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><!-- <path d="M301.1 34.8C312.6 40 320 51.4 320 64V448c0 12.6-7.4 24-18.9 29.2s-25 3.1-34.4-5.3L131.8 352H64c-35.3 0-64-28.7-64-64V224c0-35.3 28.7-64 64-64h67.8L266.7 40.1c9.4-8.4 22.9-10.4 34.4-5.3zM425 167l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0z"/></svg>-->
+<svg xmlns="http://www.w3.org/2000/svg" fill="#fff" height="100%" viewBox="0 0 448 512" />
+
+</div>
+<div class="mute-icon">
+    <!-- <svg fill="#fff" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 640 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><!--<path d="M533.6 32.5C598.5 85.3 640 165.8 640 256s-41.5 170.8-106.4 223.5c-10.3 8.4-25.4 6.8-33.8-3.5s-6.8-25.4 3.5-33.8C557.5 398.2 592 331.2 592 256s-34.5-142.2-88.7-186.3c-10.3-8.4-11.8-23.5-3.5-33.8s23.5-11.8 33.8-3.5zM473.1 107c43.2 35.2 70.9 88.9 70.9 149s-27.7 113.8-70.9 149c-10.3 8.4-25.4 6.8-33.8-3.5s-6.8-25.4 3.5-33.8C475.3 341.3 496 301.1 496 256s-20.7-85.3-53.2-111.8c-10.3-8.4-11.8-23.5-3.5-33.8s23.5-11.8 33.8-3.5zm-60.5 74.5C434.1 199.1 448 225.9 448 256s-13.9 56.9-35.4 74.5c-10.3 8.4-25.4 6.8-33.8-3.5s-6.8-25.4 3.5-33.8C393.1 284.4 400 271 400 256s-6.9-28.4-17.7-37.3c-10.3-8.4-11.8-23.5-3.5-33.8s23.5-11.8 33.8-3.5zM301.1 34.8C312.6 40 320 51.4 320 64V448c0 12.6-7.4 24-18.9 29.2s-25 3.1-34.4-5.3L131.8 352H64c-35.3 0-64-28.7-64-64V224c0-35.3 28.7-64 64-64h67.8L266.7 40.1c9.4-8.4 22.9-10.4 34.4-5.3z"/></svg>-->
+<svg xmlns="http://www.w3.org/2000/svg" fill="#fff" height="100%" viewBox="0 0 576 512" />
+
+
+</div>
+
+<div class="socialtext">.</div>
+</button>
+
+</div>
+
+
+<!--Include the Vimeo API Library-->
+<script src="https://player.vimeo.com/api/player.js" data-cookieconsent="ignore"></script>
+
+<script data-cookieconsent="ignore">
+     //Vimeo API 
+
+    if ( typeof Vimeo !== 'undefined' ) {
+
+        var iframe = $('#vimeo_player')[0];
+        var player = new Vimeo.Player(iframe);
+
+        $('.sound-button').click(function() {
+            player.getVolume().then(function(volume) {
+                if ( volume > 0 ) {
+                    $('.mute-icon').hide();
+                    $('.unmute-icon').show();
+                    player.setVolume(0);
+                } else {
+                    $('.unmute-icon').hide();
+                    $('.mute-icon').show();
+                    player.setVolume(1);
+                }
+            });
+        });  
+
+        $('.play-button').click(function() {
+            player.getPaused().then(function(paused) {
+                if ( paused ) {
+                    $('.play-icon').hide();
+                    $('.pause-icon').show();
+                    player.play();
+                } else {
+                    $('.pause-icon').hide();
+                    $('.play-icon').show();
+                    player.pause();
+                }
+            });
+        });  
+
+        player.setVolume(0);
+
+    }
+</script>
+
+<style>
+.video-wrapper {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100vh;
+    pointer-events: none;
+    overflow: hidden;
+    z-index: 50;
+}
+.video-wrapper iframe {
+   width: 100vw;
+   height: 56.25vw; /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+   min-height: 100vh;
+   min-width: 177.77vh; /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+    z-index: 50;
+}
+
+.video-wrapper video {
+   width: 100vw;
+   height: 56.25vw; /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+   min-height: 100vh;
+   min-width: 177.77vh; /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+    z-index: 50;
+}
+
+.video-container{
+    position:relative;
+}
+
+.play-button{
+    background:none;
+    border:none;
+    position:absolute;
+    z-index:2;
+    bottom:15px;
+    left:15px;
+    z-index:60;
+}
+.play-button:hover{
+    cursor: pointer;
+}
+.sound-button{
+    background:none;
+    border:none;
+    position:absolute;
+    z-index:2;
+    bottom:15px;
+    left:65px;
+    z-index:60;
+}
+.sound-button:hover{
+    cursor: pointer;
+}
+.pause-icon{
+    display:block;
+    height:35px;
+    /*width:22px;*/
+    /*height:21px;*/
+    /*width:26px;*/
+    /*height:33px;*/
+}
+.play-icon{
+    display:none;
+    height:35px;
+    /*width:26px;*/
+    /*height:33px;*/
+}
+.mute-icon{
+    display:none;
+    height:35px;
+    /*width:32px;*/
+    /*height:32px;*/
+}
+.unmute-icon{
+    display:block;
+    height:35px;
+    /*width:32px;*/
+    /*height:32px;*/
+}
+
+
+@media(max-width:680px){
+    .video-wrapper {
+      height: 230px;
+      height: 100vw;
+    }
+    .video-wrapper iframe {
+        min-width: 45vh;
+        min-width: 95vh;
+    }
+    .video-wrapper video {
+    min-width: 45vh;   
+    min-width: 95vh;   
+    }
+    
+    .play-button{
+        bottom:10%;
+        bottom:20px;
+        left:10px;
+    }
+    .play-icon{
+        width:35px;
+        height:35px;
+    }
+    .pause-icon{
+        width:35px;
+        height:35px;
+    }
+    .sound-button{
+        bottom:10%;
+        bottom:20px;
+        left:55px;
+    }
+    .mute-icon{
+        width:35px;
+        height:35px;
+    }
+    .unmute-icon{
+        width:35px;
+        height:35px;
+    }
+}
+</style>
+
+<div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div>
+<div id="LayerRow2">
+<div class="overflow">
+
+<div style="display:block; width:100%; margin:auto;">
+
+
+<div class="top50">
+<div class="marginLR">
+
+
+<div class="top50">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="flexBoxEnd">
+<div class="gridWelcome50">
+<div class="homeSubtitle wow fadeInLeft" data-wow-delay="500ms">
+<div><h1>- WELCOME TO THE ADULTS-FRIENDLY (14+)</h1></div>
+</div>
+<div style="padding-bottom:20px"></div>
+<div class="homeTitle wow fadeInUp" data-wow-delay="500ms">
+<div style="data-wow-delay=" 3000ms""="">
+<div><h2>VATHI COVE <span>LUXURY RESORT &amp; SPA</span></h2></div>
+</div>
+</div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="justify" data-rec-id="1086" data-field="Rec_Editor1">
+<div class="textEditor_1086" data-rec-id="1086" data-field="Rec_Text1">Come, kick off your shoes and let us tell you a story . . . Once upon a time there was a sandy white beach, with crystal clear water, like an emerald drop of paradise wrapped in soft white sands, surrounded by a vibrant, unspoilt pine forest, lapped by warm turquoise waters and hidden in the heart of an incomparable natural beauty, protected by NATURA 2000. Vathi Cove is that place. That time is now, and this is our story.<br>Not just another five-star resort, Vathi Cove does things differently: we call it re-invented luxury. As an adults - friendly retreat welcoming guests aged 14 and above, we offer an atmosphere of calm sophistication and effortless privacy.<br>We don’t think of our guests as holidaymakers but as storytellers, crafting a dream holiday. This is where your story of a small paradise begins.<br>&#160;</div></div>
+</div>
+<div class="moreButton">
+<a href="#links\" class="more">
+more</a>
+</div>
+<div class="moreText" style="display:none">
+    <div class="textEditor_1086" data-rec-id="1086" data-field="Rec_Text2">Opened in June 2021, Vathi Cove is a boutique luxury resort on the island of Thassos. We’re perfect for nature lovers as the lush green pine forest, the bright white sandy beach and the transparent turquoise waters which encircles the resort, is a protected area and noted as an outstanding snorkelling site.&#160;<br>Designed for people seeking peace and privacy and want to take a breath of rest in this hidden secluded paradise of luxury, we welcome guests to live their own summer story.<br>Everything at Vathi Cove has been custom made and made for comfort crafted around your needs. Service is impeccable yet always warm and inviting, in line with our ‘barefoot informality’ ethos. Above all, we’re proud to offer a taste of the true Greek hospitality, opening doors to Greek culture and unique experiences.</div>    <div class="showLessButton">
+<a href="#links\" class="more">
+hide</a>
+    </div>
+</div>
+
+<style>
+    .moreButton, .showLessButton {
+        margin-top: 75px;
+    }
+    
+    @media screen and (max-width: 1024px) {
+        .moreButton, .showLessButton {
+            margin-top: 45px;
+        }
+    }
+</style>
+<div style="padding-bottom:50px"></div>
+</div>
+<div class="gridWelcome45">
+<div class="welcomeImgBG" data-rec-id="1086">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="welcGridL">
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="img1Rel" data-rec-id="1086">
+<div class="image1_1086"><img class="lazyload" data-srcset="/uploads/images/414/1086_R1091.jpg 414w,/uploads/images/375/1086_R1091.jpg 375w,/uploads/images/200/1086_R1091.jpg 200w,/uploads/images/150/1086_R1091.jpg 150w" data-src="/uploads/images/414/1086_R1091.jpg?v=202511281348" alt="Welcome" width="414" height="435" style="width:100%; vertical-align:middle; display: block;"></div></div>
+
+</div>
+</div>
+<div class="welcGridR">
+<div class="wow fadeInRight" data-wow-delay="500ms">
+<div class="img2Rel" data-rec-id="1086">
+<div class="image1_1086"><img class="lazyload" data-srcset="/uploads/images/600/1086_R5771_2.jpg 600w,/uploads/images/414/1086_R5771_2.jpg 414w,/uploads/images/375/1086_R5771_2.jpg 375w,/uploads/images/200/1086_R5771_2.jpg 200w,/uploads/images/150/1086_R5771_2.jpg 150w" data-src="/uploads/images/600/1086_R5771_2.jpg?v=202511281348" alt="Welcome" width="600" height="412" style="width:100%; vertical-align:middle; display: block;"></div></div>
+
+</div>
+</div>
+<div class="clear"></div>
+
+</div>
+<div style="padding-bottom:10px;"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div style="padding-bottom:120px;"></div><div class="marginLR">
+
+
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="accTitlePadd wow fadeInUp" data-wow-delay="500ms">
+<div class="homeTitle" data-rec-id="1087" data-field="Rec_Field1">
+THE DEFINITION OF LUXURY ON THASSOS ISLAND</div>
+</div>
+<div class="accommodationGrid"><div class="gridAccTitles wow fadeIn" data-wow-delay="300ms"><div data-id="1101" class="subMenu"><a class="accMenu" href="/junior-suite-forest-view/">JUNIOR SUITE FOREST VIEW</a></div><div data-id="1102" class="subMenu"><a class="accMenu" href="/double-jacuzzi-forest-view/">DOUBLE JACUZZI FOREST VIEW</a></div><div data-id="1106" class="subMenu"><a class="accMenu" href="/double-sea-view/">DOUBLE SEA VIEW</a></div><div data-id="1107" class="subMenu"><a class="accMenu" href="/junior-suite-sea-view/">JUNIOR SUITE SEA VIEW</a></div><div data-id="1108" class="subMenu"><a class="accMenu" href="/panorama-junior-suite-sea-view/">PANORAMA JUNIOR SUITE SEA VIEW</a></div><div data-id="1141" class="subMenu"><a class="accMenu" href="/double-private-pool-sea-view/">DOUBLE PRIVATE POOL SEA VIEW</a></div><div data-id="1140" class="subMenu"><a class="accMenu" href="/two-room-suite-forest-view/">TWO-ROOM SUITE FOREST VIEW</a></div><div data-id="1145" class="subMenu"><a class="accMenu" href="/two-room-suite-private-pool-forest-view/">TWO-ROOM SUITE PRIVATE POOL FOREST VIEW</a></div><div data-id="1143" class="subMenu"><a class="accMenu" href="/junior-suite-private-pool-sea-view/">JUNIOR SUITE PRIVATE POOL SEA VIEW</a></div><div data-id="1147" class="subMenu"><a class="accMenu" href="/master-suite-sea-view/">MASTER SUITE SEA VIEW</a></div><div data-id="1150" class="subMenu"><a class="accMenu" href="/family-suite/">FAMILY SUITE</a></div><div data-id="1154" class="subMenu"><a class="accMenu" href="/family-suite-private-pool/">FAMILY SUITE PRIVATE POOL</a></div></div><div class="gridAccR relative wow fadeInRight" data-wow-delay="300ms"><div data-id="1101" class="imgSubAbsR"><div class="image1_1101"><img srcset="/uploads/images/1280/1101_R5584.jpg 1280w,/uploads/images/1024/1101_R5584.jpg 1024w,/uploads/images/835/1101_R5584.jpg 835w,/uploads/images/768/1101_R5584.jpg 768w,/uploads/images/600/1101_R5584.jpg 600w,/uploads/images/414/1101_R5584.jpg 414w,/uploads/images/375/1101_R5584.jpg 375w,/uploads/images/200/1101_R5584.jpg 200w,/uploads/images/150/1101_R5584.jpg 150w" src="/uploads/images/1280/1101_R5584.jpg?v=202509270951" alt="JUNIOR SUITE FOREST VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE OR TWIN BEDS</div><div class="roomInfo">34m<sup>2</sup> | 2 people</div></div></div><div data-id="1102" class="imgSubAbsR"><div class="image1_1102"><img srcset="/uploads/images/1280/1102_R9730.jpg 1280w,/uploads/images/1024/1102_R9730.jpg 1024w,/uploads/images/835/1102_R9730.jpg 835w,/uploads/images/768/1102_R9730.jpg 768w,/uploads/images/600/1102_R9730.jpg 600w,/uploads/images/414/1102_R9730.jpg 414w,/uploads/images/375/1102_R9730.jpg 375w,/uploads/images/200/1102_R9730.jpg 200w,/uploads/images/150/1102_R9730.jpg 150w" src="/uploads/images/1280/1102_R9730.jpg?v=202509270951" alt="DOUBLE JACUZZI FOREST VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">QUEEN SIZE BED</div><div class="roomInfo">29m<sup>2</sup> | 2 people</div></div></div><div data-id="1106" class="imgSubAbsR"><div class="image1_1106"><img srcset="/uploads/images/1280/1106_R1015.jpg 1280w,/uploads/images/1024/1106_R1015.jpg 1024w,/uploads/images/835/1106_R1015.jpg 835w,/uploads/images/768/1106_R1015.jpg 768w,/uploads/images/600/1106_R1015.jpg 600w,/uploads/images/414/1106_R1015.jpg 414w,/uploads/images/375/1106_R1015.jpg 375w,/uploads/images/200/1106_R1015.jpg 200w,/uploads/images/150/1106_R1015.jpg 150w" src="/uploads/images/1280/1106_R1015.jpg?v=202509270952" alt="DOUBLE SEA VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">33m<sup>2</sup> | 2 people</div></div></div><div data-id="1107" class="imgSubAbsR"><div class="image1_1107"><img srcset="/uploads/images/1280/1107_R4726.jpg 1280w,/uploads/images/1024/1107_R4726.jpg 1024w,/uploads/images/835/1107_R4726.jpg 835w,/uploads/images/768/1107_R4726.jpg 768w,/uploads/images/600/1107_R4726.jpg 600w,/uploads/images/414/1107_R4726.jpg 414w,/uploads/images/375/1107_R4726.jpg 375w,/uploads/images/200/1107_R4726.jpg 200w,/uploads/images/150/1107_R4726.jpg 150w" src="/uploads/images/1280/1107_R4726.jpg?v=202509270952" alt="JUNIOR SUITE SEA VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">34m<sup>2</sup> | 2 people</div></div></div><div data-id="1108" class="imgSubAbsR"><div class="image1_1108"><img srcset="/uploads/images/1280/1108_R9739.jpg 1280w,/uploads/images/1024/1108_R9739.jpg 1024w,/uploads/images/835/1108_R9739.jpg 835w,/uploads/images/768/1108_R9739.jpg 768w,/uploads/images/600/1108_R9739.jpg 600w,/uploads/images/414/1108_R9739.jpg 414w,/uploads/images/375/1108_R9739.jpg 375w,/uploads/images/200/1108_R9739.jpg 200w,/uploads/images/150/1108_R9739.jpg 150w" src="/uploads/images/1280/1108_R9739.jpg?v=202509270952" alt="PANORAMA JUNIOR SUITE SEA VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">39m<sup>2</sup> | 3 people</div></div></div><div data-id="1141" class="imgSubAbsR"><div class="image1_1141"><img srcset="/uploads/images/1280/1141_R4706.jpg 1280w,/uploads/images/1024/1141_R4706.jpg 1024w,/uploads/images/835/1141_R4706.jpg 835w,/uploads/images/768/1141_R4706.jpg 768w,/uploads/images/600/1141_R4706.jpg 600w,/uploads/images/414/1141_R4706.jpg 414w,/uploads/images/375/1141_R4706.jpg 375w,/uploads/images/200/1141_R4706.jpg 200w,/uploads/images/150/1141_R4706.jpg 150w" src="/uploads/images/1280/1141_R4706.jpg?v=202509270952" alt="DOUBLE PRIVATE POOL SEA VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">33m<sup>2</sup> | 2 people</div></div></div><div data-id="1140" class="imgSubAbsR"><div class="image1_1140"><img srcset="/uploads/images/1280/1140_R6097.jpg 1280w,/uploads/images/1024/1140_R6097.jpg 1024w,/uploads/images/835/1140_R6097.jpg 835w,/uploads/images/768/1140_R6097.jpg 768w,/uploads/images/600/1140_R6097.jpg 600w,/uploads/images/414/1140_R6097.jpg 414w,/uploads/images/375/1140_R6097.jpg 375w,/uploads/images/200/1140_R6097.jpg 200w,/uploads/images/150/1140_R6097.jpg 150w" src="/uploads/images/1280/1140_R6097.jpg?v=202509270952" alt="TWO-ROOM SUITE FOREST VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">45m<sup>2</sup> | 3 people</div></div></div><div data-id="1145" class="imgSubAbsR"><div class="image1_1145"><img srcset="/uploads/images/1280/1145_R1300.jpg 1280w,/uploads/images/1024/1145_R1300.jpg 1024w,/uploads/images/835/1145_R1300.jpg 835w,/uploads/images/768/1145_R1300.jpg 768w,/uploads/images/600/1145_R1300.jpg 600w,/uploads/images/414/1145_R1300.jpg 414w,/uploads/images/375/1145_R1300.jpg 375w,/uploads/images/200/1145_R1300.jpg 200w,/uploads/images/150/1145_R1300.jpg 150w" src="/uploads/images/1280/1145_R1300.jpg?v=202509270952" alt="TWO-ROOM SUITE PRIVATE POOL FOREST VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">45m<sup>2</sup> | 3 people</div></div></div><div data-id="1143" class="imgSubAbsR"><div class="image1_1143"><img srcset="/uploads/images/1280/1143_R2181.jpg 1280w,/uploads/images/1024/1143_R2181.jpg 1024w,/uploads/images/835/1143_R2181.jpg 835w,/uploads/images/768/1143_R2181.jpg 768w,/uploads/images/600/1143_R2181.jpg 600w,/uploads/images/414/1143_R2181.jpg 414w,/uploads/images/375/1143_R2181.jpg 375w,/uploads/images/200/1143_R2181.jpg 200w,/uploads/images/150/1143_R2181.jpg 150w" src="/uploads/images/1280/1143_R2181.jpg?v=202509270951" alt="JUNIOR SUITE PRIVATE POOL SEA VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">34m<sup>2</sup> | 2 people</div></div></div><div data-id="1147" class="imgSubAbsR"><div class="image1_1147"><img srcset="/uploads/images/1280/1147_R7250.jpg 1280w,/uploads/images/1024/1147_R7250.jpg 1024w,/uploads/images/835/1147_R7250.jpg 835w,/uploads/images/768/1147_R7250.jpg 768w,/uploads/images/600/1147_R7250.jpg 600w,/uploads/images/414/1147_R7250.jpg 414w,/uploads/images/375/1147_R7250.jpg 375w,/uploads/images/200/1147_R7250.jpg 200w,/uploads/images/150/1147_R7250.jpg 150w" src="/uploads/images/1280/1147_R7250.jpg?v=202509270951" alt="MASTER SUITE SEA VIEW" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">60m<sup>2</sup> | 3 people</div></div></div><div data-id="1150" class="imgSubAbsR"><div class="image1_1150"><img srcset="/uploads/images/1280/1150_R6142.jpg 1280w,/uploads/images/1024/1150_R6142.jpg 1024w,/uploads/images/835/1150_R6142.jpg 835w,/uploads/images/768/1150_R6142.jpg 768w,/uploads/images/600/1150_R6142.jpg 600w,/uploads/images/414/1150_R6142.jpg 414w,/uploads/images/375/1150_R6142.jpg 375w,/uploads/images/200/1150_R6142.jpg 200w,/uploads/images/150/1150_R6142.jpg 150w" src="/uploads/images/1280/1150_R6142.jpg?v=202509270950" alt="FAMILY SUITE" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">76-82m<sup>2</sup> | 5 people</div></div></div><div data-id="1154" class="imgSubAbsR"><div class="image1_1154"><img srcset="/uploads/images/1280/1154_R9531.jpg 1280w,/uploads/images/1024/1154_R9531.jpg 1024w,/uploads/images/835/1154_R9531.jpg 835w,/uploads/images/768/1154_R9531.jpg 768w,/uploads/images/600/1154_R9531.jpg 600w,/uploads/images/414/1154_R9531.jpg 414w,/uploads/images/375/1154_R9531.jpg 375w,/uploads/images/200/1154_R9531.jpg 200w,/uploads/images/150/1154_R9531.jpg 150w" src="/uploads/images/1280/1154_R9531.jpg?v=202509270950" alt="FAMILY SUITE PRIVATE POOL" width="1280" height="954" style="width:100%; vertical-align:middle; display: block;"></div><div class="roomInfoAbs"><div class="roomInfo">KING SIZE BED</div><div class="roomInfo">78-82m<sup>2</sup> | 5 people</div></div></div></div><div class="gridAccLeft relative wow fadeInLeft" data-wow-delay="300ms"><div data-id="1101" class="imgSubAbsLeft"><div class="image2_1101"><img srcset="/uploads/images/600/1101_R5318_2.jpg 600w,/uploads/images/414/1101_R5318_2.jpg 414w,/uploads/images/375/1101_R5318_2.jpg 375w,/uploads/images/200/1101_R5318_2.jpg 200w,/uploads/images/150/1101_R5318_2.jpg 150w" src="/uploads/images/600/1101_R5318_2.jpg?v=202509270951" alt="JUNIOR SUITE FOREST VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1102" class="imgSubAbsLeft"><div class="image2_1102"><img srcset="/uploads/images/600/1102_R1876_2.jpg 600w,/uploads/images/414/1102_R1876_2.jpg 414w,/uploads/images/375/1102_R1876_2.jpg 375w,/uploads/images/200/1102_R1876_2.jpg 200w,/uploads/images/150/1102_R1876_2.jpg 150w" src="/uploads/images/600/1102_R1876_2.jpg?v=202509270951" alt="DOUBLE JACUZZI FOREST VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1106" class="imgSubAbsLeft"><div class="image2_1106"><img srcset="/uploads/images/600/1106_R4210_2.jpg 600w,/uploads/images/414/1106_R4210_2.jpg 414w,/uploads/images/375/1106_R4210_2.jpg 375w,/uploads/images/200/1106_R4210_2.jpg 200w,/uploads/images/150/1106_R4210_2.jpg 150w" src="/uploads/images/600/1106_R4210_2.jpg?v=202509270952" alt="DOUBLE SEA VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1107" class="imgSubAbsLeft"><div class="image2_1107"><img srcset="/uploads/images/600/1107_R1239_2.jpg 600w,/uploads/images/414/1107_R1239_2.jpg 414w,/uploads/images/375/1107_R1239_2.jpg 375w,/uploads/images/200/1107_R1239_2.jpg 200w,/uploads/images/150/1107_R1239_2.jpg 150w" src="/uploads/images/600/1107_R1239_2.jpg?v=202509270952" alt="JUNIOR SUITE SEA VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1108" class="imgSubAbsLeft"><div class="image2_1108"><img srcset="/uploads/images/600/1108_R5734_2.jpg 600w,/uploads/images/414/1108_R5734_2.jpg 414w,/uploads/images/375/1108_R5734_2.jpg 375w,/uploads/images/200/1108_R5734_2.jpg 200w,/uploads/images/150/1108_R5734_2.jpg 150w" src="/uploads/images/600/1108_R5734_2.jpg?v=202509270952" alt="PANORAMA JUNIOR SUITE SEA VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1141" class="imgSubAbsLeft"><div class="image2_1141"><img srcset="/uploads/images/600/1141_R7343_2.jpg 600w,/uploads/images/414/1141_R7343_2.jpg 414w,/uploads/images/375/1141_R7343_2.jpg 375w,/uploads/images/200/1141_R7343_2.jpg 200w,/uploads/images/150/1141_R7343_2.jpg 150w" src="/uploads/images/600/1141_R7343_2.jpg?v=202509270952" alt="DOUBLE PRIVATE POOL SEA VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1140" class="imgSubAbsLeft"><div class="image2_1140"><img srcset="/uploads/images/600/1140_R7099_2.jpg 600w,/uploads/images/414/1140_R7099_2.jpg 414w,/uploads/images/375/1140_R7099_2.jpg 375w,/uploads/images/200/1140_R7099_2.jpg 200w,/uploads/images/150/1140_R7099_2.jpg 150w" src="/uploads/images/600/1140_R7099_2.jpg?v=202509270952" alt="TWO-ROOM SUITE FOREST VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1145" class="imgSubAbsLeft"><div class="image2_1145"><img srcset="/uploads/images/600/1145_R4387_2.jpg 600w,/uploads/images/414/1145_R4387_2.jpg 414w,/uploads/images/375/1145_R4387_2.jpg 375w,/uploads/images/200/1145_R4387_2.jpg 200w,/uploads/images/150/1145_R4387_2.jpg 150w" src="/uploads/images/600/1145_R4387_2.jpg?v=202509270952" alt="TWO-ROOM SUITE PRIVATE POOL FOREST VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1143" class="imgSubAbsLeft"><div class="image2_1143"><img srcset="/uploads/images/600/1143_R5745_2.jpg 600w,/uploads/images/414/1143_R5745_2.jpg 414w,/uploads/images/375/1143_R5745_2.jpg 375w,/uploads/images/200/1143_R5745_2.jpg 200w,/uploads/images/150/1143_R5745_2.jpg 150w" src="/uploads/images/600/1143_R5745_2.jpg?v=202509270951" alt="JUNIOR SUITE PRIVATE POOL SEA VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1147" class="imgSubAbsLeft"><div class="image2_1147"><img srcset="/uploads/images/600/1147_R9259_2.jpg 600w,/uploads/images/414/1147_R9259_2.jpg 414w,/uploads/images/375/1147_R9259_2.jpg 375w,/uploads/images/200/1147_R9259_2.jpg 200w,/uploads/images/150/1147_R9259_2.jpg 150w" src="/uploads/images/600/1147_R9259_2.jpg?v=202509270951" alt="MASTER SUITE SEA VIEW" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1150" class="imgSubAbsLeft"><div class="image2_1150"><img srcset="/uploads/images/600/1150_R8790_2.jpg 600w,/uploads/images/414/1150_R8790_2.jpg 414w,/uploads/images/375/1150_R8790_2.jpg 375w,/uploads/images/200/1150_R8790_2.jpg 200w,/uploads/images/150/1150_R8790_2.jpg 150w" src="/uploads/images/600/1150_R8790_2.jpg?v=202509270950" alt="FAMILY SUITE" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div><div data-id="1154" class="imgSubAbsLeft"><div class="image2_1154"><img srcset="/uploads/images/600/1154_R3938_2.jpg 600w,/uploads/images/414/1154_R3938_2.jpg 414w,/uploads/images/375/1154_R3938_2.jpg 375w,/uploads/images/200/1154_R3938_2.jpg 200w,/uploads/images/150/1154_R3938_2.jpg 150w" src="/uploads/images/600/1154_R3938_2.jpg?v=202509270950" alt="FAMILY SUITE PRIVATE POOL" width="600" height="720" style="width:100%; vertical-align:middle; display: block;"></div></div></div></div><script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+
+    $(document).ready(function () {
+           $('.imgSubAbsLeft').first().addClass("imgActive");
+           $('.imgSubAbsR').first().addClass("imgActive");
+           $('.roomDesc').first().addClass("imgActive");
+           $(".subMenu").hover(function(){
+           var subTitle = $(this).attr("data-id");
+                $('.imgSubAbsLeft').removeClass("imgActive");
+                $('.imgSubAbsLeft[data-id="'+subTitle+'"]').addClass("imgActive");
+                $('.imgSubAbsR').removeClass("imgActive");
+                $('.imgSubAbsR[data-id="'+subTitle+'"]').addClass("imgActive");
+                $('.roomDesc').removeClass("imgActive");
+                $('.roomDesc[data-id="'+subTitle+'"]').addClass("imgActive");
+
+        });
+    });
+</script>
+
+<style>
+    .subMenu {
+        /*border-bottom:1px solid white;*/
+        position:relative;
+        padding:0 15%;
+    }
+    
+    .subMenu::before {
+        content: "";
+        position: absolute;
+        width: 3px;
+        height: 27px;
+        background: #fff;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        left: 11%;
+        opacity:0;
+        transition: opacity 0.6s;
+    }
+    
+    .subMenu:hover::before {
+        content:"";
+        position:absolute;
+        opacity:1;
+    }
+    
+    
+
+    .gridAccLeft{
+        float:left;
+        /*width:575px;*/
+        margin:0;
+        height: 100%;
+    }
+    
+    .gridAccTitles{
+        float:left;
+        /*width:413px;*/
+        padding:25px 0 0px 0;
+        position:relative;
+        height: 100%;
+        align-content: start;
+    }
+    
+    .gridAccR{
+        float:left;
+        /*width:600px;*/
+        margin:0;
+        height: 100%;
+    }
+    
+    .imgActive{
+        opacity:1 !important;
+    }
+    
+    .imgSubAbsLeft{
+        position: absolute;
+        /*top: -10%;*/
+        /*left:16%;*/
+        bottom: 0;
+        display: block;
+        /*width: 80%;*/
+        opacity:0;
+        transition: opacity cubic-bezier(0.4, 0, 0.2, 1) 0.9s;
+    }
+    
+    .imgSubAbsR{
+        position: absolute;
+        /*bottom: -10%;*/
+        /*left:10%;*/
+        display: block;
+        /*width: 80%;*/
+        bottom:0;
+        opacity:0;
+        transition: opacity cubic-bezier(0.4, 0, 0.2, 1) 0.9s;
+    }
+    
+    .roomDesc{
+        position:absolute;
+        display:block;
+        opacity:0;
+        transition: opacity 0.6s;
+        padding:35% 0 10% 0;
+        text-align:justify;
+    }
+    
+    
+    @media screen and (max-width: 1600px) {
+        
+        .gridAccTitles{
+            float: left;
+            /* width: 413px; */
+            /*padding:0px 0 140px 0;*/
+            padding:0;
+        }
+    }
+    
+    @media screen and (max-width: 1366px) {
+        .subMenu {
+            padding: 0 0% 0 9%;
+        }
+        
+        .subMenu::before {
+            left: 4%;
+        }
+    }
+
+
+    
+    @media screen and (max-width: 1024px) {
+        .gridAccLeft{
+            display:none;
+        }
+        
+/*        .gridAccTitles{
+            width:50%;
+            display:table;
+            margin:0 auto;
+        }*/
+        
+/*        .gridAccR{
+            display:none;
+        }*/
+        
+                
+        .gridAccTitles{
+            float: left;
+            /* width: 413px; */
+            padding: 110px 0;
+            padding-top: 0px;
+            padding:0;
+            
+        }
+        
+    }
+    @media screen and (max-width: 820px) {
+        .gridAccTitles{
+            padding-top:4%;
+        }
+        
+        .gridAccR{
+            width:60%;
+            margin:0;
+            position:absolute;
+            right:0;
+        }
+        
+        .roomDesc{
+            padding:8% 0;
+        }
+        .gridAccLeft{
+            display:block;
+        }
+        .gridAccR{
+            display:none;
+        }
+    }
+    @media screen and (max-width: 680px) {
+        .gridAccTitles{
+            width:90%;
+            margin:0 auto;
+            padding: 70px 0 0;
+        }
+        
+        .gridAccLeft{
+            display:none;
+        }
+        
+        .gridAccR{
+            display:none;
+        }
+        
+        
+    }    
+</style>
+<div class="clear"></div>
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:180px;"></div><div class="marginLR">
+
+
+
+<div class="beachPoolBG">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridRestaurantTopL">
+<div style="padding-bottom:1px"></div>
+</div>
+<div class="gridRestaurantTopR">
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="homeSubtitle" data-rec-id="1165" data-field="Rec_Field1">
+- POOL &amp; BEACH</div>
+</div>
+<div style="padding-bottom:20px"></div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div style="display:block; width:100%; margin:auto;">
+
+
+<div class="splide relative" id="beachPoolSlide">
+    <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide wow fadeIn" data-wow-delay="0ms">
+
+
+<div style="display:block; margin:0;">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridRestaurantTopL">
+<div style="padding-bottom:1px"></div>
+</div>
+<div class="gridRestaurantTopR">
+<div class="homeTitle" data-rec-id="1163" data-field="Rec_Field2">
+YOUR ESCAPE TO SUN, SAND, AND BLISS.</div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridGastronomy">
+<div class="gastronomySlideL">
+<div class="wow fadeInUp" data-wow-delay="400ms">
+<div class="image1_1163"><img class="lazyload" data-srcset="/uploads/images/600/1163_R9846.jpg 600w,/uploads/images/414/1163_R9846.jpg 414w,/uploads/images/375/1163_R9846.jpg 375w,/uploads/images/200/1163_R9846.jpg 200w,/uploads/images/150/1163_R9846.jpg 150w" data-src="/uploads/images/600/1163_R9846.jpg?v=202502261456" alt="BEACH" width="600" height="687" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+<div class="gastronomySlideC">
+<div class="wow fadeInUp" data-wow-delay="600ms">
+<div class="image1_1163"><img class="lazyload" data-srcset="/uploads/images/1440/1163_R5100_2.jpg 1440w,/uploads/images/1366/1163_R5100_2.jpg 1366w,/uploads/images/1280/1163_R5100_2.jpg 1280w,/uploads/images/1024/1163_R5100_2.jpg 1024w,/uploads/images/835/1163_R5100_2.jpg 835w,/uploads/images/768/1163_R5100_2.jpg 768w,/uploads/images/600/1163_R5100_2.jpg 600w,/uploads/images/414/1163_R5100_2.jpg 414w,/uploads/images/375/1163_R5100_2.jpg 375w,/uploads/images/200/1163_R5100_2.jpg 200w,/uploads/images/150/1163_R5100_2.jpg 150w" data-src="/uploads/images/1440/1163_R5100_2.jpg?v=202502261456" alt="BEACH" width="1440" height="885" style="width:100%; vertical-align:middle; display: block;"></div></div>
+<div class="gastronomyText" data-rec-id="1163">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="wow fadeInUp" data-wow-delay="500ms">
+Relax on the sunbeds with the comfortable pillows&#160;while&#160;savoring premium cocktails, fresh juices, and selected snacks, all prepared in the hotel’s kitchen.
+</div>
+
+<div style="padding-bottom:30px"></div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="textRtoC" data-rec-id="1163">
+<a href="/beach/" target="_self" class="moreWhite">more</a></div>
+
+</div>
+<div class="clear"></div>
+
+</div></div>
+</div>
+<div class="gastronomySlideR">
+<div class="wow fadeInUp" data-wow-delay="800ms">
+<div class="image1_1163"><img class="lazyload" data-srcset="/uploads/images/600/1163_R4535_3.jpg 600w,/uploads/images/414/1163_R4535_3.jpg 414w,/uploads/images/375/1163_R4535_3.jpg 375w,/uploads/images/200/1163_R4535_3.jpg 200w,/uploads/images/150/1163_R4535_3.jpg 150w" data-src="/uploads/images/600/1163_R4535_3.jpg?v=202502261456" alt="BEACH" width="600" height="906" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+</li><li class="splide__slide wow fadeIn" data-wow-delay="100ms">
+
+
+<div style="display:block; margin:0;">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridRestaurantTopL">
+<div style="padding-bottom:1px"></div>
+</div>
+<div class="gridRestaurantTopR">
+<div class="homeTitle" data-rec-id="1164" data-field="Rec_Field2">
+WHERE WAVES MEET THE POOL'S EMBRACE!</div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridGastronomy">
+<div class="gastronomySlideL">
+<div class="wow fadeInUp" data-wow-delay="400ms">
+<div class="image1_1164"><img class="lazyload" data-srcset="/uploads/images/600/1164_R7759.jpg 600w,/uploads/images/414/1164_R7759.jpg 414w,/uploads/images/375/1164_R7759.jpg 375w,/uploads/images/200/1164_R7759.jpg 200w,/uploads/images/150/1164_R7759.jpg 150w" data-src="/uploads/images/600/1164_R7759.jpg?v=202502261501" alt="POOL" width="600" height="687" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+<div class="gastronomySlideC">
+<div class="wow fadeInUp" data-wow-delay="600ms">
+<div class="image1_1164"><img class="lazyload" data-srcset="/uploads/images/1440/1164_R9319_2.jpg 1440w,/uploads/images/1366/1164_R9319_2.jpg 1366w,/uploads/images/1280/1164_R9319_2.jpg 1280w,/uploads/images/1024/1164_R9319_2.jpg 1024w,/uploads/images/835/1164_R9319_2.jpg 835w,/uploads/images/768/1164_R9319_2.jpg 768w,/uploads/images/600/1164_R9319_2.jpg 600w,/uploads/images/414/1164_R9319_2.jpg 414w,/uploads/images/375/1164_R9319_2.jpg 375w,/uploads/images/200/1164_R9319_2.jpg 200w,/uploads/images/150/1164_R9319_2.jpg 150w" data-src="/uploads/images/1440/1164_R9319_2.jpg?v=202502261501" alt="POOL" width="1440" height="885" style="width:100%; vertical-align:middle; display: block;"></div></div>
+<div class="gastronomyText" data-rec-id="1164">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="wow fadeInUp" data-wow-delay="500ms">
+Start your day by relaxing on the comfortable sunbeds around our heated swimming pool, with an unobstructed view of the endless blue sea.
+</div>
+
+<div style="padding-bottom:30px"></div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="textRtoC" data-rec-id="1164">
+<a href="/pool/" target="_self" class="moreWhite">more</a></div>
+
+</div>
+<div class="clear"></div>
+
+</div></div>
+</div>
+<div class="gastronomySlideR">
+<div class="wow fadeInUp" data-wow-delay="800ms">
+<div class="image1_1164"><img class="lazyload" data-srcset="/uploads/images/600/1164_R4358_3.jpg 600w,/uploads/images/414/1164_R4358_3.jpg 414w,/uploads/images/375/1164_R4358_3.jpg 375w,/uploads/images/200/1164_R4358_3.jpg 200w,/uploads/images/150/1164_R4358_3.jpg 150w" data-src="/uploads/images/600/1164_R4358_3.jpg?v=202502261501" alt="POOL" width="600" height="906" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+</li>        </ul>
+    </div>
+
+	    <div class="splide__arrows">
+        <div class="arrow_bg"></div>
+	</div>
+	</div>
+
+<script>
+window.addEventListener("DOMContentLoaded", function(){
+	var pages = 1;
+	var padding = "0";
+	var gap = 0;
+// 	if($(window).width()<=1280) pages = 2;
+// 	if($(window).width()<=1024) pages = 1;
+// 	if($(window).width()<=768) pages = 1;
+	if($(window).width()<=680){ pages = 1; padding="0"; gap=15;}
+	var beachPoolSlide = new Splide( '#beachPoolSlide', {
+		interval:4000,
+		speed:1000,
+		pauseOnHover: true,
+		autoHeight: true,
+		autoplay: false,
+		arrows: true,
+		pagination:  false,
+		type: 'loop',
+		rewind: true,
+		perPage: pages,
+		perMove: 1,
+		gap: gap,
+		padding: { left: padding, right: padding },
+		updateOnMove: true,
+		 classes: {
+		arrows: 'splide__arrows',
+		arrow : 'arrow',
+		prev  : 'beachPoolSlide-prev',
+		next  : ' beachPoolSlide-next',
+        }
+	});
+	beachPoolSlide.on('lazyload:loaded', function(e){ })
+	beachPoolSlide.on( 'mounted', function () { });
+	beachPoolSlide.on( 'moved', function () { });
+	beachPoolSlide.mount();
+	
+	
+});
+
+</script>
+<style>
+    /*#beachPoolSlide .splide__arrow{background-color:transparent;border-radius:0;}*/
+    /*#beachPoolSlide .splide__slide>div{filter:opacity(0.5);transition:filter 200ms ease-in-out;}*/
+    /*#beachPoolSlide .splide__slide.is-visible>div{filter:opacity(1);}*/
+    /*#beachPoolSlide .splide__slide{height:70vh !important;}*/
+    .splide__arrows {position:absolute; top: 40%; bottom: 0; left: 0%; right: 0; width: 100%; height:0;}
+    
+    @media screen and (max-width: 1024px){
+        #beachPoolSlide .splide__slide{/*height:100vh !important;*/}
+    }
+    
+    @media screen and (max-width: 820px){
+        #beachPoolSlide .splide__slide{/*height:initial !important;*/}
+    }    
+    
+    @media screen and (max-width: 680px){
+            /*#beachPoolSlide .splide__slide>div{filter:opacity(0.5);transition:filter 200ms ease-in-out;}*/
+            /*#beachPoolSlide .splide__slide.is-visible>div{filter:opacity(1);}*/
+            #beachPoolSlide .splide__slide{/*height:initial !important;*/}
+            #beachPoolSlide .splide__pagination{bottom:-2.5em; }
+            #beachPoolSlide .splide__pagination__page {background:#989898; border-radius:50%; height:15px; width:15px; opacity:1; margin:10px;}
+            #beachPoolSlide .splide__pagination__page.is-active {background:#000000; transform:scale(1.1);}
+            
+            
+    }
+</style><div class="clear"></div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:130px;"></div>
+
+
+<div class="gastronomyBGout">
+
+<div style="display:block; width:100%; margin:auto;">
+
+
+<div class="splide relative" id="gastronomySlide">
+    <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide wow fadeIn" data-wow-delay="0ms">
+
+
+<div style="display:block; margin:0;">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gastronomyTitlePos">
+<div class="homeTitleWhite" data-rec-id="1120" data-field="Rec_Title">
+AZUR BAR – RESTAURANT</div>
+</div>
+<div class="image4_1120"><img class="lazyload" data-srcset="/uploads/images/1920/1120_R3945_4.jpg 1920w,/uploads/images/1600/1120_R3945_4.jpg 1600w,/uploads/images/1440/1120_R3945_4.jpg 1440w,/uploads/images/1366/1120_R3945_4.jpg 1366w,/uploads/images/1280/1120_R3945_4.jpg 1280w,/uploads/images/1024/1120_R3945_4.jpg 1024w,/uploads/images/835/1120_R3945_4.jpg 835w,/uploads/images/768/1120_R3945_4.jpg 768w,/uploads/images/600/1120_R3945_4.jpg 600w,/uploads/images/414/1120_R3945_4.jpg 414w,/uploads/images/375/1120_R3945_4.jpg 375w,/uploads/images/200/1120_R3945_4.jpg 200w,/uploads/images/150/1120_R3945_4.jpg 150w" data-src="/uploads/images/1920/1120_R3945_4.jpg?v=202505230901" alt="AZUR BAR – RESTAURANT" width="1920" height="905" style="width:100%; vertical-align:middle; display: block;"></div><div class="clear"></div>
+</div>
+<div class="gastronomyPanel">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gastronomyPanelGrid">
+Here is the place where an unforgettable culinary experience kicks off with the delicious breakfast, chilling out and falling in love with the view and our infinity pool that overlooks the Aegean Sea.<a href="/azur-bar-restaurant/" target="_self" class="moreWhite">more</a></div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+</li><li class="splide__slide wow fadeIn" data-wow-delay="100ms">
+
+
+<div style="display:block; margin:0;">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gastronomyTitlePos">
+<div class="homeTitleWhite" data-rec-id="1121" data-field="Rec_Title">
+VERANDA RESTAURANT</div>
+</div>
+<div class="image4_1121"><img class="lazyload" data-srcset="/uploads/images/1920/1121_R4652_4.jpg 1920w,/uploads/images/1600/1121_R4652_4.jpg 1600w,/uploads/images/1440/1121_R4652_4.jpg 1440w,/uploads/images/1366/1121_R4652_4.jpg 1366w,/uploads/images/1280/1121_R4652_4.jpg 1280w,/uploads/images/1024/1121_R4652_4.jpg 1024w,/uploads/images/835/1121_R4652_4.jpg 835w,/uploads/images/768/1121_R4652_4.jpg 768w,/uploads/images/600/1121_R4652_4.jpg 600w,/uploads/images/414/1121_R4652_4.jpg 414w,/uploads/images/375/1121_R4652_4.jpg 375w,/uploads/images/200/1121_R4652_4.jpg 200w,/uploads/images/150/1121_R4652_4.jpg 150w" data-src="/uploads/images/1920/1121_R4652_4.jpg?v=202505230902" alt="VERANDA RESTAURANT" width="1920" height="905" style="width:100%; vertical-align:middle; display: block;"></div><div class="clear"></div>
+</div>
+<div class="gastronomyPanel">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gastronomyPanelGrid">
+Indulge in an unforgettable culinary experience at our signature Veranda restaurant. Nestled amidst the breathtaking beauty of Vathi Bay, our restaurant offers a serene and sophisticated ambiance, perfect for a romantic dinner, a special occasion, or simply a delightful evening.<a href="/veranda-restaurant/" target="_self" class="moreWhite">more</a></div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+</li><li class="splide__slide wow fadeIn" data-wow-delay="200ms">
+
+<div style="padding-bottom:100px;">
+<div style="display:block; margin:0;">
+
+<div class="gastronomyListBG">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="textLtoC">
+<div class="restLogoTitle">
+<div class="restLogo" data-rec-id="1181">
+</div>
+<div class="homeTitle" data-rec-id="1181" data-field="Rec_Title">
+EXECUTIVE CHEF</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div style="padding-bottom:20px;"></div>
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridGastronomy">
+<div class="gastronomySlideL">
+<div class="image1_1181"><img class="lazyload" data-srcset="/uploads/images/600/1181_R1780.jpg 600w,/uploads/images/414/1181_R1780.jpg 414w,/uploads/images/375/1181_R1780.jpg 375w,/uploads/images/200/1181_R1780.jpg 200w,/uploads/images/150/1181_R1780.jpg 150w" data-src="/uploads/images/600/1181_R1780.jpg?v=202512151023" alt="EXECUTIVE CHEF" width="600" height="545" style="width:100%; vertical-align:middle; display: block;"></div></div>
+<div class="gastronomySlideC">
+<div class="image1_1181"><img class="lazyload" data-srcset="/uploads/images/1280/1181_R7411_2.jpg 1280w,/uploads/images/1024/1181_R7411_2.jpg 1024w,/uploads/images/835/1181_R7411_2.jpg 835w,/uploads/images/768/1181_R7411_2.jpg 768w,/uploads/images/600/1181_R7411_2.jpg 600w,/uploads/images/414/1181_R7411_2.jpg 414w,/uploads/images/375/1181_R7411_2.jpg 375w,/uploads/images/200/1181_R7411_2.jpg 200w,/uploads/images/150/1181_R7411_2.jpg 150w" data-src="/uploads/images/1280/1181_R7411_2.jpg?v=202512151023" alt="EXECUTIVE CHEF" width="1280" height="798" style="width:100%; vertical-align:middle; display: block;"></div><div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="gastronomyText" data-rec-id="1181" data-field="Rec_Desc">
+We are delighted to welcome award-winning chef Yiannis Marinopoulos to our hotel’s culinary team. A talented chef with a deep passion for Mediterranean cuisine, creativity, and authentic flavors. Using fresh local ingredients, modern techniques, and a cosmopolitan approach, he crafts dishes that leave a lasting impression. We look forward to sharing this new gastronomic era with you.</div>
+</div>
+<div style="padding-bottom:30px"></div>
+</div>
+<div class="gastronomySlideR">
+<div class="image1_1181"><img class="lazyload" data-srcset="/uploads/images/375/1181_R4673_3.jpg 375w,/uploads/images/200/1181_R4673_3.jpg 200w,/uploads/images/150/1181_R4673_3.jpg 150w" data-src="/uploads/images/375/1181_R4673_3.jpg?v=202512151023" alt="EXECUTIVE CHEF" width="375" height="506" style="width:100%; vertical-align:middle; display: block;"></div></div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="clear"></div>
+</li>        </ul>
+    </div>
+
+	    <div class="splide__arrows">
+        <div class="arrow_bg"></div>
+	</div>
+	</div>
+
+<script>
+window.addEventListener("DOMContentLoaded", function(){
+	var pages = 1;
+	var padding = "80px";
+	var gap = 160;
+	if($(window).width()<=1280){ padding = "30px"; gap = 60;}
+// 	if($(window).width()<=1024) pages = 1;
+// 	if($(window).width()<=768) pages = 1;
+	if($(window).width()<=680){ pages = 1; padding="0"; gap=20;}
+	var gastronomySlide = new Splide( '#gastronomySlide', {
+		interval:4000,
+		speed:1000,
+		pauseOnHover: true,
+		autoHeight: true,
+		autoplay: false,
+		arrows: true,
+		pagination:  false,
+		type: 'loop',
+		rewind: true,
+		perPage: pages,
+		perMove: 1,
+		gap: gap,
+		padding: { left: padding, right: padding },
+		updateOnMove: true,
+		 classes: {
+		arrows: 'splide__arrows',
+		arrow : 'arrow',
+		prev  : 'gastronomySlide-prev',
+		next  : ' gastronomySlide-next',
+        }
+	});
+	gastronomySlide.on('lazyload:loaded', function(e){ })
+	gastronomySlide.on( 'mounted', function () { });
+	gastronomySlide.on( 'moved', function () { });
+	gastronomySlide.mount();
+	
+	
+});
+
+</script>
+<style>
+    /*#gastronomySlide .splide__arrow{background-color:transparent;border-radius:0;}*/
+    /*#gastronomySlide .splide__slide>div{filter:opacity(0.5);transition:filter 200ms ease-in-out;}*/
+    /*#gastronomySlide .splide__slide.is-visible>div{filter:opacity(1);}*/
+    /*#gastronomySlide .splide__slide{height:70vh !important;}*/
+    .splide__arrows {position:absolute; top: 40%; bottom: 0; left: 0%; right: 0; width: 100%; height:0;}
+    #gastronomySlide .splide__track {overflow: visible;}
+    
+    @media screen and (max-width: 1024px){
+        #gastronomySlide .splide__slide{/*height:100vh !important;*/}
+    }
+    
+    @media screen and (max-width: 820px){
+        #gastronomySlide .splide__slide{/*height:initial !important;*/}
+    }    
+    
+    @media screen and (max-width: 680px){
+            /*#gastronomySlide .splide__slide>div{filter:opacity(0.5);transition:filter 200ms ease-in-out;}*/
+            /*#gastronomySlide .splide__slide.is-visible>div{filter:opacity(1);}*/
+            #gastronomySlide .splide__slide{/*height:initial !important;*/}
+            #gastronomySlide .splide__pagination{bottom:-2.5em; }
+            #gastronomySlide .splide__pagination__page {background:#989898; border-radius:50%; height:15px; width:15px; opacity:1; margin:10px;}
+            #gastronomySlide .splide__pagination__page.is-active {background:#000000; transform:scale(1.1);}
+            
+            
+    }
+</style><div class="gastronomyTitile" data-rec-id="1088" data-field="Rec_Field1">
+RESTAURANTS &amp; BARS</div>
+<div class="clear"></div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+
+
+<div class="clear"></div>
+
+<div style="padding-bottom:190px;"></div><div class="marginLR">
+
+
+
+<div class="actBG">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="flexBox">
+<div class="gridActL">
+<div class="wow fadeInLeft">
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="homeTitle" data-rec-id="1090" data-field="Rec_Field1">
+WELLNESS</div>
+</div>
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="image1_1090"><img class="lazyload" data-srcset="/uploads/images/1280/1090_R8422.jpg 1280w,/uploads/images/1024/1090_R8422.jpg 1024w,/uploads/images/835/1090_R8422.jpg 835w,/uploads/images/768/1090_R8422.jpg 768w,/uploads/images/600/1090_R8422.jpg 600w,/uploads/images/414/1090_R8422.jpg 414w,/uploads/images/375/1090_R8422.jpg 375w,/uploads/images/200/1090_R8422.jpg 200w,/uploads/images/150/1090_R8422.jpg 150w" data-src="/uploads/images/1280/1090_R8422.jpg?v=202501291706" alt="Wellness" width="1280" height="682" style="width:100%; vertical-align:middle; display: block;"></div></div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="activitiesText" data-rec-id="1090">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="textEditor_1090" data-rec-id="1090" data-field="Rec_Text1">Let us pamper you and awaken your senses at our luxurious on-site Armonia Spa. Immerse yourself in a world of tranquility and indulge in a variety of rejuvenating treatments, from soothing massages to revitalizing facials, Turkish baths, aromatherapy, and personalized massages.</div>
+<div style="padding-bottom:30px"></div>
+<a href="/well-being/" target="_self" class="moreWhite">more</a><div class="clear"></div>
+
+</div></div>
+</div>
+</div>
+</div>
+<div class="gridActR">
+<div class="wow fadeInRight">
+<div class="wow fadeInRight" data-wow-delay="500ms">
+<div class="image1_1090"><img class="lazyload" data-srcset="/uploads/images/1280/1090_R2990_2.jpg 1280w,/uploads/images/1024/1090_R2990_2.jpg 1024w,/uploads/images/835/1090_R2990_2.jpg 835w,/uploads/images/768/1090_R2990_2.jpg 768w,/uploads/images/600/1090_R2990_2.jpg 600w,/uploads/images/414/1090_R2990_2.jpg 414w,/uploads/images/375/1090_R2990_2.jpg 375w,/uploads/images/200/1090_R2990_2.jpg 200w,/uploads/images/150/1090_R2990_2.jpg 150w" data-src="/uploads/images/1280/1090_R2990_2.jpg?v=202501291706" alt="Wellness" width="1280" height="875" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:0px;"></div><div class="marginLR">
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:160px;"></div><div class="marginLR">
+
+
+
+<div class="conciergeBG">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridConciergeTopL">
+<div style="padding-bottom:1px"></div>
+</div>
+<div class="gridConciergeTopR">
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="homeSubtitle" data-rec-id="1158" data-field="Rec_Field1">
+- TRANSFER &amp; BOAT TRIPS</div>
+</div>
+<div style="padding-bottom:20px"></div>
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="homeTitle" data-rec-id="1158" data-field="Rec_Field2">
+FAST, SCENIC TRANSFER: PORT TO PARADISE!</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridConcierge">
+<div class="gridConciergeL">
+<div class="wow fadeInUp" data-wow-delay="400ms">
+<div class="image1_1158"><img class="lazyload" data-srcset="/uploads/images/600/1158_R1509.jpg 600w,/uploads/images/414/1158_R1509.jpg 414w,/uploads/images/375/1158_R1509.jpg 375w,/uploads/images/200/1158_R1509.jpg 200w,/uploads/images/150/1158_R1509.jpg 150w" data-src="/uploads/images/600/1158_R1509.jpg?v=202502261526" alt="Concierge" width="600" height="687" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+<div class="gridConciergeC">
+<div class="wow fadeInUp" data-wow-delay="600ms">
+<div class="image1_1158"><img class="lazyload" data-srcset="/uploads/images/1440/1158_R7383_2.jpg 1440w,/uploads/images/1366/1158_R7383_2.jpg 1366w,/uploads/images/1280/1158_R7383_2.jpg 1280w,/uploads/images/1024/1158_R7383_2.jpg 1024w,/uploads/images/835/1158_R7383_2.jpg 835w,/uploads/images/768/1158_R7383_2.jpg 768w,/uploads/images/600/1158_R7383_2.jpg 600w,/uploads/images/414/1158_R7383_2.jpg 414w,/uploads/images/375/1158_R7383_2.jpg 375w,/uploads/images/200/1158_R7383_2.jpg 200w,/uploads/images/150/1158_R7383_2.jpg 150w" data-src="/uploads/images/1440/1158_R7383_2.jpg?v=202502261526" alt="Concierge" width="1440" height="885" style="width:100%; vertical-align:middle; display: block;"></div></div>
+<div class="conciergeText" data-rec-id="1158">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="textEditor_1158" data-rec-id="1158" data-field="Rec_Text1">Experience unparalleled convenience with our exclusive "Axopar28 Cabin" motorboat service. Embark on scenic trips around Thassos Island or opt for a swift 40-minute transfer from Keramoti Port to our hotel.For added ease, combine your travel from Kavala Airport (KVA) to Keramoti Port by car, then directly to our hotel via motorboat. Our motorboat comfortably accommodates up to 6 passengers with luggage, ensuring a safe and pleasant journey.Enjoy the blend of convenience, speed, and beauty with our premium motorboat service, making your stay unforgettable.</div>
+</div>
+
+<div style="padding-bottom:30px"></div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="textRtoC" data-rec-id="1158">
+<a href="/concierge/" target="_self" class="moreWhite">more</a></div>
+
+</div>
+<div class="clear"></div>
+
+</div></div>
+</div>
+<div class="gridConciergeR">
+<div class="wow fadeInUp" data-wow-delay="800ms">
+<div class="image1_1158"><img class="lazyload" data-srcset="/uploads/images/600/1158_R7945_3.jpg 600w,/uploads/images/414/1158_R7945_3.jpg 414w,/uploads/images/375/1158_R7945_3.jpg 375w,/uploads/images/200/1158_R7945_3.jpg 200w,/uploads/images/150/1158_R7945_3.jpg 150w" data-src="/uploads/images/600/1158_R7945_3.jpg?v=202502261526" alt="Concierge" width="600" height="906" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:160px;"></div><div class="marginLR">
+
+
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridSpecial flexBox">
+<div class="gridSpecialL">
+<div class="image1_1157"><img class="lazyload" data-srcset="/uploads/images/1280/1157_R3574.jpg 1280w,/uploads/images/1024/1157_R3574.jpg 1024w,/uploads/images/835/1157_R3574.jpg 835w,/uploads/images/768/1157_R3574.jpg 768w,/uploads/images/600/1157_R3574.jpg 600w,/uploads/images/414/1157_R3574.jpg 414w,/uploads/images/375/1157_R3574.jpg 375w,/uploads/images/200/1157_R3574.jpg 200w,/uploads/images/150/1157_R3574.jpg 150w" data-src="/uploads/images/1280/1157_R3574.jpg?v=202502101627" alt="Special Occasion" width="1280" height="875" style="width:100%; vertical-align:middle; display: block;"></div></div>
+<div class="gridSpecialR">
+<div class="textRtoL">
+<div class="homeTitle" data-rec-id="1157" data-field="Rec_Field1">
+SPECIAL OCCASION</div>
+</div>
+<div class="image1_1157"><img class="lazyload" data-srcset="/uploads/images/1280/1157_R8342_2.jpg 1280w,/uploads/images/1024/1157_R8342_2.jpg 1024w,/uploads/images/835/1157_R8342_2.jpg 835w,/uploads/images/768/1157_R8342_2.jpg 768w,/uploads/images/600/1157_R8342_2.jpg 600w,/uploads/images/414/1157_R8342_2.jpg 414w,/uploads/images/375/1157_R8342_2.jpg 375w,/uploads/images/200/1157_R8342_2.jpg 200w,/uploads/images/150/1157_R8342_2.jpg 150w" data-src="/uploads/images/1280/1157_R8342_2.jpg?v=202502101627" alt="Special Occasion" width="1280" height="683" style="width:100%; vertical-align:middle; display: block;"></div><div class="specialPadding" data-rec-id="1157">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="textEditor_1157" data-rec-id="1157" data-field="Rec_Text1">For special occasions, we offer personalized services to make your celebrations unforgettable. Whether it's a birthday or anniversary, our team ensures every detail is perfect. We also host weddings and other special events, providing all the necessary arrangements for your dream day. Let us help you create memorable moments during your stay.</div>
+<div style="padding-bottom:30px"></div>
+<a href="/special-occasion/" target="_self" class="moreWhite">more</a><div class="clear"></div>
+
+</div></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:0px;"></div><div class="instaBG">
+<div class="marginLR">
+
+
+
+<div style="display:block; width:100%; margin:auto;">
+<div id="instagram-feed">
+<div class="flexBox" data-rec-id="1091">
+
+
+
+<div id="instaGalGroup1" class="gridHomeInsta wow fadeIn"><a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_9544.jpg" href="/uploads/photos/600/2025/01/instagram_9544.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_9544.jpg); background-size: cover;  background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+<a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_8352.jpg" href="/uploads/photos/600/2025/01/instagram_8352.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_8352.jpg); background-size: cover;  background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+<a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_3065.jpg" href="/uploads/photos/600/2025/01/instagram_3065.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_3065.jpg); background-size: cover;  background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+<a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_1142.jpg" href="/uploads/photos/600/2025/01/instagram_1142.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_1142.jpg); background-size: cover;  background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+</div><div class="instaSepDiv"><div class="instaDetails"><div class="homeTitle">LIVE INSTA</div><div style="padding-bottom:20px;"></div><div class="homeSubtitle"></div><div class="instaText"></div><a href="https://www.instagram.com/vathicovethassos/" target="_blank" class="moreHash" style="width:20%;" alt="Follow Us on Instagram">#VATHICOVETHASSOS/</a></div><div class="instaSepImg"><div class="image1_1091"><img class="lazyload" data-srcset="/uploads/images/768/1091_R4867.jpg 768w,/uploads/images/600/1091_R4867.jpg 600w,/uploads/images/414/1091_R4867.jpg 414w,/uploads/images/375/1091_R4867.jpg 375w,/uploads/images/200/1091_R4867.jpg 200w,/uploads/images/150/1091_R4867.jpg 150w" data-src="/uploads/images/768/1091_R4867.jpg?v=202502171140" alt="Instagram" width="768" height="556" style="width:100%; vertical-align:middle; display: block;"></div></div></div><div id="instaGalGroup2" class="gridHomeInsta wow fadeIn"><a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_9571.jpg" href="/uploads/photos/600/2025/01/instagram_9571.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_9571.jpg); background-size: cover; background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+<a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_7109.jpg" href="/uploads/photos/600/2025/01/instagram_7109.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_7109.jpg); background-size: cover; background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+<a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_5211.jpg" href="/uploads/photos/600/2025/01/instagram_5211.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_5211.jpg); background-size: cover; background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+<a class="fancybox" data-fancybox="gallery38" data-thumb="/uploads/photos/600/2025/01/instagram_5506.jpg" href="/uploads/photos/600/2025/01/instagram_5506.jpg" title="">
+<div class="gridGalleryInsta"><div class="gridGalleryItem">
+<div class="imageArea" style="background-image: url(/uploads/photos/600/2025/01/instagram_5506.jpg); background-size: cover; background-position:50%;"><span class="photoshoverInsta"></span></div>
+</div></div>
+</a>
+</div><div style="clear:both;"></div>
+<style>
+    .instaText {
+        padding:50px 0;
+    }
+    
+    .instaDetails .homeTitle{padding-bottom:0;}
+    
+    .gridHomeInsta{
+        float: left;
+        width: 35%;
+        margin: 0;
+        margin-top: 40px;
+    }    
+    
+    .gridGalleryInsta{
+        float: left;
+        width: 50%;
+        padding: 10px;
+    }
+    
+    .instaSepDiv{
+        float: left;
+        width: 30%;
+        /*margin: 0 1%;*/
+        padding: 0 10px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        position: relative;
+    }
+    
+    .instaDetails {
+        /*padding: 0 60px 50px;*/
+        padding: 0 3vw 50px;
+    }
+    
+    .gridGalleryInsta{
+        position:relative;
+    }
+    .photoshoverInsta{
+        position:absolute;background-color:rgba(0,0,0,.7);
+        top:0;left:0;right:0;bottom:0;color:#fff;
+        z-index: 10;
+        opacity: 0;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        background-position:50%;
+    }
+    .photoshoverInsta:before{
+        content:"\f004   45";
+        font-family: Font-Awesome;
+        display: inline-table;
+        color:#fff;
+        margin: 0 auto;
+        vertical-align: middle;
+        position: relative;
+        top: 45%;
+        bottom: 0;
+        left: 30%;
+        right: 0;
+        /*transform: translate(30%, -50%);*/
+    }
+    .photoshoverInsta:after{
+        content:"\e914   5";
+        font-family: Font-Awesome;
+        display: inline-table;
+        color:#fff;
+        margin: 0 auto;
+        vertical-align: middle;
+        position: relative;
+        top: 45%;
+        bottom: 0;
+        left: 40%;
+        right: 0;
+        /*transform: translate(-50%, -50%);*/
+    }
+    .photoshoverInsta:hover{
+        opacity:1;
+    }
+    
+     @media screen and (max-width: 1366px) {
+         .instaDetails{
+             padding:0 0px 25px;
+         }
+         
+         .photoshoverInsta:before{
+             top:40%;
+             left:25%;
+         }
+         
+         .photoshoverInsta:after{
+             top:40%;
+         }
+         
+         .gridGalleryInsta{
+             padding: 5px;
+         }
+     }
+     
+     
+     @media screen and (max-width: 1024px) {
+        .instaText {
+            padding:30px 0;
+        }
+     }
+     
+     
+     @media screen and (max-width: 1024px) {
+         .instaSepDiv{
+             width:100%;
+             text-align:center;
+             order:0;
+         }
+         
+         .gridHomeInsta{
+             width:50%;
+             order:1;
+         }
+         
+         .instaSepImg{
+             display:none;
+         }
+     }
+     
+     @media screen and (max-width: 680px) {
+         .instaSepDiv{top:0;}
+         .gridGalleryInsta{
+             width:100%;
+             padding:10px;
+         }
+         .instaDetails{
+             padding:0;
+         }
+         .gridHomeInsta{
+             margin-top:10px;
+         }
+        .instaText {
+            padding:20px 0;
+        }
+         
+     }
+
+</style></div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div style="padding-bottom:0px;"></div><div class="marginLR">
+
+
+<div class="gridLocationBG">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="flexBox">
+<div class="gridLocationL">
+<div class="wow fadeIn">
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="homeSubtitle" data-rec-id="1092" data-field="Rec_Field1">
+</div>
+</div>
+<div style="padding-bottom:20px"></div>
+<div class="wow fadeInRight" data-wow-delay="500ms">
+<div class="homeTitle" data-rec-id="1092" data-field="Rec_Field2">
+WOW LOCATION</div>
+</div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="justify" data-rec-id="1092" data-field="Rec_Editor1">
+<div class="textEditor_1092" data-rec-id="1092" data-field="Rec_Text1">Our hotel is on Thassos island, famous for its history, olive oil, honey, and the unique in the word, Thassian bright- white marble. Surrounded by lush pine forests, it sits on Vathi beach with turquoise waters and a sandy shore. Guests can explore ancient ruins, traditional villages, enjoy water sports, or hike scenic trails. The location is ideal for both relaxation and adventure.</div></div>
+</div>
+<div style="padding-bottom:40px"></div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<a href="/thasos-location/" target="_self" class="more">more</a></div>
+</div>
+</div>
+<div class="gridLocationC">
+<div class="wow fadeIn">
+<div class="wow fadeInDown" data-wow-delay="500ms">
+<div class="imgLoc1" data-rec-id="1092">
+<div class="image1_1092"><img class="lazyload" data-srcset="/uploads/images/600/1092_R6007.jpg 600w,/uploads/images/414/1092_R6007.jpg 414w,/uploads/images/375/1092_R6007.jpg 375w,/uploads/images/200/1092_R6007.jpg 200w,/uploads/images/150/1092_R6007.jpg 150w" data-src="/uploads/images/600/1092_R6007.jpg?v=202501301200" alt="Location" width="600" height="619" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+<div style="padding-bottom:20px"></div>
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="imgLoc2" data-rec-id="1092">
+<div class="image1_1092"><img class="lazyload" data-srcset="/uploads/images/1280/1092_R2478_2.jpg 1280w,/uploads/images/1024/1092_R2478_2.jpg 1024w,/uploads/images/835/1092_R2478_2.jpg 835w,/uploads/images/768/1092_R2478_2.jpg 768w,/uploads/images/600/1092_R2478_2.jpg 600w,/uploads/images/414/1092_R2478_2.jpg 414w,/uploads/images/375/1092_R2478_2.jpg 375w,/uploads/images/200/1092_R2478_2.jpg 200w,/uploads/images/150/1092_R2478_2.jpg 150w" data-src="/uploads/images/1280/1092_R2478_2.jpg?v=202501301200" alt="Location" width="1280" height="630" style="width:100%; vertical-align:middle; display: block;"></div></div>
+</div>
+</div>
+</div>
+<div class="gridLocationR">
+<div class="wow fadeInRight">
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#variousmap").fancybox({
+            type:'iframe',
+            toolbar  : true,
+            buttons : ['close'],
+        });
+    });
+</script>
+
+
+<a id="variousmap" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35193.99929422468!2d24.761580497114103!3d40.758005064661674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ae8d9b0fd316d5%3A0xce0841ca1555086b!2sVathi%20Cove%20Luxury%20Resort%20%26%20Spa!5e0!3m2!1sen!2sgr!4v1737013513046!5m2!1sen!2sgr" href="javascript:;"><img data-srcset="/uploads/images/768/1068_R8204_2.jpg 768w,/uploads/images/600/1068_R8204_2.jpg 600w,/uploads/images/414/1068_R8204_2.jpg 414w,/uploads/images/375/1068_R8204_2.jpg 375w,/uploads/images/200/1068_R8204_2.jpg 200w,/uploads/images/150/1068_R8204_2.jpg 150w" data-src="uploads/images/1068_R8204_2.jpg" srcset="/uploads/images/768/1068_R8204_2.jpg 768w,/uploads/images/600/1068_R8204_2.jpg 600w,/uploads/images/414/1068_R8204_2.jpg 414w,/uploads/images/375/1068_R8204_2.jpg 375w,/uploads/images/200/1068_R8204_2.jpg 200w,/uploads/images/150/1068_R8204_2.jpg 150w" src="uploads/images/1068_R8204_2.jpg" alt="Google Map" width="100%" height="auto"></a></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:160px;"></div><div class="marginLR">
+
+
+
+<div class="simpleLink">
+
+<a href="/explore-thassos/" target="_self">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="wow fadeIn">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="gridImages">
+<div class="wow fadeInUp" data-wow-delay="500ms">
+<div class="image1_1085"><img class="lazyload" data-srcset="/uploads/images/1280/1085_R4070.jpg 1280w,/uploads/images/1024/1085_R4070.jpg 1024w,/uploads/images/835/1085_R4070.jpg 835w,/uploads/images/768/1085_R4070.jpg 768w,/uploads/images/600/1085_R4070.jpg 600w,/uploads/images/414/1085_R4070.jpg 414w,/uploads/images/375/1085_R4070.jpg 375w,/uploads/images/200/1085_R4070.jpg 200w,/uploads/images/150/1085_R4070.jpg 150w" data-src="/uploads/images/1280/1085_R4070.jpg?v=202502241747" alt="Explore" width="1280" height="851" style="width:100%; vertical-align:middle; display: block;"></div>
+</div>
+<div class="wow fadeInDown" data-wow-delay="500ms">
+<div class="image2_1085"><img class="lazyload" data-srcset="/uploads/images/600/1085_R9269_2.jpg 600w,/uploads/images/414/1085_R9269_2.jpg 414w,/uploads/images/375/1085_R9269_2.jpg 375w,/uploads/images/200/1085_R9269_2.jpg 200w,/uploads/images/150/1085_R9269_2.jpg 150w" data-src="/uploads/images/600/1085_R9269_2.jpg?v=202502241747" alt="Explore" width="600" height="851" style="width:100%; vertical-align:middle; display: block;"></div>
+</div>
+<div class="clear"></div>
+
+</div>
+</div></div>
+<div class="clear"></div>
+</div>
+<div class="textExploreAbs">
+
+<div style="display:block; width:100%; margin:auto;">
+<div class="grid40to100">
+<div class="textLtoC">
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="homeTitleWhite" data-rec-id="1085" data-field="Rec_Field1">
+EXPLORE THASSOS</div>
+</div>
+</div>
+</div>
+<div class="grid60to100">
+<div class="textRtoC">
+<div class="wow fadeInLeft" data-wow-delay="500ms">
+<div class="descWhite" data-rec-id="1085" data-field="Rec_Editor1">
+<div class="textEditor_1085" data-rec-id="1085" data-field="Rec_Text1">Discover the enchanting island of Thassos, a true gem of the Northern Aegean Sea. Renowned for its lush greenery, pristine beaches, and rich history, Thassos offers a unique blend of natural beauty and cultural heritage. Wander through traditional villages, explore ancient ruins, and savor the local cuisine with its array of fresh, Mediterranean flavors. Whether you seek adventure, relaxation, or a bit of both, Thassos provides an unforgettable experience for every traveler. Let us guide you to the island’s hidden treasures and must-see attractions, ensuring you make the most of your visit to this idyllic paradise.</div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+</a></div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+<div style="padding-bottom:150px;"></div>
+<div class="clear"></div>
+</div><div style="padding-bottom:0px;"></div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div>
+<div id="LayerRow3">
+<div class="footerLR">
+<div style="display:block; width:100%; margin:auto;">
+<div class="top60 gridFooterPage">
+<div class="footerL">
+<div class="footerTextLtoC">
+<div class="footerLogo">
+<a href="/" aria-label="Logo"><img src="/uploads/images/vathi_cove_1068_R2161_logofooter.png" width="auto" height="auto" title="" alt="" border="0"></a></div>
+
+<div style="padding-bottom:15px"></div>
+<div class="addresstext">Vathi Beach, Thassos<br>
+Tel: <a class="contactLink" href="tel:+302593440920">+30 2593 440920</a><br>
+Email: <a class="contactLink" href="mailto:info@vathicove.gr">info@vathicove.gr</a><br>
+BRN 147290630000</div></div>
+</div>
+<div class="footerLC">
+<div class="footerTextLtoC">
+<div class="top5"><a href="/privacy-policy-en/" class="footerSitemap">Privacy Policy</a></div><div style="clear:both;"></div></div>
+</div>
+<div class="footerCR">
+<div class="textRtoC">
+<div class="center flexBoxSocial">
+
+                <a href="https://www.facebook.com/vathicovethassos/" target="_blank" rel="noopener" class="social" data-wow-delay="0.3">
+                                    <i class="fas fab fa-facebook-f" width="100%" height="100%" title="Follow us on Facebook" alt="Follow us on Facebook"></i>
+                            </a>
+                        <a href="https://www.instagram.com/vathicovethassos/" target="_blank" rel="noopener" class="social" data-wow-delay="0.6">
+                                    <i class="fas fab fa-instagram" width="100%" height="100%" title="Follow us on instagram" alt="Follow us on instagram"></i>
+                            </a>
+                <div style="clear:both;"></div>
+</div></div>
+</div>
+<div class="footerR">
+<div class="banner" style="width:px;"><img src="/uploads/images/1151_R1486.png" alt="ban2" title="ban2" width="auto" height="auto"></div><div class="banner" style="width:px;"><img src="/uploads/images/1152_R8985.png" alt="ban1" title="ban1" width="auto" height="auto"></div></div>
+<div class="clear"></div>
+
+</div>
+</div>
+<div style="display:block; width:100%; margin:auto;">
+<div class="grid50to100">
+<div class="textLtoC">
+<div class="top20">
+<div class="footerText">© 2026 Vathi Cove Luxury Hotel. All rights reserved.
+<!--  | <a href="/privacy-policy-en/" target="_blank" class="footerLinks">Privacy Policy</a>-->
+</div></div>
+</div>
+</div>
+<div class="grid50to100">
+<div class="textRtoC">
+<div class="top20">
+<div class="footerText">
+<a href="http://360hotelmarketing.com/" target="_blank" class="footerLinks"> 360° Hotel Digital Marketing OVERRON </a>
+</div></div>
+</div>
+</div>
+<div class="clear"></div>
+
+</div>
+<div style="padding-bottom:20px;"></div>
+
+</div><div style="clear:both;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+    <link type="text/css" rel="stylesheet" href="/min/f=library/javascripts/animate-css/animate.min.css">
+<script type="text/javascript" src="/min/f=library/javascripts/animate-css/wow.min.js,js/inline_bodyclose.js&1800" defer></script>
+</body>
+</html>
