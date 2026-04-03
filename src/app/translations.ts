@@ -15,7 +15,7 @@ export const translations = {
     },
     hero: {
       location: "Thassos, Greece",
-      tagline: "Five boutique villas embracing the sea, just steps from the beach",
+      tagline: "Where Love Meets the Sea",
       discover: "Discover",
     },
     about: {
@@ -319,7 +319,7 @@ export const translations = {
     },
     hero: {
       location: "Θάσος, Ελλάδα",
-      tagline: "Πέντε boutique βίλες που αγκαλιάζουν τη θάλασσα, λίγα βήματα από την παραλία",
+      tagline: "Εκεί που η Αγάπη Συναντά τη Θάλασσα",
       discover: "Ανακαλύψτε",
     },
     about: {

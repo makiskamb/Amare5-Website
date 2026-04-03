@@ -155,6 +155,11 @@ export function VillasPage() {
                       ))}
                     </div>
 
+                    {/* Pricing */}
+                    <p className="mb-6" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", letterSpacing: "0.3em", textTransform: "uppercase" }}>
+                      Rates — <Link to="/contact" className="hover:text-[#3a3028] transition-colors" style={{ borderBottom: "1px solid currentColor", paddingBottom: "1px" }}>Inquire</Link>
+                    </p>
+
                     <div className="flex gap-4">
                       <Link
                         to={`/villas/${villa.slug}`}

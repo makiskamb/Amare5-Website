@@ -30,12 +30,58 @@ export function HeroSection() {
         }}
       />
 
-      {/* DISCOVER button — anchored near the bottom */}
-      <div className="absolute bottom-20 left-1/2 -translate-x-1/2">
+      {/* Slogan — editorial staggered split */}
+      <div className="absolute inset-0 pointer-events-none" aria-hidden="true">
+        {/* LEFT: "Where / Love" — upper-left */}
+        <div
+          className="am-hero-item am-d1 absolute"
+          style={{ left: "5vw", top: "28%" }}
+        >
+          <div
+            style={{
+              fontFamily: "'Noto Serif Display', serif",
+              fontSize: "clamp(48px, 9.5vw, 124px)",
+              fontWeight: 300,
+              color: "white",
+              lineHeight: 0.92,
+              letterSpacing: "-0.01em",
+              textShadow: "0 2px 40px rgba(0,0,0,0.18)",
+            }}
+          >
+            <div>Where</div>
+            <div>Love</div>
+          </div>
+        </div>
+
+        {/* RIGHT: "Meets / the / Sea" — lower-right */}
+        <div
+          className="am-hero-item am-d2 absolute"
+          style={{ right: "5vw", bottom: "18%", textAlign: "right" }}
+        >
+          <div
+            style={{
+              fontFamily: "'Noto Serif Display', serif",
+              fontSize: "clamp(48px, 9.5vw, 124px)",
+              fontWeight: 300,
+              color: "white",
+              lineHeight: 0.92,
+              letterSpacing: "-0.01em",
+              textShadow: "0 2px 40px rgba(0,0,0,0.18)",
+            }}
+          >
+            <div>Meets</div>
+            <div>the</div>
+            <div>Sea</div>
+          </div>
+        </div>
+      </div>
+
+      {/* DISCOVER button — centre, above scroll indicator */}
+      <div className="absolute bottom-16 left-1/2 -translate-x-1/2">
         <Link
           to="/villas"
           viewTransition
-          className="am-hero-item am-d1 inline-block tracking-[0.35em] uppercase px-10 py-3.5 transition-all duration-300"
+          className="am-hero-item am-d3 inline-block tracking-[0.35em] uppercase px-10 py-3.5 transition-all duration-300"
           style={{
             fontFamily: "'Catamaran', sans-serif",
             fontSize: "10px",

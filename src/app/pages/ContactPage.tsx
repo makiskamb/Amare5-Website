@@ -1,4 +1,40 @@
 import { useState } from "react";
+
+function FAQItem({ question, answer, index }: { question: string; answer: string; index: number }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <div
+      className={`am-reveal am-reveal-d${(index % 5) + 1} border-t border-[#3a3028]/10`}
+      style={{ borderBottom: index === 7 ? "1px solid rgba(58,48,40,0.1)" : undefined }}
+    >
+      <button
+        onClick={() => setOpen((o) => !o)}
+        className="w-full flex items-center justify-between py-6 text-left group"
+      >
+        <span style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(15px, 2vw, 18px)", color: "#3a3028", fontWeight: 400 }}>
+          {question}
+        </span>
+        <span
+          className="flex-shrink-0 ml-6 transition-transform duration-300"
+          style={{ transform: open ? "rotate(45deg)" : "rotate(0deg)", color: "#9A8B7A", fontSize: "20px", lineHeight: 1 }}
+        >
+          +
+        </span>
+      </button>
+      <div
+        style={{
+          maxHeight: open ? "300px" : "0px",
+          overflow: "hidden",
+          transition: "max-height 0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        }}
+      >
+        <p className="pb-6" style={{ fontFamily: "'Nanum Myeongjo', serif", fontSize: "14px", color: "#3a3028", lineHeight: 2, opacity: 0.75 }}>
+          {answer}
+        </p>
+      </div>
+    </div>
+  );
+}
 import { useLanguage } from "../context/LanguageContext";
 import { PageHero } from "../components/PageHero";
 import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.jpg";
@@ -66,6 +102,38 @@ export function ContactPage() {
         >
           {pc.intro}
         </p>
+      </section>
+
+      {/* ── How it works ── */}
+      <section className="pb-20 px-6 md:px-16" style={{ backgroundColor: "#EDE8E1" }}>
+        <div className="max-w-6xl mx-auto">
+          <p className="am-reveal text-center uppercase tracking-[0.5em] mb-12 pt-16" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
+            How it works
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
+            {[
+              { step: "01", title: "Inquire", body: "Send us a message with your preferred dates, villa, and number of guests. No commitment required." },
+              { step: "02", title: "Confirm", body: "We'll respond within 24 hours with availability, a tailored quote, and all the details you need." },
+              { step: "03", title: "Arrive", body: "Once confirmed, simply arrive and let us take care of everything. Your stay begins the moment you do." },
+            ].map(({ step, title, body }, i) => (
+              <div
+                key={step}
+                className={`am-reveal am-reveal-d${i + 1} p-10 md:p-14 relative`}
+                style={{ borderLeft: i > 0 ? "1px solid rgba(58,48,40,0.1)" : undefined }}
+              >
+                <p className="mb-6" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500, letterSpacing: "0.4em" }}>
+                  {step}
+                </p>
+                <h3 className="mb-4" style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(22px, 3vw, 32px)", color: "#3a3028", fontWeight: 400 }}>
+                  {title}
+                </h3>
+                <p style={{ fontFamily: "'Nanum Myeongjo', serif", fontSize: "14px", color: "#3a3028", lineHeight: 2, opacity: 0.75 }}>
+                  {body}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
       </section>
 
       {/* ── Form + Info ── */}
@@ -331,6 +399,31 @@ export function ContactPage() {
                 ))}
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+      {/* ── FAQ ── */}
+      <section className="py-24 px-6 md:px-16" style={{ backgroundColor: "#EDE8E1" }}>
+        <div className="max-w-3xl mx-auto">
+          <p className="am-reveal uppercase tracking-[0.5em] mb-3 text-center" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
+            FAQ
+          </p>
+          <h2 className="am-reveal am-reveal-d1 text-center mb-16" style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(24px, 3.5vw, 38px)", color: "#3a3028", fontWeight: 400 }}>
+            Frequently Asked Questions
+          </h2>
+          <div className="space-y-0">
+            {[
+              { q: "What is the minimum stay?", a: "Our villas require a minimum of 3 nights. During peak season (July–August) a 7-night minimum applies." },
+              { q: "What is your pricing?", a: "Rates vary by villa, season, and duration. Contact us for a tailored quote — we're happy to find the best option for your stay." },
+              { q: "What is included in the villa?", a: "Each villa includes daily housekeeping, welcome hamper, private pool, high-speed Wi-Fi, air conditioning, and a fully equipped kitchen. Breakfast is available on request." },
+              { q: "What is your cancellation policy?", a: "Cancellations 90+ days before arrival receive a full refund. 60–90 days: 50% refund. Under 60 days: non-refundable. See our Terms & Conditions for full details." },
+              { q: "Can I host events or gatherings?", a: "Small private gatherings for villa guests are welcome. Larger events require prior approval — please mention this in your enquiry." },
+              { q: "Are pets allowed?", a: "We love animals, but unfortunately pets are not permitted in our villas at this time." },
+              { q: "Is airport transfer available?", a: "Yes. We can arrange private transfers from Kavala Airport (KVA) or Thessaloniki Airport (SKG). Please enquire when booking." },
+              { q: "Can I request early check-in or late check-out?", a: "We'll do our best to accommodate, subject to availability. Please let us know in advance and we'll arrange it." },
+            ].map(({ q, a }, i) => (
+              <FAQItem key={i} question={q} answer={a} index={i} />
+            ))}
           </div>
         </div>
       </section>
