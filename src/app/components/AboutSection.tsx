@@ -11,7 +11,7 @@ export function AboutSection() {
       <div className="max-w-6xl mx-auto">
         {/* Welcome Label */}
         <p
-          className="text-center uppercase tracking-[0.5em] mb-4"
+          className="am-reveal text-center uppercase tracking-[0.5em] mb-4"
           style={{
             fontFamily: "'Catamaran', sans-serif",
             fontSize: "11px",
@@ -22,7 +22,7 @@ export function AboutSection() {
           {t.about.label}
         </p>
         <h2
-          className="text-center mb-16"
+          className="am-reveal am-reveal-d1 text-center mb-16"
           style={{
             fontFamily: "'Noto Serif Display', serif",
             fontSize: "clamp(32px, 4.5vw, 56px)",
@@ -36,7 +36,7 @@ export function AboutSection() {
 
         {/* Two column layout */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center mb-20">
-          <div>
+          <div className="am-reveal">
             <img
               loading="lazy"
               src={aerialView}
@@ -46,7 +46,7 @@ export function AboutSection() {
           </div>
           <div>
             <p
-              className="mb-6"
+              className="am-reveal mb-6"
               style={{
                 fontFamily: "'Nanum Myeongjo', serif",
                 fontSize: "15px",
@@ -58,7 +58,7 @@ export function AboutSection() {
               {t.about.p1}
             </p>
             <p
-              className="mb-8"
+              className="am-reveal am-reveal-d1 mb-8"
               style={{
                 fontFamily: "'Nanum Myeongjo', serif",
                 fontSize: "15px",
@@ -85,7 +85,7 @@ export function AboutSection() {
         </div>
 
         {/* Full width beachfront image */}
-        <div className="relative">
+        <div className="am-reveal relative">
           <img
             loading="lazy"
             src={beachfrontView}

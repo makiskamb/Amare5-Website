@@ -21,7 +21,7 @@ export function ExperiencesSection() {
     >
       <div className="max-w-6xl mx-auto">
         <p
-          className="text-center uppercase tracking-[0.5em] mb-4"
+          className="am-reveal text-center uppercase tracking-[0.5em] mb-4"
           style={{
             fontFamily: "'Catamaran', sans-serif",
             fontSize: "11px",
@@ -32,7 +32,7 @@ export function ExperiencesSection() {
           {t.experiences.label}
         </p>
         <h2
-          className="text-center mb-16"
+          className="am-reveal am-reveal-d1 text-center mb-16"
           style={{
             fontFamily: "'Noto Serif Display', serif",
             fontSize: "clamp(28px, 4vw, 52px)",
@@ -51,7 +51,7 @@ export function ExperiencesSection() {
             return (
               <div
                 key={i}
-                className="text-center p-6 md:p-8"
+                className={`am-reveal am-reveal-d${i % 5 + 1} text-center p-6 md:p-8`}
                 style={{ backgroundColor: "#F5F0EB" }}
               >
                 <span className="mb-4 flex justify-center">
@@ -86,7 +86,7 @@ export function ExperiencesSection() {
 
         {/* Two images side by side */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div className="relative overflow-hidden">
+          <div className="am-reveal relative overflow-hidden">
             <img
               loading="lazy"
               src={poolArea}
@@ -106,7 +106,7 @@ export function ExperiencesSection() {
               </p>
             </div>
           </div>
-          <div className="relative overflow-hidden">
+          <div className="am-reveal am-reveal-d1 relative overflow-hidden">
             <ImageWithFallback
               src={sunsetImage}
               alt="Golden hour sunset at Limenaria"

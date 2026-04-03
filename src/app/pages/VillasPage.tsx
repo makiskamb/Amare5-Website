@@ -20,7 +20,7 @@ export function VillasPage() {
       {/* Intro */}
       <section className="py-20 px-6 md:px-16 text-center" style={{ backgroundColor: "#F5F0EB" }}>
         <p
-          className="max-w-2xl mx-auto"
+          className="am-reveal max-w-2xl mx-auto"
           style={{
             fontFamily: "'Nanum Myeongjo', serif",
             fontSize: "16px",
@@ -42,7 +42,7 @@ export function VillasPage() {
             return (
               <div
                 key={key}
-                className={`grid grid-cols-1 md:grid-cols-2 ${i < villaKeys.length - 1 ? "mb-2" : ""}`}
+                className={`am-reveal am-reveal-d${i % 5 + 1} grid grid-cols-1 md:grid-cols-2 ${i < villaKeys.length - 1 ? "mb-2" : ""}`}
                 style={{ backgroundColor: i % 3 === 1 ? "#EDE8E1" : "#F5F0EB" }}
               >
                 {/* Image side */}
@@ -193,18 +193,19 @@ export function VillasPage() {
       <section className="py-16 px-6 md:px-16 text-center" style={{ backgroundColor: "#EDE8E1" }}>
         <div className="max-w-xl mx-auto">
           <p
-            className="uppercase tracking-[0.5em] mb-5"
+            className="am-reveal uppercase tracking-[0.5em] mb-5"
             style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}
           >
             {t.architecture.label}
           </p>
           <p
+            className="am-reveal am-reveal-d1"
             style={{ fontFamily: "'Nanum Myeongjo', serif", fontSize: "15px", color: "#3a3028", lineHeight: 2, opacity: 0.75 }}
           >
             {t.architecture.body}
           </p>
         </div>
-        <div className="flex justify-center gap-6 mt-10 flex-wrap">
+        <div className="am-reveal am-reveal-d2 flex justify-center gap-6 mt-10 flex-wrap">
           {t.architecture.materials.map((mat) => (
             <span
               key={mat}
@@ -226,14 +227,14 @@ export function VillasPage() {
           Amare5 — Thassos
         </p>
         <h2
-          className="mb-8 text-white"
+          className="am-reveal mb-8 text-white"
           style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(24px, 4vw, 46px)", fontWeight: 400 }}
         >
           {t.hero.tagline}
         </h2>
         <Link
           to="/book"
-          className="inline-block uppercase tracking-[0.35em] bg-white text-[#3a3028] px-10 py-4 hover:bg-[#F5F0EB] transition-colors duration-300"
+          className="am-reveal am-reveal-d1 inline-block uppercase tracking-[0.35em] bg-white text-[#3a3028] px-10 py-4 hover:bg-[#F5F0EB] transition-colors duration-300"
           style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
         >
           {t.nav.bookNow}

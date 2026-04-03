@@ -167,7 +167,7 @@ export function BookPage() {
           {/* ── Step 1: Villa Selection ── */}
           <section className="px-6 md:px-16 pb-16" style={{ backgroundColor: "#F5F0EB" }}>
             <div className="max-w-6xl mx-auto">
-              <p className="text-center mb-10" style={sectionLabelStyle}>
+              <p className="am-reveal text-center mb-10" style={sectionLabelStyle}>
                 {isGr ? "01 — Επιλογή Βίλας" : "01 — Select Your Villa"}
               </p>
               <div className="grid grid-cols-1 md:grid-cols-5 gap-2">
@@ -179,7 +179,7 @@ export function BookPage() {
                       key={key}
                       type="button"
                       onClick={() => setSelectedVilla(isSelected ? "" : key)}
-                      className="relative group overflow-hidden text-left transition-all duration-300 focus:outline-none"
+                      className={`am-reveal am-reveal-d${i % 5 + 1} relative group overflow-hidden text-left transition-all duration-300 focus:outline-none`}
                       style={{
                         outline: isSelected ? "1.5px solid #3a3028" : "1.5px solid transparent",
                       }}
@@ -259,11 +259,11 @@ export function BookPage() {
           {/* ── Step 2: Dates & Guests ── */}
           <section className="px-6 md:px-16 py-16" style={{ backgroundColor: "#EDE8E1" }}>
             <div className="max-w-3xl mx-auto">
-              <p className="text-center mb-10" style={sectionLabelStyle}>
+              <p className="am-reveal text-center mb-10" style={sectionLabelStyle}>
                 {isGr ? "02 — Ημερομηνίες & Άτομα" : "02 — Dates & Guests"}
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
-                <div>
+                <div className="am-reveal am-reveal-d1">
                   <label style={labelStyle}>{isGr ? "Άφιξη" : "Check-In"}</label>
                   <input
                     type="date"
@@ -275,7 +275,7 @@ export function BookPage() {
                     style={{ ...inputStyle, backgroundColor: "transparent" }}
                   />
                 </div>
-                <div>
+                <div className="am-reveal am-reveal-d2">
                   <label style={labelStyle}>{isGr ? "Αναχώρηση" : "Check-Out"}</label>
                   <input
                     type="date"
@@ -287,7 +287,7 @@ export function BookPage() {
                     style={{ ...inputStyle, backgroundColor: "transparent" }}
                   />
                 </div>
-                <div>
+                <div className="am-reveal am-reveal-d3">
                   <label style={labelStyle}>{isGr ? "Αριθμός Ατόμων" : "Guests"}</label>
                   <select
                     name="guests"
@@ -309,10 +309,10 @@ export function BookPage() {
             </div>
           </section>
 
-          {/* ── Step 3: Add-ons ── */}
-          <section className="px-6 md:px-16 py-16" style={{ backgroundColor: "#F5F0EB" }}>
+          {/* ── Step 3: Add-ons ── (hidden for now) */}
+          <section className="px-6 md:px-16 py-16" style={{ backgroundColor: "#F5F0EB", display: "none" }}>
             <div className="max-w-6xl mx-auto">
-              <p className="text-center mb-3" style={sectionLabelStyle}>
+              <p className="am-reveal text-center mb-3" style={sectionLabelStyle}>
                 {isGr ? "03 — Βελτιώστε τη Διαμονή σας" : "03 — Enhance Your Stay"}
               </p>
               <p
@@ -322,14 +322,14 @@ export function BookPage() {
                 {isGr ? "Προαιρετικά" : "Optional add-ons"}
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-                {ADDONS.map((addon) => {
+                {ADDONS.map((addon, addonIdx) => {
                   const isChecked = selectedAddons.has(addon.id);
                   return (
                     <button
                       key={addon.id}
                       type="button"
                       onClick={() => toggleAddon(addon.id)}
-                      className="text-left p-8 transition-all duration-300 focus:outline-none"
+                      className={`am-reveal am-reveal-d${addonIdx % 5 + 1} text-left p-8 transition-all duration-300 focus:outline-none`}
                       style={{
                         backgroundColor: isChecked ? "#EDE8E1" : "transparent",
                         border: isChecked ? "1px solid rgba(58,48,40,0.2)" : "1px solid rgba(58,48,40,0.1)",
@@ -388,11 +388,11 @@ export function BookPage() {
           {/* ── Step 4: Your Details ── */}
           <section className="px-6 md:px-16 py-16" style={{ backgroundColor: "#EDE8E1" }}>
             <div className="max-w-3xl mx-auto">
-              <p className="text-center mb-10" style={sectionLabelStyle}>
+              <p className="am-reveal text-center mb-10" style={sectionLabelStyle}>
                 {isGr ? "04 — Στοιχεία Επικοινωνίας" : "04 — Your Details"}
               </p>
               <div className="space-y-8">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div className="am-reveal am-reveal-d1 grid grid-cols-1 md:grid-cols-2 gap-8">
                   <div>
                     <label style={labelStyle}>{isGr ? "Πλήρες Όνομα" : "Full Name"}</label>
                     <input
@@ -419,7 +419,7 @@ export function BookPage() {
                     />
                   </div>
                 </div>
-                <div>
+                <div className="am-reveal am-reveal-d2">
                   <label style={labelStyle}>{isGr ? "Email" : "Email Address"}</label>
                   <input
                     type="email"
@@ -432,7 +432,7 @@ export function BookPage() {
                     placeholder="—"
                   />
                 </div>
-                <div>
+                <div className="am-reveal am-reveal-d3">
                   <label style={labelStyle}>{isGr ? "Μήνυμα ή Ειδικές Απαιτήσεις" : "Message or Special Requests"}</label>
                   <textarea
                     name="message"

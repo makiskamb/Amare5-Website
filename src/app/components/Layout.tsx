@@ -4,6 +4,7 @@ import { Footer } from "./Footer";
 import { LenisProvider } from "./LenisProvider";
 import { useState, useEffect, useRef } from "react";
 import logoImg from "../../assets/d70a7dfdc5b2fbaf4173fce891e3d6e1089d971c.png";
+import { useScrollReveal } from "../hooks/useScrollReveal";
 
 function PageLoader() {
   const [visible, setVisible] = useState(false);
@@ -73,6 +74,7 @@ function PageLoader() {
 }
 
 export function Layout() {
+  useScrollReveal();
   return (
     <LenisProvider>
       <div className="w-full" style={{ backgroundColor: "#F5F0EB" }}>

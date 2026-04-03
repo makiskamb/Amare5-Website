@@ -15,7 +15,7 @@ export function AccommodationSection() {
     >
       <div className="max-w-6xl mx-auto">
         <p
-          className="text-center uppercase tracking-[0.5em] mb-4"
+          className="am-reveal text-center uppercase tracking-[0.5em] mb-4"
           style={{
             fontFamily: "'Catamaran', sans-serif",
             fontSize: "11px",
@@ -26,7 +26,7 @@ export function AccommodationSection() {
           {t.accommodation.label}
         </p>
         <h2
-          className="text-center mb-16"
+          className="am-reveal am-reveal-d1 text-center mb-16"
           style={{
             fontFamily: "'Noto Serif Display', serif",
             fontSize: "clamp(28px, 4vw, 52px)",
@@ -49,7 +49,7 @@ export function AccommodationSection() {
                 <Link
                   key={key}
                   to={`/villas/${villa.slug}`}
-                  className="block group py-4 border-b border-[#3a3028]/10"
+                  className={`am-reveal am-reveal-d${i % 5 + 1} block group py-4 border-b border-[#3a3028]/10`}
                 >
                   <div className="flex items-baseline justify-between">
                     <div>
@@ -92,7 +92,7 @@ export function AccommodationSection() {
             })}
           </div>
 
-          <div>
+          <div className="am-reveal">
             <img
               loading="lazy"
               src={beachfrontView}

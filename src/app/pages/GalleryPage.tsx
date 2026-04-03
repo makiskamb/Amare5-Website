@@ -97,7 +97,7 @@ export function GalleryPage() {
       {/* ── Category Tabs ── */}
       <section className="px-6 md:px-16 pb-10" style={{ backgroundColor: "#F5F0EB" }}>
         <div className="max-w-6xl mx-auto">
-          <div className="flex items-center justify-center gap-8 md:gap-12 border-b border-[#3a3028]/10 pb-0">
+          <div className="am-reveal flex items-center justify-center gap-8 md:gap-12 border-b border-[#3a3028]/10 pb-0">
             {CATEGORIES.map((cat) => {
               const isActive = activeCategory === cat.key;
               return (
@@ -229,7 +229,7 @@ interface GalleryTileProps {
 function GalleryTile({ item, index, onClick, uniformHeight }: GalleryTileProps) {
   return (
     <div
-      className={`overflow-hidden cursor-pointer group relative ${uniformHeight ? "h-[280px]" : item.span ?? ""}`}
+      className={`am-reveal am-reveal-d${index % 5 + 1} overflow-hidden cursor-pointer group relative ${uniformHeight ? "h-[280px]" : item.span ?? ""}`}
       onClick={() => onClick(index)}
     >
       <ImageWithFallback

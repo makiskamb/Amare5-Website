@@ -85,19 +85,8 @@ export function Header() {
           <span />
         </label>
 
-        {/* Right: lang + Book Now */}
+        {/* Right: Book Now only */}
         <div className="flex items-center gap-4">
-          <button
-            onClick={() => setLang(lang === "en" ? "gr" : "en")}
-            className={`uppercase tracking-[0.2em] transition-colors duration-300 ${
-              textLight ? "text-white/60 hover:text-white" : "text-[#9A8B7A] hover:text-[#3a3028]"
-            }`}
-            style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
-            aria-label="Toggle language"
-          >
-            {lang === "en" ? "ΕΛ" : "EN"}
-          </button>
-
           <Link
             to="/book"
             viewTransition
@@ -164,6 +153,39 @@ export function Header() {
           >
             {t.nav.bookNow}
           </Link>
+
+          {/* ── Bottom row: socials + language ── */}
+          <div
+            className={`flex items-center gap-6 mt-12${menuOpen ? " am-menu-item" : ""}`}
+            style={{ animationDelay: menuOpen ? `${(navItems.length + 1) * 0.07}s` : "0s" }}
+          >
+            {[
+              { label: "Instagram", href: "https://www.instagram.com/" },
+              { label: "Facebook",  href: "https://www.facebook.com/" },
+              { label: "Google",    href: "https://g.page/" },
+            ].map(({ label, href }) => (
+              <a
+                key={label}
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#9A8B7A] hover:text-[#3a3028] transition-colors duration-300"
+                style={{ fontFamily: "'Nanum Myeongjo', serif", fontSize: "13px" }}
+              >
+                {label}
+              </a>
+            ))}
+
+            <span className="w-px h-3 bg-[#3a3028]/20" />
+
+            <button
+              onClick={() => setLang(lang === "en" ? "gr" : "en")}
+              className="uppercase tracking-[0.25em] text-[#9A8B7A] hover:text-[#3a3028] transition-colors duration-300"
+              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+            >
+              {lang === "en" ? "ΕΛ" : "EN"}
+            </button>
+          </div>
         </nav>
       </div>
     </>

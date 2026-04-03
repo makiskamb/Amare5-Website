@@ -91,7 +91,7 @@ export function ContactPage() {
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-8">
-                <div>
+                <div className="am-reveal am-reveal-d1">
                   <label style={labelStyle}>{pc.form.name}</label>
                   <input
                     type="text"
@@ -105,7 +105,7 @@ export function ContactPage() {
                   />
                 </div>
 
-                <div>
+                <div className="am-reveal am-reveal-d2">
                   <label style={labelStyle}>{pc.form.email}</label>
                   <input
                     type="email"
@@ -119,7 +119,7 @@ export function ContactPage() {
                   />
                 </div>
 
-                <div>
+                <div className="am-reveal am-reveal-d3">
                   <label style={labelStyle}>{pc.form.phone}</label>
                   <input
                     type="tel"
@@ -132,7 +132,7 @@ export function ContactPage() {
                   />
                 </div>
 
-                <div className="grid grid-cols-2 gap-6">
+                <div className="am-reveal am-reveal-d4 grid grid-cols-2 gap-6">
                   <div>
                     <label style={labelStyle}>{pc.form.dates}</label>
                     <input
@@ -161,7 +161,7 @@ export function ContactPage() {
                   </div>
                 </div>
 
-                <div>
+                <div className="am-reveal am-reveal-d5">
                   <label style={labelStyle}>{pc.form.villaLabel}</label>
                   <select
                     name="villa"
@@ -181,7 +181,7 @@ export function ContactPage() {
                   </select>
                 </div>
 
-                <div>
+                <div className="am-reveal">
                   <label style={labelStyle}>{pc.form.message}</label>
                   <textarea
                     name="message"
@@ -210,7 +210,7 @@ export function ContactPage() {
             <div className="w-10 h-px bg-[#3a3028]/20" />
 
             {/* Reach us */}
-            <div>
+            <div className="am-reveal am-reveal-d1">
               <p className="uppercase tracking-[0.35em] mb-3" style={{ ...labelStyle }}>
                 {pc.reachUs}
               </p>
@@ -228,7 +228,7 @@ export function ContactPage() {
             </div>
 
             {/* Location */}
-            <div>
+            <div className="am-reveal am-reveal-d2">
               <p className="uppercase tracking-[0.35em] mb-3" style={{ ...labelStyle }}>
                 {t.footer.locationLabel}
               </p>
@@ -240,7 +240,7 @@ export function ContactPage() {
             </div>
 
             {/* Check-in / Check-out */}
-            <div>
+            <div className="am-reveal am-reveal-d3">
               <p className="uppercase tracking-[0.35em] mb-4" style={{ ...labelStyle }}>
                 Check-In / Check-Out
               </p>
@@ -270,7 +270,7 @@ export function ContactPage() {
             </div>
 
             {/* Office hours */}
-            <div>
+            <div className="am-reveal am-reveal-d4">
               <p className="uppercase tracking-[0.35em] mb-3" style={{ ...labelStyle }}>
                 {pc.hours}
               </p>
@@ -284,7 +284,7 @@ export function ContactPage() {
               <p className="uppercase tracking-[0.35em] mb-3" style={{ ...labelStyle }}>
                 Location
               </p>
-              <div className="overflow-hidden" style={{ height: "260px" }}>
+              <div className="am-reveal overflow-hidden" style={{ height: "260px" }}>
                 <iframe
                   title="Amare5 location — Limenaria, Thassos"
                   width="100%"

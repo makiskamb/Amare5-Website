@@ -2,13 +2,14 @@ import { useState } from "react";
 import { Link } from "react-router";
 import { useLanguage } from "../context/LanguageContext";
 import logoImg from "../../assets/d70a7dfdc5b2fbaf4173fce891e3d6e1089d971c.png";
+import mushroomLogo from "../../assets/MUSHROOM_WHITE web.png";
 
 export function Footer() {
   const [email, setEmail] = useState("");
   const { t } = useLanguage();
 
   return (
-    <footer id="contact" className="py-20 md:py-28 px-6 md:px-16" style={{ backgroundColor: "#3a3028" }}>
+    <footer id="contact" className="pt-10 md:pt-14 pb-8 px-6 md:px-16" style={{ backgroundColor: "#3a3028" }}>
       <div className="max-w-5xl mx-auto">
         {/* Logo */}
         <div className="text-center mb-10">
@@ -147,13 +148,31 @@ export function Footer() {
           ))}
         </div>
 
-        <div className="border-t border-white/10 pt-6">
+        <div className="border-t border-white/10 pt-6 flex flex-col items-center gap-4">
           <p
             className="text-center text-white/25"
             style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px" }}
           >
             {t.footer.copyright}
           </p>
+          <a
+            href="https://www.mushroomdesign.gr/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-3 opacity-30 hover:opacity-60 transition-opacity duration-300"
+          >
+            <span
+              className="text-white uppercase tracking-[0.3em]"
+              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", fontWeight: 500 }}
+            >
+              Powered by
+            </span>
+            <img
+              src={mushroomLogo}
+              alt="Mushroom Design"
+              style={{ height: "18px", width: "auto" }}
+            />
+          </a>
         </div>
       </div>
     </footer>

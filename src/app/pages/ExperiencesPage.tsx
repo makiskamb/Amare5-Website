@@ -89,6 +89,7 @@ export function ExperiencesPage() {
       <section className="py-20 px-6 md:px-16 text-center" style={{ backgroundColor: "#F5F0EB" }}>
         <div className="max-w-2xl mx-auto">
           <p
+            className="am-reveal"
             style={{
               fontFamily: "'Nanum Myeongjo', serif",
               fontSize: "16px",
@@ -111,7 +112,7 @@ export function ExperiencesPage() {
           {pe.items.map((exp, i) => (
             <div
               key={i}
-              className="p-10 md:p-14 transition-colors duration-300 hover:bg-[#EDE8E1]/60"
+              className={`am-reveal am-reveal-d${i % 5 + 1} p-10 md:p-14 transition-colors duration-300 hover:bg-[#EDE8E1]/60`}
               style={{ backgroundColor: i % 4 < 2 ? "#F5F0EB" : "#EDE8E1" }}
             >
               <span className="block mb-5">
@@ -146,7 +147,7 @@ export function ExperiencesPage() {
       <section className="py-6 px-6 md:px-16" style={{ backgroundColor: "#F5F0EB" }}>
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-2">
           {[poolArea, aerialView, firePitLounge].map((src, i) => (
-            <div key={i} className="overflow-hidden">
+            <div key={i} className={`am-reveal am-reveal-d${i + 1} overflow-hidden`}>
               <img
                 loading="lazy"
                 src={src}
@@ -162,13 +163,13 @@ export function ExperiencesPage() {
       <section className="py-20 px-6 md:px-16" style={{ backgroundColor: "#EDE8E1" }}>
         <div className="max-w-6xl mx-auto">
           <p
-            className="uppercase tracking-[0.5em] mb-4 text-center"
+            className="am-reveal uppercase tracking-[0.5em] mb-4 text-center"
             style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", color: "#9A8B7A", fontWeight: 500 }}
           >
             {isGr ? "Τοπικές Δραστηριότητες" : "Local Activities"}
           </p>
           <h2
-            className="text-center mb-16"
+            className="am-reveal am-reveal-d1 text-center mb-16"
             style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(26px, 3.5vw, 44px)", color: "#3a3028", fontWeight: 400 }}
           >
             {isGr ? "Γύρω από τη Λιμενάρια" : "Around Limenaria"}
@@ -178,7 +179,7 @@ export function ExperiencesPage() {
             {LOCAL_ACTIVITIES.map((act, i) => (
               <div
                 key={i}
-                className="p-8 md:p-10 border-b md:border-b-0 border-[#3a3028]/8 last:border-b-0 md:border-r odd:md:border-r even:md:border-r-0"
+                className={`am-reveal am-reveal-d${i % 5 + 1} p-8 md:p-10 border-b md:border-b-0 border-[#3a3028]/8 last:border-b-0 md:border-r odd:md:border-r even:md:border-r-0`}
                 style={{
                   borderColor: "rgba(58,48,40,0.08)",
                   backgroundColor: i % 4 < 2 ? "transparent" : "rgba(255,255,255,0.3)",
@@ -222,7 +223,7 @@ export function ExperiencesPage() {
           Amare5
         </p>
         <h2
-          className="mb-8 text-white"
+          className="am-reveal mb-8 text-white"
           style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(24px, 4vw, 48px)", fontWeight: 400 }}
         >
           {t.hero.tagline}
@@ -230,7 +231,7 @@ export function ExperiencesPage() {
         <div className="flex items-center justify-center gap-4 flex-wrap">
           <Link
             to="/book"
-            className="inline-block uppercase tracking-[0.35em] bg-white text-[#3a3028] px-8 py-3 hover:bg-[#F5F0EB] transition-colors duration-300"
+            className="am-reveal am-reveal-d1 inline-block uppercase tracking-[0.35em] bg-white text-[#3a3028] px-8 py-3 hover:bg-[#F5F0EB] transition-colors duration-300"
             style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
           >
             {t.nav.bookNow}
