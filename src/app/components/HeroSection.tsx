@@ -56,7 +56,7 @@ export function HeroSection() {
         {/* RIGHT: "Meets / the / Sea" — lower-right */}
         <div
           className="am-hero-item am-d2 absolute"
-          style={{ right: "5vw", bottom: "18%", textAlign: "right" }}
+          style={{ right: "5vw", bottom: "22%", textAlign: "right" }}
         >
           <div
             style={{

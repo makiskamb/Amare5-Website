@@ -54,24 +54,24 @@ export function Header() {
   return (
     <>
       {/* ── Centred logo — always fixed ── */}
-      <div className="fixed top-0 left-1/2 -translate-x-1/2 z-[200] flex items-center h-[88px] pointer-events-none">
+      <div className="fixed top-0 left-1/2 -translate-x-1/2 z-[200] flex items-center h-[60px] md:h-[88px] pointer-events-none">
         <Link to="/" viewTransition className="pointer-events-auto">
           <img
             src={logoImg}
             alt="Amare5 Thassos Exclusive Villas"
-            className={`h-28 md:h-32 w-auto transition-all duration-500 ${logoFilter}`}
+            className={`h-16 md:h-28 w-auto transition-all duration-500 ${logoFilter}`}
           />
         </Link>
       </div>
 
       {/* ── Header bar ── */}
       <header
-        className={`fixed top-0 left-0 right-0 z-[150] flex items-center justify-between h-[88px] transition-all duration-500 ${
+        className={`fixed top-0 left-0 right-0 z-[150] flex items-center justify-between h-[60px] md:h-[88px] transition-all duration-500 ${
           useScrolledStyle
             ? "bg-[#F5F0EB]/92 backdrop-blur-md shadow-sm shadow-black/5"
             : "bg-transparent"
         }`}
-        style={{ padding: "0 clamp(24px, 4vw, 48px)" }}
+        style={{ padding: "0 clamp(16px, 4vw, 48px)" }}
       >
         {/* Hamburger — always visible */}
         <label className={`burger${textLight && !menuOpen ? " light" : ""}`} aria-label="Toggle menu">
@@ -85,12 +85,12 @@ export function Header() {
           <span />
         </label>
 
-        {/* Right: Book Now only */}
+        {/* Right: Book Now — hidden on mobile, visible md+ */}
         <div className="flex items-center gap-4">
           <Link
             to="/book"
             viewTransition
-            className="tracking-[0.28em] uppercase px-5 py-2 transition-all duration-300"
+            className="hidden md:inline-block tracking-[0.28em] uppercase px-5 py-2 transition-all duration-300"
             style={{
               fontFamily: "'Catamaran', sans-serif",
               fontSize: "10px",
@@ -116,7 +116,7 @@ export function Header() {
         style={{ backgroundColor: "#F5F0EB" }}
       >
         {/* Overlay top bar — spacer only, burger sits above via z-index */}
-        <div className="h-[88px]" />
+        <div className="h-[60px] md:h-[88px]" />
 
         {/* Nav links */}
         <nav className="flex flex-col items-center justify-center h-[calc(100%-88px)] gap-1">
