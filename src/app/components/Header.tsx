@@ -29,6 +29,18 @@ export function Header() {
   const useScrolledStyle = scrolled || !isHome;
   const textLight = !useScrolledStyle && !menuOpen;
 
+  // Sync iOS status-bar / safe-area colour with navbar state
+  useEffect(() => {
+    const color = useScrolledStyle || menuOpen ? "#F5F0EB" : "#1a1410";
+    let tag = document.querySelector<HTMLMetaElement>('meta[name="theme-color"]');
+    if (!tag) {
+      tag = document.createElement("meta");
+      tag.name = "theme-color";
+      document.head.appendChild(tag);
+    }
+    tag.content = color;
+  }, [useScrolledStyle, menuOpen]);
+
   const navItems = [
     { label: t.nav.home,          href: "/" },
     { label: t.nav.villas,        href: "/villas" },
@@ -59,7 +71,7 @@ export function Header() {
           <img
             src={logoImg}
             alt="Amare5 Thassos Exclusive Villas"
-            className={`h-[60px] md:h-28 w-auto transition-all duration-500 ${logoFilter}`}
+            className={`h-[72px] md:h-28 w-auto transition-all duration-500 ${logoFilter}`}
           />
         </Link>
       </div>
