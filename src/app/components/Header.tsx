@@ -54,24 +54,29 @@ export function Header() {
   return (
     <>
       {/* ── Centred logo — always fixed ── */}
-      <div className="fixed top-0 left-1/2 -translate-x-1/2 z-[200] flex items-center h-[60px] md:h-[88px] pointer-events-none">
+      <div className="fixed top-0 left-1/2 -translate-x-1/2 z-[200] flex items-center h-[72px] md:h-[88px] pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 0px)" }}>
         <Link to="/" viewTransition className="pointer-events-auto">
           <img
             src={logoImg}
             alt="Amare5 Thassos Exclusive Villas"
-            className={`h-16 md:h-28 w-auto transition-all duration-500 ${logoFilter}`}
+            className={`h-[60px] md:h-28 w-auto transition-all duration-500 ${logoFilter}`}
           />
         </Link>
       </div>
 
       {/* ── Header bar ── */}
       <header
-        className={`fixed top-0 left-0 right-0 z-[150] flex items-center justify-between h-[60px] md:h-[88px] transition-all duration-500 ${
+        className={`fixed top-0 left-0 right-0 z-[150] flex items-center justify-between h-[72px] md:h-[88px] transition-all duration-500 ${
           useScrolledStyle
             ? "bg-[#F5F0EB]/92 backdrop-blur-md shadow-sm shadow-black/5"
-            : "bg-transparent"
+            : "bg-gradient-to-b from-black/30 to-transparent"
         }`}
-        style={{ padding: "0 clamp(16px, 4vw, 48px)" }}
+        style={{
+          paddingLeft: "clamp(16px, 4vw, 48px)",
+          paddingRight: "clamp(16px, 4vw, 48px)",
+          paddingTop: "env(safe-area-inset-top, 0px)",
+          height: "calc(72px + env(safe-area-inset-top, 0px))",
+        }}
       >
         {/* Hamburger — always visible */}
         <label className={`burger${textLight && !menuOpen ? " light" : ""}`} aria-label="Toggle menu">
@@ -116,7 +121,7 @@ export function Header() {
         style={{ backgroundColor: "#F5F0EB" }}
       >
         {/* Overlay top bar — spacer only, burger sits above via z-index */}
-        <div className="h-[60px] md:h-[88px]" />
+        <div style={{ height: "calc(72px + env(safe-area-inset-top, 0px))" }} />
 
         {/* Nav links */}
         <nav className="flex flex-col items-center justify-center h-[calc(100%-88px)] gap-1">
