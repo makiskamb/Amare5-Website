@@ -6,102 +6,115 @@ export function ArchitectureSection() {
   const { t } = useLanguage();
 
   return (
-    <section
-      id="architecture"
-      className="py-24 md:py-36 px-6 md:px-16"
-      style={{ backgroundColor: "#F5F0EB" }}
-    >
-      <div className="max-w-6xl mx-auto">
-        <p
-          className="text-center uppercase tracking-[0.5em] mb-4"
-          style={{
-            fontFamily: "'Catamaran', sans-serif",
-            fontSize: "11px",
-            color: "#9A8B7A",
-            fontWeight: 500,
-          }}
-        >
+    <section id="architecture" style={{ backgroundColor: "#F5F0EB" }}>
+
+      {/* ── Top breathing room ── */}
+      <div style={{ height: "clamp(80px, 12vw, 160px)" }} />
+
+      {/* ── Label ── */}
+      <div className="am-reveal text-center px-6 mb-10">
+        <p className="uppercase tracking-[0.5em]"
+          style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "11px", color: "#9A8B7A", fontWeight: 500 }}>
           {t.architecture.label}
         </p>
-        <h2
-          className="text-center mb-6"
-          style={{
-            fontFamily: "'Noto Serif Display', serif",
-            fontSize: "clamp(28px, 4vw, 52px)",
-            color: "#3a3028",
-            fontWeight: 400,
-            lineHeight: 1.15,
-          }}
-        >
-          {t.architecture.title1}
-          <br />
-          {t.architecture.title2}
-        </h2>
-        <p
-          className="text-center max-w-2xl mx-auto mb-16"
-          style={{
-            fontFamily: "'Nanum Myeongjo', serif",
-            fontSize: "15px",
-            color: "#3a3028",
-            lineHeight: 2,
-            opacity: 0.8,
-          }}
-        >
+      </div>
+
+      {/* ── Oversized stacked headline — touches body text below ── */}
+      <div className="am-reveal am-reveal-d1 px-4 overflow-hidden relative z-[2]"
+        style={{ marginBottom: "clamp(-20px, -2vw, -10px)" }}>
+        <div style={{
+          fontFamily: "'Afjat Trends', serif",
+          fontSize: "clamp(44px, 8vw, 120px)",
+          fontWeight: 400,
+          color: "#3a3028",
+          lineHeight: 0.93,
+          letterSpacing: "-0.01em",
+        }}>
+          <div style={{ marginLeft: "clamp(0px, 2vw, 36px)" }}>{t.architecture.title1}</div>
+          <div style={{ marginLeft: "clamp(48px, 10vw, 160px)" }}>{t.architecture.title2}</div>
+        </div>
+      </div>
+
+      {/* ── Body text — left-aligned, offset, not centered ── */}
+      <div className="am-reveal px-8 md:px-16 mb-20 md:mb-28 relative z-[1]" style={{ paddingTop: "clamp(32px, 4vw, 56px)" }}>
+        <p style={{
+          fontFamily: "'Nanum Myeongjo', serif",
+          fontSize: "15px",
+          color: "#3a3028",
+          lineHeight: 2.1,
+          letterSpacing: "0.02em",
+          opacity: 0.75,
+          maxWidth: "520px",
+          marginLeft: "clamp(0px, 14vw, 220px)",
+        }}>
           {t.architecture.body}
         </p>
+      </div>
 
-        {/* Image Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div className="md:col-span-2">
+      {/* ── Irregular image grid: 2/3 large · 1/3 right column ── */}
+      <div>
+        <div className="grid grid-cols-1 md:grid-cols-3 items-start"
+          style={{ gap: "clamp(8px, 1.2vw, 16px)" }}>
+
+          {/* Large image — 2/3 */}
+          <div className="am-reveal md:col-span-2">
             <img
               loading="lazy"
               src={firePitLounge}
               alt="Amare5 sunken fire pit lounge with stone walls and pergolas"
-              className="w-full h-[300px] md:h-[500px] object-cover"
+              style={{
+                width: "100%",
+                height: "clamp(280px, 42vw, 560px)",
+                objectFit: "cover",
+                display: "block",
+              }}
             />
           </div>
-          <div className="flex flex-col gap-4">
-            <img
-              loading="lazy"
-              src={aerialView}
-              alt="Amare5 villas aerial view showing cascading architecture"
-              className="w-full h-[148px] md:h-[244px] object-cover"
-            />
-            <div
-              className="flex-1 flex items-center justify-center p-8"
-              style={{ backgroundColor: "#DDD5CA" }}
-            >
-              <div className="text-center">
-                <p
-                  className="uppercase tracking-[0.3em] mb-3"
-                  style={{
-                    fontFamily: "'Catamaran', sans-serif",
-                    fontSize: "10px",
-                    color: "#9A8B7A",
-                    fontWeight: 500,
-                  }}
-                >
-                  {t.architecture.materialsLabel}
-                </p>
-                <div className="flex flex-col gap-2">
-                  {t.architecture.materials.map((mat) => (
-                    <span
-                      key={mat}
-                      style={{
-                        fontFamily: "'Noto Serif Display', serif",
-                        fontSize: "14px",
-                        color: "#3a3028",
-                      }}
-                    >
-                      {mat}
-                    </span>
-                  ))}
-                </div>
+
+          {/* Right column: smaller image + floating materials list */}
+          <div className="flex flex-col" style={{ gap: "clamp(8px, 1.2vw, 16px)" }}>
+            <div className="am-reveal am-reveal-d1">
+              <img
+                loading="lazy"
+                src={aerialView}
+                alt="Amare5 villas aerial view"
+                style={{
+                  width: "100%",
+                  height: "clamp(160px, 20vw, 260px)",
+                  objectFit: "cover",
+                  display: "block",
+                }}
+              />
+            </div>
+
+            {/* Materials — floating list, no card box */}
+            <div className="am-reveal am-reveal-d2 py-8 px-1">
+              <p className="uppercase tracking-[0.35em] mb-6"
+                style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", color: "#9A8B7A", fontWeight: 500 }}>
+                {t.architecture.materialsLabel}
+              </p>
+              <div className="flex flex-col gap-3">
+                {t.architecture.materials.map((mat, i) => (
+                  <span key={mat} style={{
+                    fontFamily: "'Afjat Trends', serif",
+                    fontSize: "clamp(15px, 1.6vw, 22px)",
+                    color: "#3a3028",
+                    fontWeight: 300,
+                    opacity: 1 - i * 0.14,
+                    letterSpacing: "-0.01em",
+                    display: "block",
+                  }}>
+                    {mat}
+                  </span>
+                ))}
               </div>
             </div>
           </div>
         </div>
       </div>
+
+      {/* ── Bottom breathing room ── */}
+      <div style={{ height: "clamp(80px, 12vw, 160px)" }} />
     </section>
   );
 }

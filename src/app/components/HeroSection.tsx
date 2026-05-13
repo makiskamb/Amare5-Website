@@ -39,11 +39,11 @@ export function HeroSection() {
         >
           <div
             style={{
-              fontFamily: "'Noto Serif Display', serif",
-              fontSize: "clamp(48px, 9.5vw, 124px)",
-              fontWeight: 300,
+              fontFamily: "'Afjat Trends', serif",
+              fontSize: "clamp(36px, 6.5vw, 90px)",
+              fontWeight: 100,
               color: "white",
-              lineHeight: 0.92,
+              lineHeight: 1.2,
               letterSpacing: "-0.01em",
               textShadow: "0 2px 40px rgba(0,0,0,0.18)",
             }}
@@ -60,11 +60,11 @@ export function HeroSection() {
         >
           <div
             style={{
-              fontFamily: "'Noto Serif Display', serif",
-              fontSize: "clamp(48px, 9.5vw, 124px)",
-              fontWeight: 300,
+              fontFamily: "'Afjat Trends', serif",
+              fontSize: "clamp(36px, 6.5vw, 90px)",
+              fontWeight: 100,
               color: "white",
-              lineHeight: 0.92,
+              lineHeight: 1.2,
               letterSpacing: "-0.01em",
               textShadow: "0 2px 40px rgba(0,0,0,0.18)",
             }}
@@ -83,7 +83,7 @@ export function HeroSection() {
           viewTransition
           className="am-hero-item am-d3 inline-block tracking-[0.35em] uppercase px-10 py-3.5 transition-all duration-300"
           style={{
-            fontFamily: "'Catamaran', sans-serif",
+            fontFamily: "'Afjat Trends', sans-serif",
             fontSize: "10px",
             fontWeight: 500,
             color: "white",

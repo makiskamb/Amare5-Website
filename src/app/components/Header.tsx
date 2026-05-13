@@ -98,7 +98,7 @@ export function Header() {
             viewTransition
             className="hidden md:inline-block tracking-[0.28em] uppercase px-5 py-2 transition-all duration-300"
             style={{
-              fontFamily: "'Catamaran', sans-serif",
+              fontFamily: "'Afjat Trends', sans-serif",
               fontSize: "10px",
               fontWeight: 500,
               color: textLight ? "white" : "#3a3028",
@@ -134,7 +134,7 @@ export function Header() {
               onClick={() => setMenuOpen(false)}
               className={`group relative text-[#3a3028] py-2 transition-all duration-300 hover:tracking-widest hover:opacity-60${menuOpen ? " am-menu-item" : ""}`}
               style={{
-                fontFamily: "'Noto Serif Display', serif",
+                fontFamily: "'Afjat Trends', serif",
                 fontSize: "clamp(32px, 5vw, 56px)",
                 fontWeight: 400,
                 letterSpacing: "0.02em",
@@ -155,7 +155,7 @@ export function Header() {
             viewTransition
             onClick={() => setMenuOpen(false)}
             className={`mt-8 uppercase tracking-[0.35em] border border-[#3a3028]/30 px-10 py-3 hover:bg-[#3a3028] hover:text-white transition-all duration-300${menuOpen ? " am-menu-item" : ""}`}
-            style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500, color: "#3a3028", animationDelay: menuOpen ? `${navItems.length * 0.07}s` : "0s" }}
+            style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500, color: "#3a3028", animationDelay: menuOpen ? `${navItems.length * 0.07}s` : "0s" }}
           >
             {t.nav.bookNow}
           </Link>
@@ -187,7 +187,7 @@ export function Header() {
             <button
               onClick={() => setLang(lang === "en" ? "gr" : "en")}
               className="uppercase tracking-[0.25em] text-[#9A8B7A] hover:text-[#3a3028] transition-colors duration-300"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
             >
               {lang === "en" ? "ΕΛ" : "EN"}
             </button>

@@ -27,7 +27,7 @@ export function Footer() {
         <div className="max-w-md mx-auto mb-16">
           <p
             className="text-center mb-5 uppercase tracking-[0.3em] text-white/50"
-            style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+            style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
           >
             {t.footer.stayInTouch}
           </p>
@@ -38,11 +38,11 @@ export function Footer() {
               onChange={(e) => setEmail(e.target.value)}
               placeholder={t.footer.emailPlaceholder}
               className="flex-1 bg-transparent border-b border-white/20 px-2 py-2 outline-none text-white placeholder:text-white/30"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "13px" }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "13px" }}
             />
             <button
               className="uppercase tracking-[0.3em] border border-white/20 px-5 py-2 text-white/70 hover:text-white hover:border-white/40 transition-colors"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
             >
               {t.footer.subscribe}
             </button>
@@ -63,7 +63,7 @@ export function Footer() {
               key={item.href}
               to={item.href}
               className="text-white/40 hover:text-white/80 transition-colors uppercase tracking-[0.25em]"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", fontWeight: 500 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", fontWeight: 500 }}
             >
               {item.label}
             </Link>
@@ -75,7 +75,7 @@ export function Footer() {
           <div>
             <p
               className="uppercase tracking-[0.3em] mb-4 text-white/40"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
             >
               {t.footer.locationLabel}
             </p>
@@ -91,7 +91,7 @@ export function Footer() {
           <div>
             <p
               className="uppercase tracking-[0.3em] mb-4 text-white/40"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
             >
               {t.footer.contactLabel}
             </p>
@@ -107,7 +107,7 @@ export function Footer() {
           <div>
             <p
               className="uppercase tracking-[0.3em] mb-4 text-white/40"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
             >
               {t.footer.followUsLabel}
             </p>
@@ -141,7 +141,7 @@ export function Footer() {
               to={link.href}
               viewTransition
               className="text-white/30 hover:text-white/60 transition-colors"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 400 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 400 }}
             >
               {link.label}
             </Link>
@@ -151,7 +151,7 @@ export function Footer() {
         <div className="border-t border-white/10 pt-6 flex flex-col items-center gap-4">
           <p
             className="text-center text-white/25"
-            style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px" }}
+            style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px" }}
           >
             {t.footer.copyright}
           </p>
@@ -163,7 +163,7 @@ export function Footer() {
           >
             <span
               className="text-white uppercase tracking-[0.3em]"
-              style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", fontWeight: 500 }}
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", fontWeight: 500 }}
             >
               Powered by
             </span>

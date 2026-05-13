@@ -40,7 +40,7 @@ export function DiningPage() {
                   <p
                     className="uppercase tracking-[0.3em] mb-1"
                     style={{
-                      fontFamily: "'Catamaran', sans-serif",
+                      fontFamily: "'Afjat Trends', sans-serif",
                       fontSize: "9px",
                       color: "#9A8B7A",
                       fontWeight: 500,
@@ -50,7 +50,7 @@ export function DiningPage() {
                   </p>
                   <p
                     style={{
-                      fontFamily: "'Noto Serif Display', serif",
+                      fontFamily: "'Afjat Trends', serif",
                       fontSize: "16px",
                       color: "#3a3028",
                     }}
@@ -90,7 +90,7 @@ export function DiningPage() {
                 <p
                   className="uppercase tracking-[0.4em] mb-5"
                   style={{
-                    fontFamily: "'Catamaran', sans-serif",
+                    fontFamily: "'Afjat Trends', sans-serif",
                     fontSize: "9px",
                     color: "#9A8B7A",
                     fontWeight: 500,
@@ -101,7 +101,7 @@ export function DiningPage() {
                 <h2
                   className="mb-6"
                   style={{
-                    fontFamily: "'Noto Serif Display', serif",
+                    fontFamily: "'Afjat Trends', serif",
                     fontSize: "clamp(22px, 3vw, 38px)",
                     color: "#3a3028",
                     fontWeight: 400,
@@ -133,7 +133,7 @@ export function DiningPage() {
           <p
             className="uppercase tracking-[0.4em] mb-3"
             style={{
-              fontFamily: "'Catamaran', sans-serif",
+              fontFamily: "'Afjat Trends', sans-serif",
               fontSize: "9px",
               color: "#9A8B7A",
               fontWeight: 500,

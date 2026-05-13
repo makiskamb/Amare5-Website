@@ -10,14 +10,14 @@ export function NotFoundPage() {
       <img src={logoImg} alt="Amare5" className="h-12 w-auto brightness-0 opacity-40 mb-10" />
       <p
         className="uppercase tracking-[0.5em] mb-4"
-        style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", color: "#9A8B7A", fontWeight: 500 }}
+        style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", color: "#9A8B7A", fontWeight: 500 }}
       >
         404
       </p>
       <h1
         className="mb-6"
         style={{
-          fontFamily: "'Noto Serif Display', serif",
+          fontFamily: "'Afjat Trends', serif",
           fontSize: "clamp(28px, 4vw, 48px)",
           color: "#3a3028",
           fontWeight: 400,
@@ -34,7 +34,7 @@ export function NotFoundPage() {
       <Link
         to="/"
         className="uppercase tracking-[0.3em] border border-[#3a3028]/30 px-8 py-3 hover:bg-[#3a3028]/5 transition-colors"
-        style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", color: "#3a3028", fontWeight: 500 }}
+        style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", color: "#3a3028", fontWeight: 500 }}
       >
         Return Home
       </Link>

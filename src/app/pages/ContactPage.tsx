@@ -11,7 +11,7 @@ function FAQItem({ question, answer, index }: { question: string; answer: string
         onClick={() => setOpen((o) => !o)}
         className="w-full flex items-center justify-between py-6 text-left group"
       >
-        <span style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(15px, 2vw, 18px)", color: "#3a3028", fontWeight: 400 }}>
+        <span style={{ fontFamily: "'Afjat Trends', serif", fontSize: "clamp(15px, 2vw, 18px)", color: "#3a3028", fontWeight: 400 }}>
           {question}
         </span>
         <span
@@ -67,13 +67,13 @@ export function ContactPage() {
   };
 
   const inputStyle = {
-    fontFamily: "'Catamaran', sans-serif",
+    fontFamily: "'Afjat Trends', sans-serif",
     fontSize: "13px",
     color: "#3a3028",
   };
 
   const labelStyle: React.CSSProperties = {
-    fontFamily: "'Catamaran', sans-serif",
+    fontFamily: "'Afjat Trends', sans-serif",
     fontSize: "9px",
     color: "#9A8B7A",
     fontWeight: 500,
@@ -107,7 +107,7 @@ export function ContactPage() {
       {/* ── How it works ── */}
       <section className="pb-20 px-6 md:px-16" style={{ backgroundColor: "#EDE8E1" }}>
         <div className="max-w-6xl mx-auto">
-          <p className="am-reveal text-center uppercase tracking-[0.5em] mb-12 pt-16" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
+          <p className="am-reveal text-center uppercase tracking-[0.5em] mb-12 pt-16" style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
             How it works
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
@@ -121,10 +121,10 @@ export function ContactPage() {
                 className={`am-reveal am-reveal-d${i + 1} p-10 md:p-14 relative`}
                 style={{ borderLeft: i > 0 ? "1px solid rgba(58,48,40,0.1)" : undefined }}
               >
-                <p className="mb-6" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500, letterSpacing: "0.4em" }}>
+                <p className="mb-6" style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500, letterSpacing: "0.4em" }}>
                   {step}
                 </p>
-                <h3 className="mb-4" style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(22px, 3vw, 32px)", color: "#3a3028", fontWeight: 400 }}>
+                <h3 className="mb-4" style={{ fontFamily: "'Afjat Trends', serif", fontSize: "clamp(22px, 3vw, 32px)", color: "#3a3028", fontWeight: 400 }}>
                   {title}
                 </h3>
                 <p style={{ fontFamily: "'Nanum Myeongjo', serif", fontSize: "14px", color: "#3a3028", lineHeight: 2, opacity: 0.75 }}>
@@ -147,7 +147,7 @@ export function ContactPage() {
                 <div className="w-12 h-px bg-[#9A8B7A] mb-6" />
                 <p
                   style={{
-                    fontFamily: "'Noto Serif Display', serif",
+                    fontFamily: "'Afjat Trends', serif",
                     fontSize: "22px",
                     color: "#3a3028",
                     fontWeight: 400,
@@ -265,7 +265,7 @@ export function ContactPage() {
                 <button
                   type="submit"
                   className="w-full uppercase tracking-[0.35em] border border-[#3a3028]/30 py-4 hover:bg-[#3a3028] hover:text-white hover:border-[#3a3028] transition-all duration-300"
-                  style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500, color: "#3a3028" }}
+                  style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500, color: "#3a3028" }}
                 >
                   {pc.form.submit}
                 </button>
@@ -315,24 +315,24 @@ export function ContactPage() {
               <div className="grid grid-cols-2 gap-6">
                 <div>
                   <p className="uppercase tracking-[0.2em] mb-1"
-                    style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
+                    style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
                     Check-In
                   </p>
-                  <p style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "16px", color: "#3a3028" }}>
+                  <p style={{ fontFamily: "'Afjat Trends', serif", fontSize: "16px", color: "#3a3028" }}>
                     From 15:00
                   </p>
                 </div>
                 <div>
                   <p className="uppercase tracking-[0.2em] mb-1"
-                    style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
+                    style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
                     Check-Out
                   </p>
-                  <p style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "16px", color: "#3a3028" }}>
+                  <p style={{ fontFamily: "'Afjat Trends', serif", fontSize: "16px", color: "#3a3028" }}>
                     Until 11:00
                   </p>
                 </div>
               </div>
-              <p className="mt-3" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "11px", color: "#9A8B7A", lineHeight: 1.7 }}>
+              <p className="mt-3" style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "11px", color: "#9A8B7A", lineHeight: 1.7 }}>
                 Early check-in & late check-out available upon request.
               </p>
             </div>
@@ -365,7 +365,7 @@ export function ContactPage() {
               </div>
               <p
                 className="mt-2 text-right"
-                style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", color: "#9A8B7A" }}
+                style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", color: "#9A8B7A" }}
               >
                 Limenaria, Thassos — 40.5934° N, 24.5647° E
               </p>
@@ -388,7 +388,7 @@ export function ContactPage() {
                     rel="noopener noreferrer"
                     className="am-nav-link hover:opacity-50 transition-opacity"
                     style={{
-                      fontFamily: "'Catamaran', sans-serif",
+                      fontFamily: "'Afjat Trends', sans-serif",
                       fontSize: "11px",
                       color: "#3a3028",
                       letterSpacing: "0.05em",
@@ -405,10 +405,10 @@ export function ContactPage() {
       {/* ── FAQ ── */}
       <section className="py-24 px-6 md:px-16" style={{ backgroundColor: "#EDE8E1" }}>
         <div className="max-w-3xl mx-auto">
-          <p className="am-reveal uppercase tracking-[0.5em] mb-3 text-center" style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
+          <p className="am-reveal uppercase tracking-[0.5em] mb-3 text-center" style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", color: "#9A8B7A", fontWeight: 500 }}>
             FAQ
           </p>
-          <h2 className="am-reveal am-reveal-d1 text-center mb-16" style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "clamp(24px, 3.5vw, 38px)", color: "#3a3028", fontWeight: 400 }}>
+          <h2 className="am-reveal am-reveal-d1 text-center mb-16" style={{ fontFamily: "'Afjat Trends', serif", fontSize: "clamp(24px, 3.5vw, 38px)", color: "#3a3028", fontWeight: 400 }}>
             Frequently Asked Questions
           </h2>
           <div className="space-y-0">

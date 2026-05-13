@@ -1,7 +1,7 @@
 import { useLanguage } from "../context/LanguageContext";
 
 const overlineStyle: React.CSSProperties = {
-  fontFamily: "'Catamaran', sans-serif",
+  fontFamily: "'Afjat Trends', sans-serif",
   fontSize: "10px",
   fontWeight: 500,
   letterSpacing: "0.35em",
@@ -10,7 +10,7 @@ const overlineStyle: React.CSSProperties = {
 };
 
 const sectionHeadingStyle: React.CSSProperties = {
-  fontFamily: "'Noto Serif Display', serif",
+  fontFamily: "'Afjat Trends', serif",
   fontSize: "22px",
   fontWeight: 400,
   color: "#3a3028",
@@ -28,13 +28,13 @@ const bodyStyle: React.CSSProperties = {
 };
 
 const lastUpdatedStyle: React.CSSProperties = {
-  fontFamily: "'Catamaran', sans-serif",
+  fontFamily: "'Afjat Trends', sans-serif",
   fontSize: "10px",
   color: "#9A8B7A",
 };
 
 const subHeadingStyle: React.CSSProperties = {
-  fontFamily: "'Catamaran', sans-serif",
+  fontFamily: "'Afjat Trends', sans-serif",
   fontSize: "10px",
   fontWeight: 600,
   letterSpacing: "0.2em",
@@ -60,7 +60,7 @@ export function CookiePolicyPage() {
         </p>
         <h1
           style={{
-            fontFamily: "'Noto Serif Display', serif",
+            fontFamily: "'Afjat Trends', serif",
             fontSize: "clamp(36px, 5vw, 64px)",
             fontWeight: 400,
             color: "#3a3028",

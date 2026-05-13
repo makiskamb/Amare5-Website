@@ -39,12 +39,12 @@ export const translations = {
       materials: ["Natural Stone", "Local Wood", "Earth Plaster", "Handmade Details"],
     },
     dining: {
-      label: "Culinary",
-      title1: "Al Fresco",
-      title2: "Dining",
-      body: "Savor the flavors of the Mediterranean under wooden pergolas, surrounded by stone and nature. Fresh local ingredients, Thassos honey, handpicked herbs, and the finest olive oil create an unforgettable culinary journey steps from the Aegean.",
-      breakfast: "Breakfast",
-      dinner: "Dinner",
+      label: "Private Dining",
+      title1: "Your Own",
+      title2: "Private Chef",
+      body: "Each villa is equipped with a fully open kitchen, crafted for the most intimate culinary experiences. Bring your own private chef and make it entirely yours — or let us arrange one for you. Bespoke dining under the stars, at your own pace.",
+      option1: "Bring Your Chef",
+      option2: "We Arrange Yours",
     },
     experiences: {
       label: "Live Your Story",
@@ -181,6 +181,8 @@ export const translations = {
         heroSubtitle: "Private Residences",
         intro:
           "Five meticulously designed boutique villas, each with its own character, private pool, and panoramic views. Choose your sanctuary.",
+        intro2:
+          "Each residence is a private world — stone walls, natural light, and a pool that dissolves into the horizon. From intimate hideaways to expansive retreats, every villa is designed to feel entirely your own.",
         bookVilla: "Book This Villa",
         viewAll: "All Villas",
         featuresLabel: "Features",
@@ -219,27 +221,25 @@ export const translations = {
       },
       dining: {
         heroTitle: "Dining",
-        heroSubtitle: "Culinary",
+        heroSubtitle: "Private Dining",
         intro:
-          "A culinary journey rooted in the flavours of the Aegean, crafted with the finest local ingredients.",
+          "Each villa is equipped with a fully open kitchen, crafted for the most intimate culinary experiences.",
         sections: [
           {
-            title: "Breakfast by the Sea",
-            body: "Begin each morning with a seasonal breakfast served on your private terrace. Freshly baked bread, local honey, Thassos olives, and cold-pressed olive oil, accompanied by the sound of the sea. Our breakfasts change with the seasons, reflecting what is freshest from the island's producers and growers.",
+            title: "Your Own Open Kitchen",
+            body: "Every villa at Amare5 features a beautifully designed, fully equipped open kitchen — crafted for those who love to cook, entertain, and savour. Whether you are preparing a simple breakfast at dawn or an elaborate feast for the evening, the kitchen is entirely yours.",
           },
           {
-            title: "Al Fresco Dinners",
-            body: "As the sun sets over the Aegean, our private dining experience comes to life under the wooden pergolas. A rotating menu inspired by the Mediterranean, featuring fresh fish from local fishermen, vine-ripened tomatoes, aromatic mountain herbs, and the finest Thassos olive oil. Dinner at Amare5 is not just a meal — it is a ritual.",
+            title: "Bring Your Private Chef",
+            body: "Invite your own private chef to take over the kitchen and craft a bespoke culinary experience tailored entirely to your tastes. From intimate dinners for two to lavish family gatherings under the stars, your chef, your menu, your moment.",
           },
           {
-            title: "In-Villa Dining",
-            body: "For a more intimate experience, our culinary team can bring the full Amare5 dining experience directly to your villa. From a romantic candlelit dinner to a family feast under the stars, every meal is a celebration of the Mediterranean table, prepared with passion and served with care.",
+            title: "We Arrange Everything",
+            body: "Prefer to leave it all to us? Our concierge will source and arrange a top-calibre private chef on your behalf — one who understands the local ingredients of Thassos and can create a menu that truly reflects the island. Simply arrive and enjoy.",
           },
         ],
-        breakfastTime: "08:00 — 11:00",
-        dinnerTime: "19:00 — 23:00",
-        breakfast: "Breakfast",
-        dinner: "Dinner",
+        option1: "Bring Your Chef",
+        option2: "We Arrange Yours",
         specialDietary: "Dietary requirements",
         specialDietaryNote: "We cater to all dietary requirements. Please inform us of any allergies or preferences at the time of booking.",
       },
@@ -248,6 +248,8 @@ export const translations = {
         heroSubtitle: "Live Your Story",
         intro:
           "Every moment at Amare5 is an opportunity to immerse yourself in the natural beauty, culture and flavours of Thassos.",
+        intro2:
+          "From the crystalline waters of the Aegean to the ancient pine forests of the island, every day brings a new invitation to explore, unwind, and be moved by the world around you.",
         items: [
           {
             title: "Private Beach Access",
@@ -279,6 +281,8 @@ export const translations = {
         heroTitle: "Gallery",
         heroSubtitle: "Moments of Amare",
         intro: "A visual journey through the architecture, landscapes, and moments that define Amare5.",
+        intro2:
+          "Stone, light, water, and the endless blue of the Aegean — these images tell the story of Amare5 as no words can.",
       },
       contact: {
         heroTitle: "Contact",
@@ -343,12 +347,12 @@ export const translations = {
       materials: ["Φυσική Πέτρα", "Τοπικό Ξύλο", "Επίχρισμα Γης", "Χειροποίητες Λεπτομέρειες"],
     },
     dining: {
-      label: "Γαστρονομία",
-      title1: "Γεύματα στον",
-      title2: "Ανοιχτό Αέρα",
-      body: "Απολαύστε τις γεύσεις της Μεσογείου κάτω από ξύλινες πέργκολες, περιτριγυρισμένοι από πέτρα και φύση. Φρέσκα τοπικά υλικά, μέλι Θάσου, αρωματικά βότανα και εκλεκτό ελαιόλαδο δημιουργούν ένα αξέχαστο γαστρονομικό ταξίδι.",
-      breakfast: "Πρωινό",
-      dinner: "Δείπνο",
+      label: "Ιδιωτική Γαστρονομία",
+      title1: "Ο Δικός σας",
+      title2: "Ιδιωτικός Σεφ",
+      body: "Κάθε βίλα διαθέτει πλήρως εξοπλισμένη ανοιχτή κουζίνα, σχεδιασμένη για τις πιο οικείες γαστρονομικές εμπειρίες. Φέρτε τον δικό σας ιδιωτικό σεφ και κάντε την εμπειρία εντελώς δική σας — ή αφήστε μας να κανονίσουμε έναν για εσάς. Αποκλειστικό δείπνο κάτω από τα αστέρια, με τον δικό σας ρυθμό.",
+      option1: "Φέρτε τον Σεφ σας",
+      option2: "Εμείς Κανονίζουμε",
     },
     experiences: {
       label: "Ζήστε την Ιστορία σας",
@@ -485,6 +489,8 @@ export const translations = {
         heroSubtitle: "Ιδιωτικές Κατοικίες",
         intro:
           "Πέντε με επιμέλεια σχεδιασμένες boutique βίλες, η καθεμία με τον δικό της χαρακτήρα, ιδιωτική πισίνα και πανοραμική θέα. Διαλέξτε το καταφύγιό σας.",
+        intro2:
+          "Κάθε κατοικία είναι ένας ιδιωτικός κόσμος — πέτρινοι τοίχοι, φυσικό φως και μια πισίνα που χάνεται στον ορίζοντα. Από οικείες κρυψώνες έως ευρύχωρες αποδράσεις, κάθε βίλα σχεδιάστηκε να νιώθεται απόλυτα δική σας.",
         bookVilla: "Κράτηση Βίλας",
         viewAll: "Όλες οι Βίλες",
         featuresLabel: "Χαρακτηριστικά",
@@ -523,27 +529,25 @@ export const translations = {
       },
       dining: {
         heroTitle: "Γαστρονομία",
-        heroSubtitle: "Γευστικές Απολαύσεις",
+        heroSubtitle: "Ιδιωτική Γαστρονομία",
         intro:
-          "Ένα γαστρονομικό ταξίδι ριζωμένο στις γεύσεις του Αιγαίου, φτιαγμένο με τα καλύτερα τοπικά υλικά.",
+          "Κάθε βίλα διαθέτει πλήρως εξοπλισμένη ανοιχτή κουζίνα, σχεδιασμένη για τις πιο οικείες γαστρονομικές εμπειρίες.",
         sections: [
           {
-            title: "Πρωινό δίπλα στη Θάλασσα",
-            body: "Ξεκινήστε κάθε πρωί με ένα εποχιακό πρωινό σερβιρισμένο στη βεράντα σας. Φρεσκοψημένο ψωμί, τοπικό μέλι, ελιές Θάσου και κρύο ελαιόλαδο, συνοδεία του ήχου της θάλασσας. Τα πρωινά μας αλλάζουν με τις εποχές, αντικατοπτρίζοντας ό,τι είναι πιο φρέσκο.",
+            title: "Η Ανοιχτή σας Κουζίνα",
+            body: "Κάθε βίλα στο Amare5 διαθέτει μια όμορφα σχεδιασμένη, πλήρως εξοπλισμένη ανοιχτή κουζίνα — φτιαγμένη για όσους αγαπούν το μαγείρεμα, τη φιλοξενία και τη γεύση. Είτε ετοιμάζετε ένα απλό πρωινό στην αυγή είτε ένα εκλεπτυσμένο δείπνο το βράδυ, η κουζίνα είναι εξ ολοκλήρου δική σας.",
           },
           {
-            title: "Γεύματα στον Ανοιχτό Αέρα",
-            body: "Καθώς ο ήλιος δύει πάνω από το Αιγαίο, η εμπειρία του ιδιωτικού δείπνου ζωντανεύει κάτω από τις ξύλινες πέργκολες. Ένα εναλλασσόμενο μενού εμπνευσμένο από τη Μεσόγειο, με φρέσκο ψάρι από τοπικούς ψαράδες, ντομάτες και αρωματικά βότανα. Το δείπνο στο Amare5 δεν είναι απλώς γεύμα — είναι τελετουργικό.",
+            title: "Φέρτε τον Ιδιωτικό σας Σεφ",
+            body: "Προσκαλέστε τον δικό σας ιδιωτικό σεφ να αναλάβει την κουζίνα και να δημιουργήσει μια αποκλειστική γαστρονομική εμπειρία, προσαρμοσμένη πλήρως στα γούστα σας. Από οικεία δείπνα για δύο έως μεγάλες οικογενειακές γιορτές κάτω από τα αστέρια, ο σεφ σας, το μενού σας, η στιγμή σας.",
           },
           {
-            title: "Δείπνο στη Βίλα",
-            body: "Για μια πιο οικεία εμπειρία, η γαστρονομική μας ομάδα μπορεί να φέρει την πλήρη εμπειρία γεύματος Amare5 απευθείας στη βίλα σας. Από ένα ρομαντικό δείπνο με κεριά έως μια οικογενειακή γιορτή κάτω από τα αστέρια, κάθε γεύμα είναι μια γιορτή.",
+            title: "Εμείς Φροντίζουμε τα Πάντα",
+            body: "Προτιμάτε να αφήσετε τα πάντα σε εμάς; Το κονσιέρζ μας θα βρει και θα κανονίσει έναν κορυφαίο ιδιωτικό σεφ για εσάς — κάποιον που γνωρίζει τα τοπικά υλικά της Θάσου και μπορεί να δημιουργήσει ένα μενού που αντικατοπτρίζει πραγματικά το νησί. Απλώς φτάστε και απολαύστε.",
           },
         ],
-        breakfastTime: "08:00 — 11:00",
-        dinnerTime: "19:00 — 23:00",
-        breakfast: "Πρωινό",
-        dinner: "Δείπνο",
+        option1: "Φέρτε τον Σεφ σας",
+        option2: "Εμείς Κανονίζουμε",
         specialDietary: "Διατροφικές ανάγκες",
         specialDietaryNote: "Καλύπτουμε όλες τις διατροφικές ανάγκες. Παρακαλούμε ενημερώστε μας για τυχόν αλλεργίες κατά την κράτηση.",
       },
@@ -552,6 +556,8 @@ export const translations = {
         heroSubtitle: "Ζήστε την Ιστορία σας",
         intro:
           "Κάθε στιγμή στο Amare5 είναι μια ευκαιρία να βυθιστείτε στη φυσική ομορφιά, τον πολιτισμό και τις γεύσεις της Θάσου.",
+        intro2:
+          "Από τα κρυστάλλινα νερά του Αιγαίου έως τα αρχαία πευκοδάση του νησιού, κάθε μέρα φέρνει μια νέα πρόσκληση να εξερευνήσετε, να χαλαρώσετε και να αφεθείτε στον κόσμο γύρω σας.",
         items: [
           {
             title: "Ιδιωτική Πρόσβαση στην Παραλία",
@@ -583,6 +589,8 @@ export const translations = {
         heroTitle: "Γκαλερί",
         heroSubtitle: "Στιγμές Amare",
         intro: "Ένα οπτικό ταξίδι μέσα από την αρχιτεκτονική, τα τοπία και τις στιγμές που ορίζουν το Amare5.",
+        intro2:
+          "Πέτρα, φως, νερό και το ατέλειωτο γαλάζιο του Αιγαίου — αυτές οι εικόνες αφηγούνται την ιστορία του Amare5 όπως δεν μπορούν τα λόγια.",
       },
       contact: {
         heroTitle: "Επικοινωνία",

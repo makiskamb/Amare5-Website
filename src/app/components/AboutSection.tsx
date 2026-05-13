@@ -7,94 +7,121 @@ export function AboutSection() {
   const { t } = useLanguage();
 
   return (
-    <section id="about" className="py-24 md:py-36 px-6 md:px-16" style={{ backgroundColor: "#F5F0EB" }}>
-      <div className="max-w-6xl mx-auto">
-        {/* Welcome Label */}
+    <section id="about" style={{ backgroundColor: "#F5F0EB" }}>
+
+      {/* ── Top breathing room ── */}
+      <div style={{ height: "clamp(32px, 4vw, 60px)" }} />
+
+      {/* ── Label ── */}
+      <div className="am-reveal text-center px-6 mb-10">
         <p
-          className="am-reveal text-center uppercase tracking-[0.5em] mb-4"
-          style={{
-            fontFamily: "'Catamaran', sans-serif",
-            fontSize: "11px",
-            color: "#9A8B7A",
-            fontWeight: 500,
-          }}
+          className="uppercase tracking-[0.5em]"
+          style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "11px", color: "#9A8B7A", fontWeight: 500 }}
         >
           {t.about.label}
         </p>
-        <h2
-          className="am-reveal am-reveal-d1 text-center mb-16"
+      </div>
+
+      {/* ── Oversized stacked editorial headline — touches the image below ── */}
+      <div className="am-reveal am-reveal-d1 px-4 overflow-hidden relative z-[2]"
+        style={{ marginBottom: "clamp(-32px, -3.5vw, -20px)" }}>
+        <div
           style={{
-            fontFamily: "'Noto Serif Display', serif",
-            fontSize: "clamp(32px, 4.5vw, 56px)",
-            color: "#3a3028",
+            fontFamily: "'Afjat Trends', serif",
+            fontSize: "clamp(52px, 9.5vw, 136px)",
             fontWeight: 400,
-            lineHeight: 1.15,
+            color: "#3a3028",
+            lineHeight: 0.93,
+            letterSpacing: "-0.01em",
           }}
         >
-          {t.about.title}
-        </h2>
+          <div style={{ marginLeft: "clamp(0px, 2vw, 36px)" }}>A</div>
+          <div style={{ marginLeft: "clamp(48px, 9vw, 148px)" }}>Seaside</div>
+          <div style={{ marginLeft: "clamp(16px, 4vw, 72px)" }}>Sanctuary</div>
+        </div>
+      </div>
 
-        {/* Two column layout */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center mb-20">
+      {/* ── Asymmetric layout: tall image left · text floats right, offset down ── */}
+      <div className="relative z-[1]">
+        <div
+          className="grid grid-cols-1 md:grid-cols-2 items-start"
+          style={{ gap: "clamp(28px, 5vw, 80px)" }}
+        >
+          {/* Left: tall portrait image — full bleed to left edge */}
           <div className="am-reveal">
             <img
               loading="lazy"
               src={aerialView}
               alt="Amare5 boutique villas complex aerial view"
-              className="w-full h-[300px] md:h-[450px] object-cover"
+              style={{
+                width: "100%",
+                height: "clamp(360px, 52vw, 680px)",
+                objectFit: "cover",
+                display: "block",
+              }}
             />
           </div>
-          <div>
+
+          {/* Right: text floats down — editorial offset */}
+          <div
+            className="am-reveal am-reveal-d1 px-8 md:px-12"
+            style={{ paddingTop: "clamp(0px, 16vw, 240px)" }}
+          >
             <p
-              className="am-reveal mb-6"
               style={{
                 fontFamily: "'Nanum Myeongjo', serif",
                 fontSize: "15px",
                 color: "#3a3028",
-                lineHeight: 2,
+                lineHeight: 2.1,
                 letterSpacing: "0.02em",
+                opacity: 0.85,
+                marginBottom: "1.75rem",
               }}
             >
               {t.about.p1}
             </p>
             <p
-              className="am-reveal am-reveal-d1 mb-8"
               style={{
                 fontFamily: "'Nanum Myeongjo', serif",
                 fontSize: "15px",
                 color: "#3a3028",
-                lineHeight: 2,
+                lineHeight: 2.1,
                 letterSpacing: "0.02em",
+                opacity: 0.85,
+                marginBottom: "3rem",
               }}
             >
               {t.about.p2}
             </p>
             <Link
               to="/villas"
-              className="inline-block uppercase tracking-[0.3em] border-b border-[#9A8B7A]/40 pb-1 hover:border-[#3a3028] transition-colors"
-              style={{
-                fontFamily: "'Catamaran', sans-serif",
-                fontSize: "10px",
-                color: "#3a3028",
-                fontWeight: 500,
-              }}
+              className="inline-block uppercase tracking-[0.35em] border-b border-[#9A8B7A]/40 pb-1 hover:border-[#3a3028] transition-colors duration-300"
+              style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", color: "#3a3028", fontWeight: 500 }}
             >
               {t.about.cta}
             </Link>
           </div>
         </div>
-
-        {/* Full width beachfront image */}
-        <div className="am-reveal relative">
-          <img
-            loading="lazy"
-            src={beachfrontView}
-            alt="Amare5 beachfront view with cabanas and stone villas"
-            className="w-full h-[250px] md:h-[400px] object-cover"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#F5F0EB]/20 to-transparent" />
-        </div>
       </div>
+
+      {/* ── Breathing space before full-bleed ── */}
+      <div style={{ height: "clamp(80px, 12vw, 160px)" }} />
+
+      {/* ── Full-bleed edge-to-edge image ── */}
+      <div className="am-reveal" style={{ lineHeight: 0 }}>
+        <img
+          loading="lazy"
+          src={beachfrontView}
+          alt="Amare5 beachfront view with cabanas and stone villas"
+          style={{
+            width: "100%",
+            height: "clamp(280px, 46vw, 620px)",
+            objectFit: "cover",
+            display: "block",
+          }}
+        />
+      </div>
+
     </section>
   );
 }

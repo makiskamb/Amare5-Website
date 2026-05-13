@@ -95,7 +95,7 @@ export function BookPage() {
   };
 
   const labelStyle: React.CSSProperties = {
-    fontFamily: "'Catamaran', sans-serif",
+    fontFamily: "'Afjat Trends', sans-serif",
     fontSize: "9px",
     color: "#9A8B7A",
     fontWeight: 500,
@@ -109,13 +109,13 @@ export function BookPage() {
     "w-full bg-transparent border-b border-[#3a3028]/18 py-3 outline-none focus:border-[#3a3028] transition-colors placeholder:text-[#3a3028]/25";
 
   const inputStyle = {
-    fontFamily: "'Catamaran', sans-serif",
+    fontFamily: "'Afjat Trends', sans-serif",
     fontSize: "13px",
     color: "#3a3028",
   };
 
   const sectionLabelStyle = {
-    fontFamily: "'Catamaran', sans-serif",
+    fontFamily: "'Afjat Trends', sans-serif",
     fontSize: "10px",
     color: "#9A8B7A",
     fontWeight: 500 as const,
@@ -137,7 +137,7 @@ export function BookPage() {
           <div className="w-12 h-px bg-[#9A8B7A] mx-auto mb-8" />
           <p
             style={{
-              fontFamily: "'Noto Serif Display', serif",
+              fontFamily: "'Afjat Trends', serif",
               fontSize: "clamp(22px, 3vw, 32px)",
               color: "#3a3028",
               fontWeight: 400,
@@ -208,7 +208,7 @@ export function BookPage() {
                         {/* Index */}
                         <span
                           className="absolute top-3 left-3 text-white/60"
-                          style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+                          style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
                         >
                           0{i + 1}
                         </span>
@@ -220,7 +220,7 @@ export function BookPage() {
                       >
                         <p
                           style={{
-                            fontFamily: "'Noto Serif Display', serif",
+                            fontFamily: "'Afjat Trends', serif",
                             fontSize: "16px",
                             color: "#3a3028",
                             fontWeight: 400,
@@ -232,7 +232,7 @@ export function BookPage() {
                         </p>
                         <p
                           style={{
-                            fontFamily: "'Catamaran', sans-serif",
+                            fontFamily: "'Afjat Trends', sans-serif",
                             fontSize: "10px",
                             color: "#9A8B7A",
                           }}
@@ -247,7 +247,7 @@ export function BookPage() {
               {selectedVilla && (
                 <p
                   className="text-center mt-6"
-                  style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", color: "#9A8B7A", letterSpacing: "0.1em" }}
+                  style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", color: "#9A8B7A", letterSpacing: "0.1em" }}
                 >
                   {isGr ? "Επιλέξατε:" : "Selected:"}{" "}
                   <span style={{ color: "#3a3028" }}>{t.villas[selectedVilla].name}</span>
@@ -338,7 +338,7 @@ export function BookPage() {
                       <div className="flex items-start justify-between gap-4 mb-4">
                         <h4
                           style={{
-                            fontFamily: "'Noto Serif Display', serif",
+                            fontFamily: "'Afjat Trends', serif",
                             fontSize: "17px",
                             color: "#3a3028",
                             fontWeight: 400,
@@ -363,13 +363,13 @@ export function BookPage() {
                         </div>
                       </div>
                       <p
-                        style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "12px", color: "#9A8B7A", lineHeight: 1.6, marginBottom: "8px" }}
+                        style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "12px", color: "#9A8B7A", lineHeight: 1.6, marginBottom: "8px" }}
                       >
                         {isGr ? addon.desc.gr : addon.desc.en}
                       </p>
                       <p
                         style={{
-                          fontFamily: "'Catamaran', sans-serif",
+                          fontFamily: "'Afjat Trends', sans-serif",
                           fontSize: "11px",
                           color: "#3a3028",
                           fontWeight: 500,
@@ -456,7 +456,7 @@ export function BookPage() {
                 <div className="mb-10 pb-10 border-b border-white/10">
                   <p
                     className="uppercase tracking-[0.4em] mb-6 text-white/40"
-                    style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "9px", fontWeight: 500 }}
+                    style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "9px", fontWeight: 500 }}
                   >
                     {isGr ? "Σύνοψη Κράτησης" : "Booking Summary"}
                   </p>
@@ -465,7 +465,7 @@ export function BookPage() {
                       <span style={{ fontFamily: "'Nanum Myeongjo', serif", fontSize: "15px", color: "rgba(255,255,255,0.8)" }}>
                         {t.villas[selectedVilla].name}
                       </span>
-                      <span style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "11px", color: "rgba(255,255,255,0.4)" }}>
+                      <span style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "11px", color: "rgba(255,255,255,0.4)" }}>
                         {t.villas[selectedVilla].desc}
                       </span>
                     </div>
@@ -474,10 +474,10 @@ export function BookPage() {
                     <div className="mt-4 space-y-2">
                       {ADDONS.filter((a) => selectedAddons.has(a.id)).map((addon) => (
                         <div key={addon.id} className="flex justify-between items-center">
-                          <span style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "12px", color: "rgba(255,255,255,0.6)" }}>
+                          <span style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "12px", color: "rgba(255,255,255,0.6)" }}>
                             + {isGr ? addon.label.gr : addon.label.en}
                           </span>
-                          <span style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "11px", color: "rgba(255,255,255,0.35)" }}>
+                          <span style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "11px", color: "rgba(255,255,255,0.35)" }}>
                             {addon.price}
                           </span>
                         </div>
@@ -501,14 +501,14 @@ export function BookPage() {
               <button
                 type="submit"
                 className="w-full uppercase tracking-[0.4em] bg-white text-[#3a3028] py-5 hover:bg-[#F5F0EB] transition-colors duration-300"
-                style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "10px", fontWeight: 500 }}
+                style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", fontWeight: 500 }}
               >
                 {isGr ? "Αποστολή Αιτήματος" : "Send Reservation Request"}
               </button>
 
               <p
                 className="text-center mt-6"
-                style={{ fontFamily: "'Catamaran', sans-serif", fontSize: "11px", color: "rgba(255,255,255,0.3)", lineHeight: 1.7 }}
+                style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "11px", color: "rgba(255,255,255,0.3)", lineHeight: 1.7 }}
               >
                 {isGr ? "Ή καλέστε μας: " : "Or call us: "}
                 <a

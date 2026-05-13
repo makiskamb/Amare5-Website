@@ -28,7 +28,7 @@ export function VillaDetailPage() {
   if (!villa) {
     return (
       <div className="min-h-screen flex items-center justify-center" style={{ backgroundColor: "#F5F0EB" }}>
-        <p style={{ fontFamily: "'Noto Serif Display', serif", color: "#3a3028", fontSize: "24px" }}>
+        <p style={{ fontFamily: "'Afjat Trends', serif", color: "#3a3028", fontSize: "24px" }}>
           Villa not found
         </p>
       </div>
@@ -55,7 +55,7 @@ export function VillaDetailPage() {
             to="/villas"
             className="inline-flex items-center gap-2 uppercase tracking-[0.3em] hover:opacity-60 transition-opacity"
             style={{
-              fontFamily: "'Catamaran', sans-serif",
+              fontFamily: "'Afjat Trends', sans-serif",
               fontSize: "10px",
               color: "#9A8B7A",
               fontWeight: 500,
@@ -75,7 +75,7 @@ export function VillaDetailPage() {
               <p
                 className="uppercase tracking-[0.4em] mb-3"
                 style={{
-                  fontFamily: "'Catamaran', sans-serif",
+                  fontFamily: "'Afjat Trends', sans-serif",
                   fontSize: "10px",
                   color: "#9A8B7A",
                   fontWeight: 500,
@@ -86,7 +86,7 @@ export function VillaDetailPage() {
               <h1
                 className="mb-8"
                 style={{
-                  fontFamily: "'Noto Serif Display', serif",
+                  fontFamily: "'Afjat Trends', serif",
                   fontSize: "clamp(36px, 5vw, 60px)",
                   color: "#3a3028",
                   fontWeight: 400,
@@ -125,7 +125,7 @@ export function VillaDetailPage() {
                 <p
                   className="uppercase tracking-[0.35em] mb-5"
                   style={{
-                    fontFamily: "'Catamaran', sans-serif",
+                    fontFamily: "'Afjat Trends', sans-serif",
                     fontSize: "9px",
                     color: "#9A8B7A",
                     fontWeight: 500,
@@ -139,7 +139,7 @@ export function VillaDetailPage() {
                       <div className="w-1 h-1 rounded-full bg-[#9A8B7A] flex-shrink-0" />
                       <span
                         style={{
-                          fontFamily: "'Catamaran', sans-serif",
+                          fontFamily: "'Afjat Trends', sans-serif",
                           fontSize: "12px",
                           color: "#3a3028",
                           fontWeight: 400,
@@ -157,7 +157,7 @@ export function VillaDetailPage() {
                 to="/contact"
                 className="inline-block uppercase tracking-[0.35em] border border-[#3a3028]/30 px-8 py-3 hover:bg-[#3a3028]/5 transition-all duration-300"
                 style={{
-                  fontFamily: "'Catamaran', sans-serif",
+                  fontFamily: "'Afjat Trends', sans-serif",
                   fontSize: "10px",
                   color: "#3a3028",
                   fontWeight: 500,
@@ -200,7 +200,7 @@ export function VillaDetailPage() {
             >
               <span
                 style={{
-                  fontFamily: "'Noto Serif Display', serif",
+                  fontFamily: "'Afjat Trends', serif",
                   fontSize: "20px",
                   color: "#3a3028",
                 }}
@@ -210,7 +210,7 @@ export function VillaDetailPage() {
               <div>
                 <p
                   style={{
-                    fontFamily: "'Catamaran', sans-serif",
+                    fontFamily: "'Afjat Trends', sans-serif",
                     fontSize: "9px",
                     color: "#9A8B7A",
                     letterSpacing: "0.3em",
@@ -221,7 +221,7 @@ export function VillaDetailPage() {
                 </p>
                 <p
                   style={{
-                    fontFamily: "'Noto Serif Display', serif",
+                    fontFamily: "'Afjat Trends', serif",
                     fontSize: "18px",
                     color: "#3a3028",
                     fontWeight: 400,
@@ -239,7 +239,7 @@ export function VillaDetailPage() {
             to="/villas"
             className="hover:opacity-60 transition-opacity"
             style={{
-              fontFamily: "'Catamaran', sans-serif",
+              fontFamily: "'Afjat Trends', sans-serif",
               fontSize: "9px",
               color: "#9A8B7A",
               letterSpacing: "0.3em",
@@ -257,7 +257,7 @@ export function VillaDetailPage() {
               <div>
                 <p
                   style={{
-                    fontFamily: "'Catamaran', sans-serif",
+                    fontFamily: "'Afjat Trends', sans-serif",
                     fontSize: "9px",
                     color: "#9A8B7A",
                     letterSpacing: "0.3em",
@@ -268,7 +268,7 @@ export function VillaDetailPage() {
                 </p>
                 <p
                   style={{
-                    fontFamily: "'Noto Serif Display', serif",
+                    fontFamily: "'Afjat Trends', serif",
                     fontSize: "18px",
                     color: "#3a3028",
                     fontWeight: 400,
@@ -279,7 +279,7 @@ export function VillaDetailPage() {
               </div>
               <span
                 style={{
-                  fontFamily: "'Noto Serif Display', serif",
+                  fontFamily: "'Afjat Trends', serif",
                   fontSize: "20px",
                   color: "#3a3028",
                 }}

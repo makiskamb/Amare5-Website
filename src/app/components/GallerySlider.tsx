@@ -1,112 +1,146 @@
-import { useState } from "react";
+import { Link } from "react-router";
 import { useLanguage } from "../context/LanguageContext";
-import { ImageWithFallback } from "./figma/ImageWithFallback";
 import aerialView from "../../assets/c9bb529b302b3d2b068711779b6d02c3a4cf6ff6.jpg";
 import beachfrontView from "../../assets/10d9b78e35f7da071d6b0b3f2c0cfaa201fcca30.jpg";
 import firePitLounge from "../../assets/7742f09983c1ef2d446f89278e9befaba32eae6e.jpg";
 import poolArea from "../../assets/f360338b40e15ac219a17663de6ea3766e5dc3d2.jpg";
 import diningArea from "../../assets/2717ed628ed4f4d73050575531c0e1a3eac316c6.jpg";
 
-const slideImages = [aerialView, beachfrontView, firePitLounge, poolArea, diningArea];
-
 export function GallerySlider() {
-  const [current, setCurrent] = useState(0);
   const { t } = useLanguage();
-  const slides = slideImages.map((image, i) => ({
-    image,
-    caption: t.gallery.slides[i] || "",
-  }));
-
-  const next = () => setCurrent((p) => (p + 1) % slides.length);
-  const prev = () => setCurrent((p) => (p - 1 + slides.length) % slides.length);
 
   return (
-    <section id="gallery" className="py-24 md:py-36 px-6 md:px-16" style={{ backgroundColor: "#F5F0EB" }}>
-      <div className="max-w-6xl mx-auto">
-        <p
-          className="text-center uppercase tracking-[0.5em] mb-4"
-          style={{
-            fontFamily: "'Catamaran', sans-serif",
-            fontSize: "11px",
-            color: "#9A8B7A",
-            fontWeight: 500,
-          }}
-        >
+    <section id="gallery" style={{ backgroundColor: "#F5F0EB" }}>
+
+      {/* ── Top breathing room ── */}
+      <div style={{ height: "clamp(80px, 12vw, 160px)" }} />
+
+      {/* ── Label ── */}
+      <div className="am-reveal text-center px-6 mb-10">
+        <p className="uppercase tracking-[0.5em]"
+          style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "11px", color: "#9A8B7A", fontWeight: 500 }}>
           {t.gallery.label}
         </p>
-        <h2
-          className="text-center mb-12"
-          style={{
-            fontFamily: "'Noto Serif Display', serif",
-            fontSize: "clamp(28px, 4vw, 52px)",
-            color: "#3a3028",
-            fontWeight: 400,
-          }}
-        >
-          {t.gallery.title}
-        </h2>
+      </div>
 
-        <div className="relative overflow-hidden">
-          <div className="aspect-[16/9] md:aspect-[21/9] relative">
-            {slides.map((slide, i) => (
-              <div
-                key={i}
-                className="absolute inset-0 transition-opacity duration-700"
-                style={{ opacity: i === current ? 1 : 0 }}
-              >
-                <ImageWithFallback
-                  src={slide.image}
-                  alt={slide.caption}
-                  className="w-full h-full object-cover"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
-              </div>
-            ))}
+      {/* ── Oversized stacked headline — touches image grid below ── */}
+      <div className="am-reveal am-reveal-d1 px-4 overflow-hidden relative z-[2]"
+        style={{ marginBottom: "clamp(-36px, -4vw, -20px)" }}>
+        <div style={{
+          fontFamily: "'Afjat Trends', serif",
+          fontSize: "clamp(52px, 9.5vw, 136px)",
+          fontWeight: 400,
+          color: "#3a3028",
+          lineHeight: 0.92,
+          letterSpacing: "-0.01em",
+        }}>
+          <div style={{ marginLeft: "clamp(0px, 2vw, 36px)" }}>Moments</div>
+          <div style={{ marginLeft: "clamp(48px, 10vw, 160px)" }}>of Amare</div>
+        </div>
+      </div>
+
+      {/* ── Row 1: large landscape + tall portrait — unequal sizes ── */}
+      <div className="relative z-[1]" style={{ lineHeight: 0 }}>
+        <div className="grid grid-cols-2 md:grid-cols-[58fr_42fr] items-end"
+          style={{ gap: "clamp(6px, 1vw, 12px)" }}>
+
+          <div className="am-reveal">
+            <img
+              loading="lazy"
+              src={beachfrontView}
+              alt={t.gallery.slides[1]}
+              style={{
+                width: "100%",
+                height: "clamp(180px, 30vw, 420px)",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
           </div>
 
-          {/* Caption */}
-          <p
-            className="text-center mt-6"
-            style={{
-              fontFamily: "'Nanum Myeongjo', serif",
-              fontSize: "15px",
-              color: "#3a3028",
-              opacity: 0.7,
-            }}
-          >
-            {slides[current].caption}
-          </p>
-
-          {/* Controls */}
-          <div className="flex items-center justify-center gap-6 mt-6">
-            <button
-              onClick={prev}
-              className="text-[#3a3028]/60 hover:text-[#3a3028] transition-colors"
-              style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "28px" }}
-            >
-              &#8249;
-            </button>
-            <div className="flex gap-2">
-              {slides.map((_, i) => (
-                <button
-                  key={i}
-                  onClick={() => setCurrent(i)}
-                  className={`h-2 rounded-full transition-all ${
-                    i === current ? "bg-[#3a3028] w-6" : "bg-[#3a3028]/25 w-2"
-                  }`}
-                />
-              ))}
-            </div>
-            <button
-              onClick={next}
-              className="text-[#3a3028]/60 hover:text-[#3a3028] transition-colors"
-              style={{ fontFamily: "'Noto Serif Display', serif", fontSize: "28px" }}
-            >
-              &#8250;
-            </button>
+          {/* Taller portrait — creates visual tension */}
+          <div className="am-reveal am-reveal-d1">
+            <img
+              loading="lazy"
+              src={poolArea}
+              alt={t.gallery.slides[3]}
+              style={{
+                width: "100%",
+                height: "clamp(260px, 44vw, 580px)",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
           </div>
         </div>
       </div>
+
+      {/* ── Row 2: three images, offset left — irregular rhythm ── */}
+      <div className="mt-3" style={{ lineHeight: 0 }}>
+        <div
+          className="grid grid-cols-1 md:grid-cols-3"
+          style={{
+            gap: "clamp(6px, 1vw, 12px)",
+            marginLeft: "clamp(0px, 5vw, 80px)",
+          }}
+        >
+          <div className="am-reveal">
+            <img
+              loading="lazy"
+              src={aerialView}
+              alt={t.gallery.slides[0]}
+              style={{
+                width: "100%",
+                height: "clamp(160px, 22vw, 300px)",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
+          </div>
+
+          <div className="am-reveal am-reveal-d1">
+            <img
+              loading="lazy"
+              src={firePitLounge}
+              alt={t.gallery.slides[2]}
+              style={{
+                width: "100%",
+                height: "clamp(160px, 22vw, 300px)",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
+          </div>
+
+          <div className="am-reveal am-reveal-d2">
+            <img
+              loading="lazy"
+              src={diningArea}
+              alt={t.gallery.slides[4]}
+              style={{
+                width: "100%",
+                height: "clamp(160px, 22vw, 300px)",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
+          </div>
+        </div>
+      </div>
+
+      {/* ── View full gallery CTA ── */}
+      <div className="am-reveal text-center" style={{ paddingTop: "clamp(48px, 6vw, 80px)" }}>
+        <Link
+          to="/gallery"
+          className="inline-block uppercase tracking-[0.35em] border-b border-[#9A8B7A]/40 pb-1 hover:border-[#3a3028] transition-colors duration-300"
+          style={{ fontFamily: "'Afjat Trends', sans-serif", fontSize: "10px", color: "#3a3028", fontWeight: 500 }}
+        >
+          View Full Gallery
+        </Link>
+      </div>
+
+      {/* ── Bottom breathing room ── */}
+      <div style={{ height: "clamp(80px, 12vw, 160px)" }} />
     </section>
   );
 }
